@@ -144,10 +144,6 @@ fig_ratio_passengers.update_layout(
 
 col1.plotly_chart(fig_ratio_passengers, use_container_width=True, width= 1000)
 
-####################################
-##Fallecidos/Cantidad de pasajeros##
-####################################
-
 diff_value_ratio_accidents_5years = np.diff(data_5years["ratio_fligts"], prepend=0)
 
 # Crear el gráfico de cascada con plotly
@@ -173,16 +169,15 @@ fig_ratio_passengers_5years.add_trace(go.Scatter(
     name='Línea',
     ))
     
-    # Personalizar el gráfico
 fig_ratio_passengers_5years.update_layout(
     title={
-    'text': "Ratio (Fallecidos / Cantidad de pasajeros)* 1.000.000",
+    'text': "Ratio cantidad accidentes por cada 1000000 vuelos",
     'x': 0.5,
     'xanchor': 'center',
     'yanchor': 'top'
 },
-    xaxis_title="Año",
-    yaxis_title="cantidad accidentes por año",
+    xaxis_title="Lustro",
+    yaxis_title="Cantidad accidentes",
 )
 
 col2.plotly_chart(fig_ratio_passengers_5years, use_container_width=True, width= 1000)

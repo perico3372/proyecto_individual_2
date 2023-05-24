@@ -6,10 +6,8 @@ Created on Tue May 23 11:40:14 2023
 @author: pablo
 """
 
-import os
 import numpy as np
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
-import pandas as pd
+
 from pyspark.sql import SparkSession
 import streamlit as st
 import matplotlib.pyplot as plt
@@ -20,19 +18,13 @@ col1, col2 = st.columns(2)
 
 data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv")
 
-
-
-
 ####################################
 ##Fallecidos/Cantidad de pasajeros##
 ####################################
 
-
 limite_inferior_ratio_fatalities = st.slider("Definir limite inferior(Año)", 1969, 1980, 2021)
 data_ratio_passengers = data[data['year'] > limite_inferior_ratio_fatalities]
 diff_value_ratio_passengers = np.diff(data_ratio_passengers["ratio_passengers"], prepend=0)
-
-#diff_value_passengers = np.diff(data["ratio_passengers"], prepend=0)
 
 # Crear el gráfico de cascada con plotly
 
@@ -66,25 +58,13 @@ fig_ratio_passengers.update_layout(
 
 col1.plotly_chart(fig_ratio_passengers, use_container_width=True, width= 1000)
 
-
-
-
-
-
-
-data_5years = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv")
-
-
+data_5years = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv")
 
 ####################################
 ##Fallecidos/Cantidad de pasajeros##
 ####################################
 
-
-
 diff_value_ratio_passengers_5years = np.diff(data_5years["ratio_passengers"], prepend=0)
-
-
 
 # Crear el gráfico de cascada con plotly
 
@@ -118,9 +98,6 @@ fig_ratio_passengers_5years.update_layout(
 
 col2.plotly_chart(fig_ratio_passengers_5years, use_container_width=True, width= 1000)
 
-
-
-
 ####################################
 ##Fallecidos/Cantidad de pasajeros##
 ####################################
@@ -129,8 +106,6 @@ col2.plotly_chart(fig_ratio_passengers_5years, use_container_width=True, width= 
 limite_inferior_ratio_accidents = st.slider("Definir limite in(Año)", 1969, 1980, 2021)
 data_ratio_accidents = data[data['year'] > limite_inferior_ratio_accidents]
 diff_value_ratio_accidents = np.diff(data_ratio_accidents["ratio_fligts"], prepend=0)
-
-
 
 # Crear el gráfico de cascada con plotly
 
@@ -169,16 +144,11 @@ fig_ratio_passengers.update_layout(
 
 col1.plotly_chart(fig_ratio_passengers, use_container_width=True, width= 1000)
 
-
-
 ####################################
 ##Fallecidos/Cantidad de pasajeros##
 ####################################
 
-
 diff_value_ratio_accidents_5years = np.diff(data_5years["ratio_fligts"], prepend=0)
-
-
 
 # Crear el gráfico de cascada con plotly
 
@@ -216,9 +186,3 @@ fig_ratio_passengers_5years.update_layout(
 )
 
 col2.plotly_chart(fig_ratio_passengers_5years, use_container_width=True, width= 1000)
-
-
-
-
-
-

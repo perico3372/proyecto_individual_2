@@ -6,28 +6,19 @@ Created on Tue May 23 12:08:56 2023
 @author: pablo
 """
 
-import streamlit as st
-import pandas as pd
+
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-
-
-
-import os
 import numpy as np
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
-import pandas as pd
-from pyspark.sql import SparkSession
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.graph_objects as go
 
-    
-spark = SparkSession.builder.getOrCreate()
-dataframe_final = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv", header=True, inferSchema=True)
+ 
+data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv")
 #dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
-data = dataframe_final.toPandas()
+
 
 ################################################
 ##Cantidad de vuelos y pasajeros transportados##

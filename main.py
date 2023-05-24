@@ -4,7 +4,7 @@
 
 st.markdown("---")
 st.markdown("Proyecto Individual")
-st.markdown("--")
+st.markdown("---")
 st.markdown("Data Analitics")
 st.markdown("---")
 st.markdown("Perez, Pablo Jorge")

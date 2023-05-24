@@ -72,8 +72,8 @@ col1.plotly_chart(fig_ratio_passengers, use_container_width=True, width= 1000)
 
 spark = SparkSession.builder.getOrCreate()
 
-dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_5years.csv", header=True, inferSchema=True)
-data_5years = dataframe_final.toPandas()
+dataframe_5years = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv", header=True, inferSchema=True)
+data_5years = dataframe_5years.toPandas()
 
 
 ####################################

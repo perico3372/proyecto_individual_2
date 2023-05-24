@@ -31,6 +31,6 @@ Desde la principios de la decada del '70 se producido un marcado descenso del ra
 Pude observar que el numero de fallecidos en el año 1972 hubo un incremento en la tendencia que no persistió, en cual se produjeron 12 accidentes con mas de 100 decesos.
 El numero de accidentes disminuyó como el número de fallecidos, en los últimos 50 años.
 
-link dashboard : https://perico3372-proyecto-individual-2-main-20sk14.streamlit.app/
+link dashboard : https://perico3372-proyecto-individual-2-main-20sk14.streamlit.app
 
 Autor: Pérez, Pablo Jorge

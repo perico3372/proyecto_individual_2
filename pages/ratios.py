@@ -51,9 +51,9 @@ fig_ratio_passengers.add_trace(go.Scatter(
     
     # Personalizar el gráfico
 fig_ratio_passengers.update_layout(
-    title="Ratio (Fallecidos / Cantidad de pasajeros)* 1.000.000",
+    title="Ratio fallecidos por pasajeros cada 1.000.000",
     xaxis_title="Año",
-    yaxis_title="cantidad accidentes por año",
+    yaxis_title="Fallecidos",
 )
 
 col1.plotly_chart(fig_ratio_passengers, use_container_width=True, width= 1000)
@@ -92,7 +92,7 @@ fig_ratio_passengers_5years.add_trace(go.Scatter(
     # Personalizar el gráfico
 fig_ratio_passengers_5years.update_layout(
     title="Ratio fallecidos por cada 1.000.000 de pasajeros",
-    xaxis_title="Año",
+    xaxis_title="Lustro",
     yaxis_title="cantidad accidentes por año",
 )
 

@@ -11,7 +11,7 @@ import pandas as pd
 import plotly.express as px
 
 # Leer los datos desde el archivo CSV
-datos = pd.read_csv("mapa.csv")
+datos = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/mapa.csv")
 
 #print()
 

@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 23 12:08:56 2023
-
-@author: pablo
-"""
-
 
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
@@ -13,12 +7,8 @@ import numpy as np
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
-import plotly.graph_objects as go
 
- 
 data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv")
-#dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
-
 
 ################################################
 ##Cantidad de vuelos y pasajeros transportados##

@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun May 21 09:34:06 2023
 
-@author: pablo
-"""
-import os
-import streamlit as st
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-st.markdown("***")
+st.markdown("---")
+st.markdown("Proyecto Individual")
+st.markdown("--")
+st.markdown("Data Analitics")
+st.markdown("---")
+st.markdown("Perez, Pablo Jorge")
+st.markdown("---")

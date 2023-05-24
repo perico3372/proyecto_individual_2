@@ -18,8 +18,8 @@ import plotly.graph_objects as go
 
 col1, col2 = st.columns(2)
 spark = SparkSession.builder.getOrCreate()
-
-dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
+dataframe_final = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv", header=True, inferSchema=True)
+#dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
 data = dataframe_final.toPandas()
 
 

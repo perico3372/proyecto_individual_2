@@ -1,0 +1,2565 @@
+year,location_city,location_country,route,all_aboard,passengers,crew,fatalities,passenger_fatalities,crew_fatalities,ground
+1970,Stockholm,Sweden,Stockholm - Zurich,10,7,3,5,5,0,0
+1970,Near Villia Greece,,Military exercise,27,22,5,23,19,4,0
+1970,Faleolo,Western Samoa,"Apia, Western Samoa - Pago Pago, American Samoa",32,29,3,32,29,3,0
+1970,Mt. Pumacona,Peru,Trujillo - Juanjui,28,24,4,28,24,4,0
+1970,Near Delhi,India,Kathmandu - Delhi,23,18,5,1,0,1,0
+1970,Near Poza Rica,Mexico,Mexico City - Poza Rica,19,15,4,18,14,4,0
+1970,Near Batagai,Russia,Chokurdakh - Batagay,34,28,6,34,28,6,0
+1970,Cleveland,Ohio,Cleveland - Detroit,9,7,2,9,7,2,0
+1970,Near Murmansk,Russia,Leningrad - Murmansk,11,32,6,11,8,3,0
+1970,Apuseni mountains,Romania,Bucharest - Oradea,22,18,4,21,17,4,0
+1970,Near Corrientes,Argentina,Corrientes - Rosario,37,33,4,37,33,4,0
+1970,Near Samarkand,USSR,Tashkent - Samarkand,106,98,8,92,85,7,0
+1970,Long Island Sound,Connecticut,"Groton, CT - New York, NY",5,3,2,5,3,2,0
+1970,Puerto Infrida,Colombia,Villavicencio - Puerto Inírida,12,8,4,12,8,4,2
+1970,Off Santo Domingo,Dominican Republic,Santo Domingo - San Juan,102,97,5,102,97,5,0
+1970,Congo,,?,17,14,3,17,14,3,0
+1970,Zurich,Switzerland,Zurich - Tel Aviv,47,38,9,47,38,9,0
+1970,St. Moritz,Switzerland,Munchen - St. Moritz,11,9,2,11,9,2,0
+1970,Belem Bay,Brazil,Reclife - Belem,40,35,5,38,34,4,0
+1970,Near Da Nang,South Vietnam,Taiwan - Da Nang,31,0,31,23,0,23,0
+1970,Colorado City,Arizona,Grand Canyon - Las Vegas,6,5,1,6,5,1,0
+1970,Novosibirsk,Russia,Krasnoyarsk - Novosibirs,45,40,5,45,40,5,0
+1970,Casablanca,Morocco,Agadir - Casablanca,82,76,6,61,56,5,0
+1970,Zaporozhye,Ukraine,Rostov - Zaporozhye,35,30,5,7,6,1,0
+1970,Manila,Philippines,Cuayan - Manila,36,32,4,36,32,4,0
+1970,Rivolto,Italy,Rivolto - Grazzanise,19,12,7,17,10,7,0
+1970,Kainatu,New Guinea,Mount Hagen - Goroka - Kainantu,11,9,2,8,6,2,0
+1970,Near St. Croix,US Virgin Islands,New York City - St. Maarten,63,57,6,23,22,1,0
+1970,Hamilton AFB,California,Hamilton - Spokane,14,0,14,13,0,13,0
+1970,Mogadishu,Somalia,?,30,26,4,5,5,0,0
+1970,Iligan,Philippines,Iligan - Manila,33,29,4,1,0,1,0
+1970,Pellston,Michigan,Detroit - Pellston,6,4,2,6,4,2,0
+1970,Kishiniev,Moldavia,Training,11,0,11,11,0,11,0
+1970,Near Tegucigalpa,Honduras,?,6,4,2,6,4,2,0
+1970,Chamblee,Georgia,"Chamblee, GA - Fort Myers,FL",33,29,4,1,1,0,5
+1970,Tripoli,Libya,Prague - Tripoli,13,10,3,13,10,3,0
+1970,Roxas,Philippines,Manila - Bacolod,44,40,4,1,1,0,0
+1970,Near Huaricanga,Peru,Quito - Lima - Salta - Buenos Aires,8,5,3,5,3,2,0
+1970,McGrath,Alakska,"McGrath AK - Galena, AK",27,25,2,5,4,1,0
+1970,Near Arbucias,Gerona,Manchester - Barcelona,112,105,7,112,105,7,0
+1970,Toronto,Canada,Montreal - Toronto - Los Angeles,109,100,9,109,100,9,0
+1970,North Atlantic Ocean,,Reykjavik - Halifax - Sidney,23,15,8,23,15,8,0
+1970,Tokyo,Japan,Tokyo - Okinawa,4,0,4,4,0,4,0
+1970,Near Las Vegas,Nevada,Nellis - North Island - Barbers Point,10,0,10,10,0,10,0
+1970,Islamabad,Pakistan,Rawalpindi - Lahore,30,26,4,30,26,4,0
+1970,Near Cuzco,Peru,Cuzco - Lima,100,91,9,99,91,8,2
+1970,Taipei,Taiwan,Hwa-Lien,31,26,5,14,12,2,0
+1970,Near Tam Ky,South Vietnam,?,32,?,?,30,?,?,0
+1970,Near Silchar,India,Silchar - Gauhati,39,34,5,39,34,5,0
+1970,Haringvreter,Netherlands,Sightseeing,10,9,1,3,2,1,0
+1970,Lihovka,Ukraine,Rostov-on-Don - Vilnius,37,32,5,37,32,5,0
+1970,Near Dnepropetrovsk,Ukraine,?,37,?,?,37,?,?,0
+1970,Near Leningrad,USSR,"Frunze, Kyrgyzstan - Leninabad, Tajikistan",21,18,3,21,18,3,0
+1970,New York,New York,"Jamaica, NY - Washington D.C.",11,0,11,11,0,11,0
+1970,Near Vagar,Faeroe Islands,Reykjavik - Vágar,34,30,4,8,7,1,0
+1970,Near Da Nang,Vietnam,Pleiku - Hue,38,34,4,4,1,3,0
+1970,Mt. Trelease,near Silver Plume,"Wichita - Denver - Logan, Utah",40,37,3,32,30,2,0
+1970,Near Taipei,Taiwan,Taipei - Ching Chuan Kang,43,37,6,43,37,6,0
+1970,Mahaffey,Pennsylvania,"Dubois, PA - Roanoak, VA",2,1,1,2,1,1,0
+1970,Near Germiston,South Africa,"Johannesberg - Orapa Mine, Botswana",11,9,2,3,2,1,0
+1970,Fort Dix,New Jersey,"Dayton, OH - Ft. Dix, NJ",3,0,3,3,0,3,0
+1970,Pointe-à-Pitre,Guadeloupe,?,4,1,3,2,0,2,0
+1970,Near Huntington,West Virginia,"Kingston, NC - Huntington, WV",75,71,4,75,71,4,0
+1970,Near Nha Trang,South Vietnam,Saigon - Nha Trang AB,79,73,6,79,73,6,0
+1970,Anchorage,Alaska,Anchorage - Yokota AFB,229,219,10,47,46,1,0
+1970,Near Cam Ranh,South Vietnam,Cam Ranh Bay AB - Siagon,44,39,5,42,37,5,0
+1970,Dhaka,Bangladesh,?,8,4,4,8,4,4,0
+1970,Delhi,India,New Delhi - Jaipur,16,12,4,5,2,3,0
+1970,Near Constanta,Romania,Tel Aviv - Bucharest,27,20,7,19,16,3,0
+1970,St. Thomas,Virgin Islands,New York - St. Thomas,55,48,7,2,2,0,0
+1970,Near Shemshernagar,Pakistan,Algiers - Mahón,35,31,4,7,7,0,0
+1970,Off Algiers,Algeria,Algiers - Menorca,31,28,3,31,28,3,0
+1970,Leningrad,USSR,Leningrad - Erevan,93,90,3,93,90,3,0
+1971,Ben Gashir,Libya,Algiers - Tripoli - Cairo,16,8,8,16,8,8,0
+1971,Edison,New Jersey,"San Francisco, CA - Newark, NJ",21,14,7,2,0,2,0
+1971,Zurich,Switzerland,Paris - Zurich - Sofia,47,39,8,45,38,7,0
+1971,Near Pacae,Peru,Mazamari - Lima,35,30,5,35,30,5,0
+1971,Near Privas,France,Paris - Orange,21,17,4,21,17,4,0
+1971,Surgut,USSR,Omsk -,5343610,14,12,2,14,12,2
+1971,Near Sokcho,South Korea,Kangnung - Seoul,60,55,5,2,1,1,0
+1971,Merida,Venezuela,Mérida - Caracas,47,43,4,13,12,1,0
+1971,Voroshilovgrad,Russia,Tyumen - Surgut,7,6,1,7,6,1,0
+1971,Mt. Cunatineuta,Ecuador,La Paz - San Borja,12,8,4,12,8,4,0
+1971,Gauhati,India,Guwahati - Bagdogra - Calcutta,15,11,4,15,11,4,0
+1971,Ontario,California,Los Angeles - Ontairo,5,0,5,5,0,5,0
+1971,Vorochilovgrad,Ukraine,Kuibyshev - Lugansk,65,57,8,65,57,8,0
+1971,Near San Jose,Philippines,Manila - Nichols AFB,40,36,4,39,35,4,0
+1971,Manchester,New Hampshire,"Manchester, NH - Boston, MS",4,3,1,4,3,1,0
+1971,Guatemala City,Guatemala,Guatemala City - Tikal,35,32,3,5,2,3,0
+1971,Near Rijeka,Yugoslavia,London - Rijeka,83,76,7,78,75,3,0
+1971,Santiago,Chile,Santiago - Arica,4,2,2,4,2,2,0
+1971,Roanoke,Virginia,"Atlanta, GA - Martinsville, VA",6,5,1,6,5,1,0
+1971,Near Duarte,California,Los Angeles - Salt Lake City,51,44,7,50,44,6,0
+1971,New Haven,Connecticut,"Washington D.C. - Newport News, VA - Philadelphia",31,28,3,28,26,2,0
+1971,North Pacific Ocean,,Hickam AFB - Pango Pango,24,20,4,24,20,4,0
+1971,Near Arica,Chile,Santa Cruz - Arica,6,4,2,6,4,2,0
+1971,Garberville,California,"Shelter Cove, CA - San Jose, CA",24,21,3,17,15,2,0
+1971,Hokkaido,Japan,Sapporo - Hakodate,68,64,4,68,64,4,0
+1971,Near Bamako,Mali,Bamako - Abidjan,6,4,2,6,4,2,0
+1971,Manila,Philippines,San Francisco - Honolulu - Guam - Manila - Siagon,4,0,4,4,0,4,0
+1971,Near Irkutsk,Russia,Novosibirsk - Irkutsk,126,118,8,97,93,4,0
+1971,Near Pau,France,Exercises,39,36,3,37,34,3,0
+1971,Near Morioko,Japan,Sapporo - Tokyo,164,155,9,163,155,8,0
+1971,San Francisco,California,San Francisco - Los Angeles,218,197,21,0,0,0,0
+1971,Near Pegnitz,West Germany,Ludwigsburg - Grafenwohr,37,32,5,37,32,5,0
+1971,Augusta,Maine,"Boston, MA - Rockville, ME diverted to  Augusta ME",8,7,1,3,2,1,0
+1971,Off Copenhagen,Denmark,"Oslo, Norway - East Berlin, German",34,25,9,32,23,9,0
+1971,Near Juneau,Alaska,Anchorage - Seattle,111,104,7,111,104,7,0
+1971,Near Hasloh,Germany,"Hamburg, Germany - Malaga, Spain",121,115,6,22,21,1,0
+1971,Presevo,Russia,Belgrade - Athens - Cairo - Jeddah - Aden,5,3,2,5,3,2,0
+1971,Kiev,Ukraine,Budapest - Kiev,49,41,8,49,41,8,0
+1971,Rila mountain,Bulgaria,Kardjali - Sofia,9,7,2,9,6,2,0
+1971,Sena Madureira,Brazil,Cruzerio do Sul - Rio Branco,32,28,4,32,28,4,0
+1971,Near Aarsele,West Vlaanderen,London - Salzburg,63,55,8,63,55,8,0
+1971,Moscow,Russia,Moscow - Simferopol,25,18,7,25,18,7,0
+1971,Colorado City,Arizona,Las Vegas - Grand Canyon,10,9,1,10,9,1,0
+1971,San Vicente del Caguan,Colombia,San Vicente del Caguán  - Neiva,21,17,4,19,15,4,0
+1971,Peoria,Illinois,"Chicago, IL - Peoria, IL",16,14,2,16,14,2,0
+1971,Near Qui Nhon,South Vietnam,?,23,20,3,22,19,3,0
+1971,Bath,Pennsylvania,"Jamaica, NY - Allentown, PA",8,6,2,4,2,2,0
+1971,Off Livorno,Italy,San Giusto - Sardinia,52,46,6,52,46,6,0
+1971,Off Padang,Indonesia,Jakarta - Padang - Medan - Kuala Lumpur,69,62,7,69,62,7,0
+1971,Vinnitsa,Russia,Kiev - Vinnitsa,48,43,5,48,43,5,0
+1971,Near Penghu Island,Taiwan,Taipei - Hong Kong,25,17,8,25,17,8,0
+1971,Near Hue,South Vietnam,Da Nang - Camp Eagle,34,29,5,34,29,5,0
+1971,Saratov,Russia,Ufa - Saratov,57,53,4,57,53,4,0
+1971,Raleigh,North Carolina,"Miami, FL - Raleigh, NC",29,24,5,2,1,1,0
+1971,Tikaka,Sudan,Khartoum - Malakal,42,37,5,10,9,1,0
+1971,Chinnamanur,India,Trivandrum - Madurai,31,27,4,21,17,4,0
+1971,Sofia,Bulgaria,Sofia IAP - Algiers,73,62,11,28,26,2,0
+1971,Near Puerto Inca,Huanuco,Lima - Pucallpa,92,86,6,91,85,6,0
+1972,Near Chetumal,Mexico,Chetumel - Merida - Mexico City,23,18,5,23,18,5,0
+1972,Sierra de Atalayasa,Spain,Valencia - Ibiza,104,98,6,104,98,6,0
+1972,Near Funza,Colombia,Bogota - San Andres,20,15,5,20,15,5,0
+1972,Near Betania,Colombia,Medellín - Quibdó - Bahía Solano - Buenaventura - Cali,39,36,3,39,36,3,0
+1972,Near Srbská Kamenice,Czech Republic,Stockholm - Belgrade,28,23,5,27,23,4,0
+1972,Near Tegal,Indonesia,Singapore - Jakarta,9,6,3,6,5,1,0
+1972,Pha Khao,Laos,Ban Xon - Pha Khao,38,34,4,1,0,1,0
+1972,Near Valledupar,Colombia,Bogota - Valledupar,19,15,4,19,15,4,0
+1972,Near Vientiane,Laos,Savannakhet - Vientiane,23,17,6,23,17,6,0
+1972,Albany,New York,"New York City - Albany, NY",48,45,3,16,14,2,1
+1972,Near Al Fujayrah,United Arab Emirates,Colombo - Dubai,112,106,6,112,106,6,0
+1972,Shamsam Mountains,South Yemen,Cairo - Jeddah - Aden,22,13,9,22,13,9,0
+1972,Near Rio de Janeiro,Brazil,Sao Paulo - Rio de Janeiro,25,21,4,25,21,4,0
+1972,Near Ardinello di Amaseno,Italy,Rome - Foggia,18,15,3,18,15,3,0
+1972,New York,New York,Sightseeing,3,2,1,3,2,1,0
+1972,Addis Ababa,Ethiopia,Addis Ababa - Rome,107,96,11,43,35,8,0
+1972,Near Moyobamba,Peru,?,6,2,4,6,2,4,0
+1972,Nyot Mo,Laos,"Long Tieng, Laos - Moung Cha, Laos",10,9,1,4,4,0,0
+1972,Bratsk,USSR,Irkutsk -,9040314,18,14,4,18,14,4
+1972,Near Carini,Sicily,Rome - Palermo,115,108,7,115,108,7,0
+1972,Venezuela,,Ciudad Bolívar - Cuchivero,7,5,2,7,5,2,0
+1972,Near Gia Dinh,South Vietnam,Bien Hoa - Vung Tau,34,32,2,34,32,2,0
+1972,Svetlogorsk,Russia,Kaliningrad - Kaliningrad,9,0,9,9,0,9,25
+1972,Near Kharkov,Ukraine,Moscow - :,402502,122,115,7,122,115,7
+1972,Lobito,Angola,Luanda - Lobito - Lubango,25,19,6,22,17,5,0
+1972,Near Helgoland,Germany,Helgoland - Wangerooge,13,10,3,8,6,2,0
+1972,Cruzeiro do Sul Acre,Brazil,Cruzeiro do Sul - Rio Branco,18,15,3,9,6,3,0
+1972,Dulac,Louisiana,"Dulac, LA - Gulf oil platform",11,10,1,11,10,1,0
+1972,Dallas/Ft. Worth,Texas,Training,4,0,4,4,0,4,0
+1972,Near Pleiku,Vietnam,Hue - Pleiku - Buôn Ma Thuot - Saigon,32,29,3,32,29,3,0
+1972,Santiago,Chile,?,3,0,3,3,0,3,0
+1972,Near an Loc,South Vietnam,?,47,?,?,47,?,?,0
+1972,Near New Delhi,India,Bangkok - Delhi,87,76,11,82,72,10,4
+1972,Near Pleiku,South Vietnam,Bangkok - Hong Kong,81,71,10,81,71,10,0
+1972,London Heathrow,Staines,London - Brussels,118,112,6,118,112,6,0
+1972,Ponce,Puerto Rico,San Juan - Ponce,20,18,2,5,3,2,0
+1972,Appleton,Wisconsin,"Chicago, IL - Appleton, WI - Sheboygan, WI",13,8,5,13,8,5,0
+1972,San Francisco,California,Sacramento - San Francisco,86,79,7,3,3,0,0
+1972,Off Las Palmas,Canary Islands,Las Palmas - Hamberg,10,0,10,10,0,10,0
+1972,Near Quang Tri,South Vietnam,?,67,60,7,52,50,2,0
+1972,Near Grytoya,Norway,Bardufoss - Bodoe,19,17,2,19,17,2,0
+1972,Corfu Island,Greece,?,84,?,?,1,1,0,0
+1972,Villavicencio,Colombia,?,38,32,6,38,32,6,0
+1972,Near Delhi,India,Gwalior - Delhi,18,14,4,18,14,4,0
+1972,Near Soc Trang,South Vietnam,?,44,36,8,30,23,7,0
+1972,Near Konigs Wusterausen,East Germany,Berlin - Birgas,156,148,8,156,148,8,0
+1972,Near Sandoway,Burma,Sandoway - Rangoon,31,27,4,26,22,4,0
+1972,Canaima,Venezuela,Canaima - C iudad,34,31,3,34,31,3,0
+1972,Papua,New Guinea,Lae - Port Moresby,29,26,3,25,22,3,0
+1972,Near Magnitogorsk,Russia,Karaganda - Moscow,102,93,9,102,93,9,0
+1972,Mt. Giluwe,Papua,?,4,3,1,4,3,1,0
+1972,Trinidad,Bolivia,?,8,6,2,1,0,1,0
+1972,Gondar,Ethiopia,Axum - Gondar,11,8,3,11,8,3,0
+1972,Near Dhulikhel,Nepal,Panchkhal - Tribuvan,31,27,4,31,27,4,0
+1972,Sacramento,California,?,1,0,1,0,0,0,22
+1972,Near Ben Cat,South Vietnam,Vientiane - Saigon,13,8,5,10,6,4,0
+1972,Near Adler,USSR,Adler - Moscow,108,108,8,108,100,8,0
+1972,Kampot,Cambodia,?,9,7,2,9,7,2,0
+1972,Near San Fernando,Chile,Mendoza - Santiago,45,40,5,29,24,5,0
+1972,Near Moscow,USSR,Leningrad - Moscow,174,164,10,174,164,10,0
+1972,Off the Alaska coast,,"Anchorage, AK - Juneau, AK",4,3,1,4,3,1,0
+1972,Off Athens,Greece,Kerkira - Athens,53,49,4,37,36,1,0
+1972,Tanna,Vanuatu,Lenakel - Port Vila,8,7,1,1,1,0,0
+1972,Near Noiretable,Loire,Lyon - Clermont,68,63,5,60,55,5,0
+1972,Poggiorsini,Italy,Napoli - Bari,27,24,3,27,24,3,0
+1972,Near My Tho,South Vietnam,?,22,?,?,22,?,?,0
+1972,Near Plovdiv,Bulgaria,Burgas - Sofia,35,31,4,35,31,4,0
+1972,Elkton,Kentucky,"Hopkinsville, KY - Lexington, KY",11,10,1,11,10,1,0
+1972,Near Moscow,Russia,Moscow - Tokyo,76,61,15,62,53,9,0
+1972,Tenerife,Canary Islands,Tenerife - Munchen,155,148,7,155,148,7,0
+1972,Near Rawalpindi,Pakistan,Gilgit - Rawalpindi,26,22,4,26,22,4,0
+1972,Midway Airport,Chicago,Washington - Chicago,61,55,6,43,40,3,2
+1972,Chicago,Illinois,Tampa - Chicago / Chicago - Madison,133,122,11,10,10,0,0
+1972,Off St. Maarten off,Netherlands Antilles,Guadeloupe - St. Maarten,13,11,2,13,11,2,0
+1972,Skaugum,Norway,Alesund - Oslo,45,42,3,40,37,3,0
+1972,Everglades National Park,Florida,New York City - Miami,176,163,13,103,97,6,0
+1972,San Juan,Puerto Rico,"San Juan, PR - Managua, Nicaragua",5,2,3,5,2,3,0
+1973,Edmonton,Alberta,Toronto - Edmonton,5,0,5,5,0,5,0
+1973,Near Glasgow,Scotland,Test flight,4,2,2,4,2,2,0
+1973,Perm,Russia,Kazan - Perm,39,34,5,39,34,5,0
+1973,Kano,Nigeria,Jeddah - Lagos,202,193,9,176,170,6,0
+1973,Near Tegucigalpa,Honduras,Miami - Tegucigalpa,3,0,3,3,0,3,0
+1973,Near Kyrenia,Cyprus,Cairo - Nicosia,37,30,7,37,30,7,0
+1973,Prague,Czechoslovakia,Moscow - Praha,100,87,13,66,62,4,0
+1973,Morgan City,Louisiana,"Oil platform - Morgan City, LA",5,4,1,5,4,1,0
+1973,Cerro Horqueta,Panama,David - Changuinola,28,25,3,22,19,3,0
+1973,Near Isma'iliya,Egypt,Tripoli - Cairo,113,104,9,108,100,8,0
+1973,Near Leningrad,Russia,Dushanbe -,189001804,79,71,8,79,71,8
+1973,Semipalatinsk,Kazakhstan,Semipalatinsk - Karaganda,32,29,3,32,29,3,0
+1973,Near Nabire,Indonesia,?,13,10,3,13,10,3,0
+1973,Moscow,USSR,Sofia - Moscow,25,17,8,25,17,8,0
+1973,Near Nantes,France,Palma de Mallorca - London,182,166,16,68,61,7,0
+1973,Hyderabad,India,Training,3,0,3,3,0,3,0
+1973,Ben Me Thuot,South Vietnam,Saigon - Ban Me,62,57,5,62,57,5,0
+1973,Near Basel,Switzerland,Bristol - Basel,145,139,6,108,104,4,0
+1973,Moffett AFB,California,?,17,0,17,16,0,16,0
+1973,Bamiyan,Afghanistan,Bamiyan - Kabul,19,16,3,4,2,2,0
+1973,Near Semipalatinsk,USSR,"Tashkent, Uzbekistan - 	Novosibirsk, Russia",61,55,8,61,55,8,0
+1973,Chita,Siberia,Moscow - Chita,81,72,9,81,72,9,0
+1973,Svay Rieng,Cambodia,Svay Rieng - Phnom Penh,11,9,2,11,9,2,0
+1973,Near Rimouski,Prov. Quebec,?,4,1,3,4,1,3,0
+1973,Near New Delhi,India,Madras - Delhi,65,58,7,48,43,5,0
+1973,Sao Luis,Brazil,Belem - Sao Luis,23,16,7,23,16,7,0
+1973,Goussainville,France,Demonstration,6,0,6,6,0,6,8
+1973,Rio de Janeiro,Brazil,?,4,0,4,2,0,2,0
+1973,Near Puerto Vallarta,Mexico,Houston - Monterrey - Puerto Vallarta - Mexico City,27,22,5,27,22,5,0
+1973,Amman,Jordan,"Amman, Jordan - Beirut, Lebanon - Yerevan, Armenia",85,78,8,2,0,2,7
+1973,Near Shakhtyorsk,Russia,Yuzhno -Shakhtyorsk,18,13,5,18,13,5,0
+1973,Nnear Kuybyshev,Russia,Kuibyshev - Simferopol,61,54,7,2,2,0,0
+1973,Paris,Orly Airport,Rio - de Janerio - Paris,134,117,17,123,116,7,0
+1973,Off Papeete,Tahiti,"Auckland, NZ - Papeete, Tahiti - Honolulu - Los Angeles",79,69,10,78,68,10,0
+1973,St. Louis,Missouri,"Marion, IL - St. Louis",44,41,3,38,37,1,0
+1973,Honolulu,HI,Honolulu - Lihue,5,4,1,5,4,1,0
+1973,Logan Airport,Boston,"Burlilngton, VT  - Boston, MA",89,83,6,89,83,6,0
+1973,Near La  Coruña,Spain,Madrid - La Coruña,85,79,6,85,79,6,1
+1973,Don Don,Haiti,Port Au Prince - Cap Haitien,10,9,1,10,9,1,0
+1973,Baku,Azerbaijan,Baku - Aktau,64,60,4,56,54,2,0
+1973,El Yopal,Colombia,Villavicencio - El Yopal,17,14,3,16,13,3,0
+1973,Bogota,Colombia,Bogota - Cartagena,42,36,6,42,36,6,0
+1973,Near Huete,Spain,Athens - Madrid,25,17,8,24,17,7,0
+1973,Thirty-five miles west of Los Angeles,California,Honolulu - Los Angeles,149,141,8,1,1,0,0
+1973,King Cove,Alaska,Travis - Cold Bay - Yokota - Clark,6,3,3,6,3,3,0
+1973,Moganik,Yugoslavia,Skopje - Titograd,41,35,6,41,35,6,0
+1973,Natchitoches,Louisiana,"Natchitoches, La - Dallas, TX",6,5,1,6,5,1,0
+1973,Rich Mountain,Arkansas,Memphis - El Dorado - Texarkana - Dallas,11,8,3,11,8,3,0
+1973,Miritituba,Brazil,Itaituba - Jacareacanga,9,5,4,9,5,4,0
+1973,Near Sverdlovsk,Russia,Sverdlovsk - Omsk,108,100,8,108,100,8,0
+1973,Magadan,Russia,Yakutsk - Magadan,10,8,2,10,8,2,0
+1973,Near  Domodedovo,Russia,Tbilisi - Moscow,122,114,8,122,114,8,0
+1973,Guanabara Bay,Brazil,Rio de Janeiro - Belo Horizonte,65,60,5,8,8,0,0
+1973,Villavicencio,Colombia,Arauca - Cucuta,16,12,4,6,3,3,0
+1973,Boston,: Massachusetts,New York City - Prestwick,3,0,3,3,0,3,0
+1973,Near Albuquerque,New Mexico,"Miami, FL - San Francisco, CA",128,116,12,1,1,0,0
+1973,Near Quang-Ngai,South Vietnam,on - Quang Ngai,27,24,3,27,24,3,0
+1973,Moscow,USSR,Mineral Waters - Moscow,75,68,7,13,11,5,0
+1973,Near Karacharovo,USSR,Vilnius - Moscow,51,45,6,51,45,6,0
+1973,Rome,Italy,Rome - Beirut,177,167,10,30,29,1,0
+1973,Near Siagon,South Vietnam,?,20,?,?,20,?,?,0
+1973,Near Tetouan,Morocco,Paris - Tanger,106,99,7,106,99,7,0
+1973,Lvov,Ukraine,Lviv - Kiev - Kuybyshev,17,11,6,17,11,6,0
+1973,Durban,South Africa,?,25,22,3,1,1,0,0
+1974,Near Turin,Italy,Bologna - Torino,42,38,4,38,35,3,0
+1974,Johnstown,Pennsylvania,"Pittsburgh, PA - Johnstown, PA",17,15,2,12,11,1,0
+1974,Unduavi,Bolivia,San Borja - La Paz,4,1,3,4,1,3,0
+1974,Mukachevo,Ukraine,"Ivano-Frankovsk, Ukraine - Uzhgorod, Ukraine",24,18,6,24,18,6,0
+1974,Near Nevia,Colombia,Florencia - Bogota,31,28,3,31,28,3,0
+1974,La Paz,Bolivia,Santa Rose - La Paz,24,21,3,24,21,3,0
+1974,Cigorodo,Colombia,Chigorodó - Medellín,14,11,3,14,11,3,0
+1974,Izmir,Turkey,Izmir - Istanbul,73,68,5,66,62,4,0
+1974,Pago Pago,American Samoa,Auckland - Pago Pago,101,91,10,97,87,10,0
+1974,Near Honolulu,HI,"San Francisco, CA - Honolulu, HI - Agana, Guam",298,279,19,1,1,0,0
+1974,Near Souda,Crete,?,40,35,5,35,30,5,0
+1974,Baltimore,Maryland,Baltimore - Atlanta,15,10,5,1,0,1,0
+1974,San Francisco de Moxos,Bolivia,Trinidad - Oruro,7,4,3,7,4,3,0
+1974,Near Ermenonville,France,Paris - London,346,335,11,346,335,11,0
+1974,Hanoi,Vietnam,Saigon - Hanoi,18,15,3,18,15,3,0
+1974,Bishop,California,Bishop - Burbank,36,32,4,36,32,4,0
+1974,Tehran,Iran,Tehran - Kobenhavn,96,92,4,15,15,0,0
+1974,Francistown,Botswana,Francistown - Malawi,84,80,4,78,75,3,0
+1974,Grogak,Bali,"Hong Kong - Bali, Indonesia - Sydney, Austrailia",107,96,11,107,96,11,0
+1974,Near Leningrad,USSR,Leningrad - Zaporozhye,109,102,7,109,102,7,0
+1974,Galveston,Texas,"Galveston, TX - Houston, TX",12,10,2,6,5,1,0
+1974,Banos,Ecuador,Pastaza - Ambato,24,21,3,22,19,3,0
+1974,Nurnberg,Germany,Nice - Nurnberg,3,0,3,3,0,3,0
+1974,Springfield,Illinois,"Alameda, CA - Indianapolis, IN",3,1,2,3,1,2,0
+1974,Kiev,Ukraine,Khmelnitsky - Kiev,29,25,4,29,25,4,0
+1974,Rankin Inlet,Canada,Thompson - Rankin Inlet,2,0,2,2,0,2,0
+1974,Monte San Isidro,Colombia,Bucaramanga - Cucuta,44,38,6,44,38,6,0
+1974,Battambang,Khmer Republic,Battambang - Phnom Penh,39,33,6,19,17,2,0
+1974,Umiat,Alaska,"Umiat, AK - Local",5,4,1,5,4,1,0
+1974,Bogota,Colombia,?,3,0,3,3,0,3,0
+1974,Near Moc Hoa,Vietnam,Phnom Penh - Siagon,5,1,4,5,1,4,0
+1974,Mt. Apica,PQ,LaTuque - St. Honore,11,8,3,5,2,3,0
+1974,Near Ouagadougou,Upper Volta,"Bamako, Mali - Kano, Nigeria",60,50,10,47,39,8,0
+1974,Cali,Colombia,Tumaco - Bogota,27,24,3,27,24,3,0
+1974,Margarita Island,Venezuela,Cumana - Porlamar,49,45,4,49,45,4,0
+1974,Near Kisangani,Zaire,Kinshasa - Kisangani,31,24,7,31,24,7,0
+1974,Tandjung-karang,Indonesia,bang - Bandar Lampung - Jakarta,39,36,3,36,33,3,0
+1974,Ionian Sea,off Kefallinia,Tel Aviv - Athens - Rome - New York,88,79,9,88,79,9,0
+1974,Near Charlotte,North Carolina,"Charleston, SC - Charlotte, NC - Chicago, IL",82,78,4,70,68,2,0
+1974,Phan Rang,South Vietnam,Da Nang - Saigon,75,67,8,75,67,8,0
+1974,Calapan,Philippines,Roxas City - Calapan,8,4,4,1,0,1,0
+1974,Old Man's Camp,Alaska,Fairbanks - Bettles,4,0,4,4,0,4,0
+1974,Pagosa Springs,Colorado,"Gallup, NM - Rapid City, SD",2,1,1,2,1,1,0
+1974,Near Surgut,Russia,Khanty - Surgut,38,32,6,38,32,6,0
+1974,Manila,Philippines,?,8,5,3,1,1,0,0
+1974,Near Nairobi,Kenya,Frankfurt - Nairobi - Johannesburg,157,144,13,59,55,4,0
+1974,Soddu,Ethiopia,Soddu - Beica,24,21,3,2,0,2,0
+1974,Barcelona,Spain,?,4,0,4,4,0,4,0
+1974,Near Berryville,Virginia,Columbus - Washington D.C.,92,85,7,92,85,7,0
+1974,Bear Mountain,Thiells,"New York City, NY - Buffalo, NY",3,0,3,3,0,3,0
+1974,Irkutsk,Russia,Irkutsk - Kazachinskoye,18,11,7,13,11,2,0
+1974,Near Maskeliya,Sri Lanka,Surabaya - Jeddah,191,182,9,191,182,9,0
+1974,Near Old Harbors,Alaska,Old Harbor - Kodiac,5,4,1,5,4,1,0
+1974,Near Moc Hoa,South Vietnam,?,54,53,1,54,53,1,0
+1974,Bukhara,Uzbekistan,Bukhara - Dushanbe,19,15,4,7,7,0,0
+1974,Maturin,Venezuela,Ciudad Bolivar - Maturin - Caracas,77,71,6,77,71,6,0
+1974,Near Sibiu,Romania,Oradea - Sibiu - Bucharest,33,28,5,33,28,5,0
+1974,Tikal,Guatemala,Tikal - Guatemala City,24,21,3,24,213,3,0
+1975,Near Nha Trang,Vietnam,Da Lat - Nha Trang,9,6,3,9,6,3,0
+1975,Near Doncello,Colombia,San Vicente del Caguan - Florencia,21,17,4,21,17,4,0
+1975,Whittier,California,Ontario - Los Angeles,14,10,4,14,10,4,0
+1975,Budapest,Hunary,Berlin - Budapest,9,0,9,9,0,9,0
+1975,Xam Neua,Laos,Vientiane - Sam Neua,16,14,2,16,14,2,0
+1975,Istanbul,Turkey,Izmir - Istanbul,42,38,4,42,38,4,0
+1975,Santo Domingo,Dominican Republic,Santo Domingo - Port-au-Prince,30,27,3,2,1,1,0
+1975,Houston,Texas,"Lawton, OK - Huntsville, TX",16,14,2,5,3,2,0
+1975,Manila,Philippines,Manila - Iligan,33,29,4,33,29,4,0
+1975,Souda,Crete,Hohn - Chania,40,35,5,40,35,5,0
+1975,Fairbanks,Alaska,Fairbanks - Happy Valley Camp,3,0,3,3,0,3,0
+1975,Medellin,Colombia,"Medellin, Colombia - Miami, Florida",5,0,5,5,0,5,0
+1975,Near Sao Paulo,Brazil,Sao Paulo - Bauru,15,13,2,15,13,2,0
+1975,Pleiku,South Vietnam,?,26,20,6,26,20,6,0
+1975,Near Barito,Argentina,El Palomar AB - San Carlos de Bariloche,55,50,5,55,50,5,0
+1975,Singa,Sudan,?,6,4,2,5,3,2,0
+1975,Near Terney,Russia,Terney - Amgu,12,10,2,7,6,1,0
+1975,Near Quilcene,Washington,Clark AFB - Japan,16,12,4,16,12,4,0
+1975,Saigon,South Vietnam,Saigon - Clark - Los Angeles,330,314,16,155,150,5,0
+1975,Near Sakon Nakhon,Thailand,Nakhom Phanom AB - Utapao AB,23,19,4,23,19,4,0
+1975,Manila,Philippines,Legaspi - Manilla,64,59,5,1,1,0,0
+1975,Pedro Alfonso,Brazil,Sao Paulo - Porto Nacional - Pedro Afonso - Belém,15,11,4,1,0,1,3
+1975,JFK Airport,New York,New Orleans - New York City,124,116,8,113,107,6,0
+1975,Toledo,Ohio,"Detroit, MI - Peducah, KY",2,1,1,2,1,1,0
+1975,Bogota,Colombia,Bogota  - Barranquilla,4,0,4,2,0,2,0
+1975,Near Batumi,Georgia,Yerevan - Batumi,40,35,5,40,35,5,0
+1975,Taipei,Taiwan,Hualien - Taipei,75,70,5,27,27,0,0
+1975,Near Immouzer,Morocco,Paris - Agadir,188,181,7,188,181,7,0
+1975,Off Amapala,Honduras,Veracruz - Managua,20,17,3,20,17,3,0
+1975,Denver,Colorado,Denver - Wichita,131,124,7,0,0,0,0
+1975,Bagdarin,Russia,Chita - Bagdarin,11,6,5,11,6,5,0
+1975,Krasnovodsk,USSR,?,38,34,4,23,21,2,0
+1975,Near Damascus,Syria,"Prague, Czechoslovakia - Damascus, Syria",128,117,11,126,115,11,0
+1975,Near Gambell,Alaska,Nome - Gambell,32,28,4,10,7,3,0
+1975,Leipzig-Halle,East Germany,Stuttgart - Leipzig,34,28,6,27,24,3,0
+1975,Near Bahar Dar,Ethiopia,Bahar Dar - Debra Marcos,9,6,3,1,1,0,0
+1975,Near Palembang,Indonesia,Jakarta - Palembang,61,57,4,25,21,4,1
+1975,Off Beirut,Lebanon,"Budapest - Beirut, Lebanon",60,50,10,60,50,10,0
+1975,Barranquilla,Colombia,Bogota - Barranquilla,4,0,4,4,0,4,0
+1975,Novgorod,Russia,Syktyvkar - Vologda - Novgorod - Riga,6,2,4,6,2,4,5
+1975,Cairns Airport,Queensland,Mount Isa - Cairns,11,8,3,11,8,3,0
+1975,Tomonoco,Bolivia,Tomonoco - La Paz,67,63,4,67,63,4,0
+1975,Near Prague,Czechoslovakia,Tivat - Praha,120,115,5,75,71,4,0
+1975,Gulf of Mexico,,?,9,8,1,9,8,1,0
+1975,Near Sukhumi,Georgia,Tbilisi - Sukhumi,38,33,5,38,33,5,0
+1975,Caoba,Guatemala,Uaxactun - Flores,22,18,4,15,11,4,0
+1975,Kharkov,Ukraine,"Rostov, Russia - 	Kharkov, Ukraine",50,46,4,19,18,1,0
+1975,Sofia,Bulgaria,Sofia - Varna,48,45,3,3,2,1,0
+1975,Near Bir Lahfan,Egypt,?,20,11,9,20,11,9,0
+1975,Hertfordshire,England,?,6,5,1,6,5,1,0
+1975,Rollinsville,Colorado,"Denver, CO - Grandby, CO",9,8,1,9,8,1,0
+1976,Near Al Qaysumah,Saudi Arabia,Beirut - Dubai,82,67,15,82,67,15,0
+1976,Anchorage,Alaska,"Anchorage, AK - Deadhorse, AK",6,4,2,6,4,2,0
+1976,Moscow,Russia,Moscow - Vnukovo,61,56,5,61,56,5,1
+1976,Mactan Island,Philippines,?,7,6,1,7,6,1,0
+1976,Near San Borja,Bolivia,?,10,7,3,7,4,3,0
+1976,Near Loja,Ecuador,Loja - Guayaquil,42,36,6,34,28,6,0
+1976,Near Shanghai,China,Guangzhou - Changsha,40,36,4,40,36,4,0
+1976,Chapeco,Brazil,Chapecó - Erechim - Porto Alegre,11,9,2,9,7,2,0
+1976,Off Santa Maria,Colombia,Santa Maria - Curacao,3,0,3,3,0,3,0
+1976,Van Nuys,California,Burbank - Ontario,6,1,5,3,1,2,0
+1976,Irkutsk,Russia,Irkutsk - Novosibirsk,124,104,10,24,15,9,0
+1976,St. Croix,Virgin Islands,"St. Thomas, VI - St. Croix, VI",11,10,1,5,5,0,0
+1976,Sibiu,Romania,?,9,5,4,6,3,3,0
+1976,Southeastern Bolivia,,Camiri - Itaguasurenda,22,18,4,19,15,4,0
+1976,Near Voronezh,Russia,Moscow - Yerevan,111,100,11,111,100,11,7
+1976,Igiugig,Alaska,"South Nanek, AK - Dillingham, AK",4,3,1,4,3,1,0
+1976,Near Puerto Asis,Colombia,Florencia - Puerto Asis,16,14,2,5,4,1,0
+1976,Ketchikan,Alaska,Juneau - Ketchikan,50,45,5,1,1,0,0
+1976,Neuquen,Argentina,?,34,31,3,34,31,3,0
+1976,Gulf of Mexico,,?,12,11,1,12,11,1,0
+1976,St. Thomas,Virgin Islands,New York City - Saint Thomas,88,81,7,37,35,2,0
+1976,Camuigan,Philippines,?,10,8,2,4,4,0,0
+1976,Near Cuneca,Spain,"Terhan, Iran - Madrid, Spain - McGuire AFB, New Jersey",17,7,10,17,7,10,0
+1976,Chernigov,Ukraine,?,52,46,6,52,46,6,0
+1976,Zamboanga,Philipines,Davao City - Manila,87,77,10,14,14,0,3
+1976,Nacias Nguema,Equatorial Guinea,Luanda - Malabo - N’Djamena - Tripoli - Moscow,45,35,10,45,35,10,0
+1976,Agana,Guam,Wake Island - Guam - Manila,45,33,12,45,33,12,1
+1976,Off Kota Kinabalu,Malaysia,Labuan - Kota Kinabalu,11,10,1,11,10,1,0
+1976,Entebbe,Uganda,Tel-Aviv - Athens - Paris,258,?,?,7,?,?,0
+1976,Daiku,Burma,?,17,?,?,17,?,?,0
+1976,Bratislava,Czechoslovakia,Prague - Bratislava,79,73,6,76,70,6,0
+1976,Near Tehran,Iran,"Tehran, Iran - Seoul, Korea",5,0,5,5,0,5,0
+1976,Moron AFB,"Spain
+	
+Moron AFB",Moron - Canary Islands,32,28,4,12,12,0,0
+1976,Andes Mountains,Ecuador,Quito - Cuenca,59,55,4,59,55,4,0
+1976,Ho Chi Minh City,Vietnam,Ho Chi Minh City - Bangkok,20,15,5,1,1,0,0
+1976,Near Thorney,England,McGuire AFB - Mildenhall RAF,18,4,14,18,4,14,0
+1976,Hawk Inlet,Alaska,?,4,3,1,3,2,1,0
+1976,Lajes,Azores,Caracas - Praira da Vitoria,68,58,10,68,58,10,0
+1976,Off Adler,Russia,Donetsk - Sochi /Rostov na Donu - Kerch,64,55,9,64,55,9,0
+1976,Near Gaj,Hrvatska,Split - Koln / London - Istanbul,176,162,14,176,162,14,0
+1976,Karatepe Mountains,Turkey,Istanbul - Antalya,154,146,8,154,146,8,0
+1976,Near Alpena,Michigan,Kenneth Ingalls Sawyer - Oscoda-Wurtsmith,20,15,5,15,12,3,0
+1976,Nairobi,Kenya,Sharjah - Djibouti City - Nairobi,4,0,4,4,0,4,0
+1976,Off Bridgetown,Barbados,Bridgetown - Kingston,73,48,25,73,48,25,0
+1976,Santa Cruz,Bolivia,Santa Cruz - Viru,3,0,3,3,0,3,113
+1976,Near Bombay,India,Mumbai - Chennai,95,89,6,95,89,6,0
+1976,Near Petrolia,Brazil,Petrolina - Recife,7,5,2,2,0,2,0
+1976,Banjarmasin,Indonesia,Manado -Gorontalo - Palu - Balikpapan - Banjarmasin,38,33,5,29,25,4,0
+1976,Atlantic Ocean,,Curacao - Port-au-Prince,2,0,2,2,0,2,0
+1976,Kozani,Greece,Athens - Larisa,50,46,4,50,46,4,0
+1976,Moscow,Russia,Moscow - Leningrad,73,67,6,73,67,6,0
+1976,Cape May,New Jersey,Atlantic City - Cap May,10,8,2,3,3,1,0
+1976,Ust-Kut,Russia,Ust-Kut - Kirensk,7,4,3,7,4,3,0
+1976,Kiev,USSR,Chernivtsi - Kiev,55,50,5,48,44,4,0
+1976,Nnear Yuzhno-Sakhalinsk,Russia,Petropavlovsk-Kamchatsky - Yuzhno-Sakhalinsk,8,3,5,8,3,5,0
+1976,Near Bangkok,Thailand,Cairo - Bangkok,53,44,9,53,44,9,19
+1976,Near Trujillo,Peru,Trujillo - Tarapoto,19,14,5,19,14,5,0
+1977,Near Palm Springs,California,Palm Springs - Las Vegas,4,2,2,4,2,2,0
+1977,Anchorage,Alaska,"Mosses Lake, WA - Tokyo, Japan",5,0,5,5,0,5,0
+1977,Near Alma Ata,Kazakastan,Novosibirsk - Alma Ata,90,82,8,90,82,8,0
+1977,Terrace,BC,Prince George - Prince Rupert,12,9,3,12,9,3,0
+1977,Kalvesta,Sweden,Malmo - Bromma,22,19,3,22,19,3,0
+1977,?,,?,2,0,2,1,0,1,0
+1977,Bratislava,Slovakia,?,5,2,3,4,2,2,0
+1977,Mineralnye Vody,Russia,Tashkent - Mineralnyye Vody,98,92,6,77,76,1,0
+1977,Near Saglouc,Canada,?,10,7,3,4,2,2,0
+1977,Off Aden,Yemen,Aden - Al Kari,21,17,3,19,16,3,0
+1977,Near Cascina,Italy,Training,44,38,6,44,38,6,0
+1977,Niamey,Niger,"Paris, France - Niamey, Nigher",4,0,4,2,0,2,0
+1977,Tenerife,Canary Islands,Tenerife - Las Palmas / Tenerife - Las Palmas,644,614,30,583,560,23,0
+1977,Bainaha Valley,Indonesia,Palu - Toli Toli,23,20,3,15,13,2,0
+1977,Near Zhadanof,Russia,Dnepropetrovsk -,9010310,27,23,4,8,5,3
+1977,New Hope,Georgia,Huntsville - Atlanta,85,81,4,62,60,2,8
+1977,SW of Bogota,Colombia,Villavicencio - Bogota,35,31,4,35,31,4,0
+1977,Tapa AFB,Estonia,Parnu - Tapa,21,15,6,21,15,6,0
+1977,Guatemala City,Guatemala,?,28,22,6,28,22,6,0
+1977,Near Jericho,Jordan,?,54,50,4,54,50,4,0
+1977,Beiruit,Lebanon,"Varna, Bulgaria  - Beiruit, Lebanon",9,0,9,9,0,9,0
+1977,Near Lusaka,Zambia,"Nairobi, Kenya  - Luskaka, Zambia",6,1,5,6,1,5,0
+1977,New York,New York,Pan Am building - JFK Airport,25,22,3,4,4,0,1
+1977,Havana,Cuba,Lisbon - Havana,69,59,10,67,57,10,0
+1977,Natal,Brazil,?,18,16,2,18,16,2,0
+1977,Salto-Nueva Hesperides,Uruguay,Carrasco - Salto-Nueva Hesperides,15,13,2,12,10,2,0
+1977,Off Wake Island,,Wake-Agana,16,0,16,16,0,16,0
+1977,Saint Louis,Missouri,"Saint Louis, MO - Detroit, MI",3,0,3,3,0,3,0
+1977,Off Kirovograd,Ukraine,?,7,?,?,6,?,?,0
+1977,Near Cuangar,Angola,?,30,25,5,30,25,5,0
+1977,Vitim,Russia,Vitim - Irkutsk,40,34,6,40,34,6,0
+1977,Jima,Ethiopia,Tippi - Jima,5,2,3,5,2,3,0
+1977,Near Puerto Montt,Chile,Punta Arenas - Santiago,82,75,7,38,31,7,0
+1977,Near Yoro,Honduras,Yoro - Honduran,40,36,4,25,?,?,0
+1977,Encino,California,Burbank - Santa Barbara,2,1,1,2,1,1,0
+1977,San Jose,Costa Rica,Catalina Island-Long Beach,3,0,3,3,0,3,0
+1977,Kona,Hawaii,Honolulu-Kailua Kona,2,0,2,2,0,2,0
+1977,Off Hong Kong,,Hong Kong-Bangkok,4,0,4,4,0,4,0
+1977,Near Cuenca,Ecuador,Guayaquil - Cuenca,33,29,4,33,29,4,0
+1977,Mt. Iliamna,Alaska,Iliamna - Anchorage,13,11,2,13,11,2,0
+1977,Mt. Loi Hsam Hsao,Burma,Mongasat - Keng Tung,19,16,3,19,16,3,0
+1977,Yakutat,Alaska,Yakutat - Anchorage,4,0,4,4,0,4,0
+1977,Near Albuquerque,New Mexico,Kirtland AFB - Nellis AFB,20,0,20,20,0,20,0
+1977,Bucharest,Romania,Istanbul - Bucharest,53,45,8,29,21,8,0
+1977,Kuala Lumpur,Malaysia,Tokyo-Hong Kong-Kuala Lumpur,79,69,10,34,26,8,0
+1977,Near Gillsburg,Mississippi,Greenville - Baton Rouge,26,24,2,6,4,2,0
+1977,Mindoro,Philippines,?,37,33,4,24,?,?,0
+1977,San Cristobal de las Casas,Mexico,Palenque - San Cristobal de las Casas,13,12,1,13,12,1,0
+1977,Rome,Italy,"Rome, Italy - Asmara, Ethiopia",5,2,3,5,2,3,0
+1977,Near Funchal,Island of Madeira,Brussels - Funchal,164,156,8,131,125,6,0
+1977,Near Bariloche,Argentina,Buenos  Aires - San Carlos de Bariloche,79,74,5,46,41,5,0
+1977,Near Beziers,France,Mont-de-Marsan-Hyères,32,28,4,32,28,4,0
+1977,Near Al Bayda,Lebanon,Jeddah - Benghazi,165,159,6,59,59,0,0
+1977,Straits of Johore,near Kampung Ladang,Penang - Kuala Lumpur,100,93,7,100,93,7,0
+1977,Intracostal City,Louisiana,?,19,18,1,17,16,1,0
+1977,Tarko-Saley,USSR,Tarko-Sale - Surgut,23,18,5,17,13,4,0
+1977,Hierro,Canary Islands,Lajes-Lajes,13,0,13,13,0,13,0
+1977,Evansville,Indiana,Evansville - Nashville,29,26,3,29,26,3,0
+1977,Near Salt Lake City,Utah,"San Francisco, CA - Salt Lake City, Utah",3,0,3,3,0,3,0
+1977,Off Madeira,Portugal,Zurich-Genève-Funchal,57,52,5,36,35,1,0
+1977,Vieques,Puerto Rico,"St Croix, VI - Vieques, PR",10,9,1,5,5,0,0
+1977,Willemstad,Curacao,Charlotte Amalie-Willemstad,10,8,2,10,8,2,0
+1977,Cuenca,Ecuador,Guayaquil - Cuenca,24,20,4,24,20,4,0
+1978,Off Bandra,Maharashtra,Bombay - Dubai,213,190,23,213,190,23,0
+1978,Near San Vincente,Colombia,Neiva - San Vincente,14,10,4,14,10,4,0
+1978,Eirunepe,Brazil,?,14,12,2,2,0,2,0
+1978,Near Artigas,Uruguay,Artigas - Montevideo,44,40,4,44,40,4,0
+1978,Richland,Washington,"Richland, WA - Seattle, WA",17,15,2,17,15,2,0
+1978,Cranbrook,British Columbia,Calgary - Cranbrook,49,44,5,42,38,4,0
+1978,Solvang,California,Visalia - Santa Barbara - Santa Maria,7,4,3,7,4,3,0
+1978,LAX,Los Angeles,Los Angeles - Honolulu,200,186,14,2,2,0,0
+1978,Kano,Nigeria,Abuja - Kano,18,11,7,18,11,7,0
+1978,Off Caracas,Venezuela,Caracas - Cumana,47,43,4,47,43,4,0
+1978,Vrastsa,Bulgaria,Sofia - Warszawa,73,66,7,73,66,7,0
+1978,Near Riverside,California,"Santa Ana, CA - Lake Havasu, AZ",6,5,1,6,5,1,0
+1978,Okaraba,Burma,Yangon - Myitkyina,48,44,4,48,44,4,0
+1978,Off Galveston,Texas,?,6,4,2,3,3,0,0
+1978,St. Thomas,Virgin Islands,"St. John, VI - St. Croix, VI",9,7,2,2,0,2,0
+1978,Near Murmansk,Russia,Paris - Seoul,109,97,12,2,2,0,0
+1978,Bogota,Colombia,Bogota - Barranquilla,12,9,3,8,5,3,0
+1978,Pensacola,Florida,"Miami, FL - Pensacola, FL - Mobile, AL",58,52,6,3,3,0,0
+1978,Pochinok,Russia,Baku - Leningrad,134,126,8,4,4,0,0
+1978,Saint John's,Newfoundland,Saint John's - Saint Anthony,10,8,2,10,8,2,0
+1978,Off Bergen,Norway,Bergen - Stratjford-A,18,16,2,18,16,2,0
+1978,Toronto,Canada,Toronto - Winnipeg,107,102,5,2,2,0,0
+1978,Sogamoso,Bolivia,Bucaramanga-Leticia-La Paz,18,15,3,18,15,3,0
+1978,Papun,Burma,Papun-Rangoon,14,11,3,14,11,3,0
+1978,Las Vegas,Nevada,"Las Vegas, NV - Santa Ana, CA",10,9,1,10,9,1,0
+1978,Conakry,Guinea,Conakry - Bamako,17,9,8,15,8,7,0
+1978,Coal Harbour,BC,Victoria harbor - Victoria Harbor Water Aerodome,13,11,2,11,9,2,0
+1978,Near Kariba,Rhodesia (Zimbabwe),Kariba - Salisbury,56,52,4,38,34,4,0
+1978,Wrangell,Alaska,"Wrangell, AK - Return",3,2,1,3,2,1,0
+1978,Near Mexico City,Mexico,Mexico City - Morelia,21,19,2,18,17,1,0
+1978,Whittier,AK,"Anchorage, AK - Whittier, AK",6,5,1,6,5,1,0
+1978,Paranaque,Philippines,Laoag - Paranaque,28,24,4,21,17,4,12
+1978,San Diego,California,Los Angeles - San Diego,137,128,9,137,128,9,7
+1978,Near Kuopio,Finland,Kuopio - Helsinki,15,12,3,15,12,3,0
+1978,Near Mandalay,Myanmar,?,44,40,4,2,1,1,0
+1978,Santiago de Chile,Chile,Military exercises,18,?,?,18,?,?,?
+1978,Sverdlovsk,Russia,Sverdlovsk -,9431335,38,34,4,38,34,4
+1978,Kenai,Alaska,"Kenai, AK - Return",7,6,1,2,2,0,0
+1978,Off Bellona,Solomon Islands,?,11,?,?,11,?,?,0
+1978,Gulf of Sivash,USSR,Krasnodar - t:,97305504,26,21,5,26,21,5
+1978,Off Alexandria,Egypt,?,18,?,?,18,?,?,0
+1978,Near Katunayake,Sri Lanka,Jeddah - Colombo,262,249,13,183,175,8,0
+1978,Off Marie Galante Island,West Indies,?,20,19,1,15,14,1,0
+1978,Near Leh,India,Chandigarh - Leh,77,70,7,77,70,7,1
+1978,Near Rubio,Venezuela,Cucuta - Arauca,27,24,3,27,24,3,0
+1978,Hydaburg,Alaska,Ketchikan - Hydaburg,5,4,1,5,4,1,0
+1978,Near Steamboat Springs,Coloado,Steamboat Springs - Denver,22,20,2,2,1,1,0
+1978,Selvapiana,Italy,?,10,9,1,10,9,1,0
+1978,Hyderabad,India,?,132,126,6,1,1,0,3
+1978,Off Cinisi,Sicily,Rome - Palermo,129,124,5,108,103,5,0
+1978,Portland,Oregon,Denver - Portland,189,181,8,10,8,2,0
+1979,Minsk,Russia,Tallinn - Minsk,13,9,5,13,8,5,0
+1979,Bechar,Algeria,?,23,20,3,14,14,0,0
+1979,Rodez,France,?,6,4,2,5,3,2,0
+1979,125 miles ENE of Tokyo,Japan,Tokyo-Los Angeles-Rio de Janeiro,6,0,6,6,0,6,0
+1979,Near Agudos,Brazil,Bauru - Sao Paulo,18,16,2,18,16,2,0
+1979,Near Kariba,Rhodesia,Kariba - Salisbury,59,54,5,59,54,5,0
+1979,Clarksburg,West Virginia,Clarksburg - Washington DC,25,22,3,2,1,1,0
+1979,Manakau Harbor,New Zealand,Gisborne - Auckland -Training,4,2,2,2,1,1,0
+1979,Barentu,Ethiopia,?,5,2,3,5,2,3,0
+1979,Gulfport,Mississippi,Houston - Gulfport - New Orleans,8,7,1,8,7,1,0
+1979,Off Marina del Rey,California,New York - Santa Monica,7,4,3,3,1,2,0
+1979,Bejing,China,?,12,0,12,12,0,12,32
+1979,Near Doha Airport,Qatar,Amman - Doha,64,49,15,45,41,4,0
+1979,Near Moscow,Russia,Moscow - Odessa,119,113,6,58,57,1,0
+1979,Luanda,Angola,Luanda-Berlin,10,6,4,10,6,4,0
+1979,Ste. Foy,PQ,Quebec - Montreal,24,21,3,17,14,3,0
+1979,Off Avalon,California,"San Pedro, CA - Catalina, CA",11,10,1,1,1,0,0
+1979,Newark,New Jersey,"Newark, NJ - Flushing, NY",18,15,3,3,3,0,0
+1979,Near Cuenca,Ecuador,Quito - Cuenca,57,52,5,57,52,5,0
+1979,Bullen Point,Alaska,Bullen Point - Deadhorse,3,0,3,3,0,3,0
+1979,Chicago O'Hare,Illinois,"Chicago, IL- Los Angeles, CA",271,258,13,271,258,13,2
+1979,Off Dakar,Senegal,Bouceif - Dakar,12,7,5,12,7,5,0
+1979,Rockland,Maine,Boston - Rockland,18,16,2,17,15,2,0
+1979,Near Leh,India,?,27,0,27,27,0,27,0
+1979,Hyannis,Massachusetts,"New York, NY - Hyannis, MA",10,8,2,1,0,1,0
+1979,Near Medan Airfield,Indonesia,Talang Betutu - Medan,61,57,4,61,57,4,0
+1979,Bua,Fiji,Suva-Nausori - Bua-Dama,9,8,1,9,8,1,0
+1979,Anchorage,Alaska,"Anchorage, AK - Kenai, AK",7,6,1,7,6,1,0
+1979,Beirut,Lebanon,Training,6,0,6,6,0,6,0
+1979,St. Croix,Virgin Islands,St. Croix - St. Kitts,21,19,2,8,7,1,0
+1979,Off Sumburgh,Shetlands,?,47,44,3,17,15,2,0
+1979,Canton,Ohio,?,3,2,1,1,0,1,0
+1979,Leningrad,USSR,Smolensk -,760509,14,12,2,14,12,2
+1979,Near Panvel,India,Pune-Bombay,45,40,5,45,40,5,0
+1979,Near Volgograd,Russia,Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev,178,155,13,178,155,13,0
+1979,Near Enisseysk,USSR,Norisk - Krasnoyarsk,16,10,6,11,5,6,0
+1979,Near Kirsanov,Russia,Kiev - Kazan,63,58,5,63,58,5,0
+1979,Andema,Russia,Arkhangelsk -,77303602,44,37,7,40,35,5
+1979,Off Taipei,Taiwan,Training,6,0,6,6,0,6,0
+1979,Near Klamath Falls,Oregon,Redmond - Klamath Falls - Medford,12,10,2,12,10,2,0
+1979,Near Sarroch,Italy,Alghero - Cagliari,31,27,4,31,27,4,0
+1979,Blink Horn Point,Canada,:  Comox-Port Hardy,9,8,1,4,8,1,0
+1979,Merced,California,Training,5,0,5,5,0,5,0
+1979,Porpoise Bay,British Columbia Canada,Vancouver - Sechelt,16,14,2,2,1,1,0
+1979,Athens,Greece,Zurich - Geneva - Athens - Bombay - Beijing,156,145,11,14,14,0,0
+1979,Covington,Kentucky,"Covington, KY - Nashville, TN",8,7,1,8,7,1,0
+1979,Lensk,Russia,Lensk -,1G97-34,12,10,2,3,2,1
+1979,Mexico City,Mexico,Los Angeles  - Mexico City,88,77,11,72,63,9,1
+1979,Near Chicago,Illinois,Chicago - Washington D.C.,78,72,6,0,0,0,0
+1979,Vologda,Russia,Positioning,5,0,5,3,0,3,0
+1979,Granger,Utah,"Ogden, UT - Las Vegas, NV",3,0,3,3,0,3,0
+1979,Near At Ta'if,Jeddah,Jeddah - Karachi,156,145,11,156,145,11,0
+1979,Near Mt. Erebus,Ross Ice Shelf,Auckland - Christchurch,257,237,20,257,237,20,0
+1979,San Andres Island,Colombia,?,9,7,2,9,7,2,0
+1979,Cherskiy,Russia,?,7,2,5,7,2,5,0
+1979,Apolo,Bolivia,?,11,?,?,10,?,?,0
+1979,Cerro Toledo Mountain,Colombia,Arauca - Bogota,21,16,5,21,16,5,0
+1979,Near Puerto Esperanza,Peru,Pucallpa - Puerto Esperanza,29,24,5,29,24,5,0
+1979,Ankara,Turkey,Ankara - Samsun,45,41,4,41,38,3,0
+1979,Menari,Papua New Guinea,Port Morsbey - Maanari,16,14,2,16,14,2,0
+1980,Haiti,,Port au Prince - Cape Haitien,9,8,1,9,8,1,0
+1980,Over the Atlantic Ocean,,Shreveport - Baton Rouge,2,1,1,2,1,1,0
+1980,Shungnak,Alaska,"Ambler, AK - Kobuk, AK",9,8,1,7,6,1,0
+1980,Elburz Mtns.,near Tehran,Babol Sar - Tehran,128,120,8,128,120,8,0
+1980,Mt. Cemonyet,Indonesia,Bandung - Jakarta,13,10,3,13,10,3,0
+1980,Near Mandalay,Burma,Mandalay - Rangoon,44,?,?,43,?,?,0
+1980,Baracoa,Cuba,Moa - Baracoa,37,33,4,1,1,0,0
+1980,Leeville,Louisiana,"Leeville, LA - Grand Isle, LA",7,6,1,6,6,0,0
+1980,Sydney,NSW,Sydney - Tomora,13,12,1,13,12,1,0
+1980,Near Agra,India,?,47,?,?,46,?,?,1
+1980,Manila,Philippines,Taipei - Manila,135,124,11,2,2,0,0
+1980,Near Warsaw,Poland,New York City - Warsaw,87,77,10,87,77,10,0
+1980,Near Yenice,Turkey,Training,18,12,6,18,12,6,0
+1980,Houston,Texas,Houston - Brownwood,10,8,2,7,5,2,0
+1980,Off Macae,Brazil,?,14,?,?,14,?,?,0
+1980,Florianopolis,Brazil,Sao Paulo - Florianopolis,58,50,8,55,47,8,0
+1980,Krasnoyarsk,Russia,Krasnoyarsk - Yeniseisk,53,49,4,2,2,0,0
+1980,Posht-i-Badam,Iran,?,7,0,7,5,0,5,0
+1980,Tenerife,Canary Islands,Manchester - Tenerife,146,138,8,146,138,8,0
+1980,Don Muang,Thailand,Khon Kaen - Bangkok,53,49,4,44,40,4,0
+1980,Near Yachiba,Bolivia,Cochabamba-Yacuiba,13,10,3,13,10,3,0
+1980,Near Matala,Angola,Jamba-Lubango,29,25,4,29,25,4,0
+1980,Near Dushanbe,Russia,Leningrad - Dushanbe,29,25,4,29,25,4,0
+1980,Valley,Nebraska,"Appleton, WI - Minneapolis, MN, - Lincoln, NE",15,13,2,13,11,2,0
+1980,Tyrrhenian Sea,off Ustica,Bologna - Palermo,81,77,4,81,77,4,0
+1980,Near Alma-Ata,Kazakhstan,Alma Ata - Simferopol,166,156,10,166,156,10,0
+1980,Cerro Lilio,Mexico,"Lima, Peu - Mexico City, Mexico",7,0,7,3,0,3,0
+1980,Houma,Louisiana,Oil Platform SS-224 - Houma LA,13,12,1,13,12,1,0
+1980,Nouadhibou,Mauretania,Bucurest  - Nouadhibou,168,152,16,1,1,0,0
+1980,Riyadh,Saudi Arabia,Riyadh - Jeddah,301,287,14,301,287,14,0
+1980,Near Jakarta,Indonesia,Banjarmasin-Sjamsudin Noor  -  Jakarta,37,31,6,37,31,6,0
+1980,Near Montelimar,France,?,8,0,8,8,0,8,0
+1980,Puerto Olaya,Colombia,Barranquilla - Bogota,3,0,3,3,0,3,0
+1980,Off Freeport,Bahamas,West Palm Beach - Freeport Grand Bahama Islands,34,30,4,34,30,4,0
+1980,Kindu,Zaire,Kindu-Kinshasa,36,31,5,36,31,5,0
+1980,Near Medina,Saudi Arabia,?,89,81,8,89,81,8,0
+1980,Near Kindu,Zaire,?,36,34,2,36,34,2,0
+1980,Badakshan,Afghanistan,?,45,?,?,45,?,?,0
+1980,Near Cairo,Egypt,Ramstein AB - Cairo,13,7,6,13,7,6,0
+1980,Seoul,South Korea,Los Angeles-Anchorage-Séoul,226,212,14,15,9,6,0
+1980,Near Medellin,Colombia,Bogota-Medellin,20,3,17,20,3,17,0
+1980,Pecos City,Texas,?,2,0,2,2,0,2,0
+1980,Dar es Salaam,Tanzania,Dodoma - Dar es Salaam,10,9,1,10,9,1,0
+1980,Near Rio Hacha,Colombia,Rio Hacha - Medellin,70,63,7,70,63,7,0
+1980,Qatar,Qatar,Dhahran - Karachi,291,271,20,2,2,0,0
+1981,Ramstein AFB,West Germany,"Ramstein AFB - Oslo, Norway",11,2,7,11,2,7,0
+1981,Spokane,Washington,Moses Lake - Spokane,9,7,2,7,5,2,0
+1981,Near Leningrad,Russia,Leningrad-Vladivostok,52,46,6,52,46,6,0
+1981,White Plains,New York,"White Plains, NY - Toronto, Canada - White Plains, NY",8,6,2,8,6,2,0
+1981,Avalon,California,"San Pedro, CA - Avalon, CA",8,7,1,2,2,0,0
+1981,Belem,Brazil,Tucurui - Belem,14,12,2,11,9,2,0
+1981,Off Tabones Island  Philippines,,Training,24,15,9,23,15,8,0
+1981,Moroni,Comoro Islands,Moroni-Saint-Denis de la Réunion,18,14,4,18,14,4,0
+1981,Shemya AFB,Alaska,Eielson AFB-Shemya AFB,24,?,?,6,?,?,0
+1981,Redzikowo,Poland,Varsovie-Slupsk,52,47,5,1,1,0,0
+1981,Laguna Soliz,Bolivia,?,7,4,3,7,4,3,0
+1981,Cincinnati,Ohio,Cincinnati - Detroit,2,0,2,1,0,1,0
+1981,Loveland,Colorado,"Denver, CO - Gillette, WY",19,15,4,15,12,3,0
+1981,Pekanbaru,Indonesia,Singapour-Pekanbaru,17,13,4,15,11,4,0
+1981,Batagay,Russia,Batagay -,1G53-16,12,10,2,12,10,2
+1981,Near Fredrick,Maryland,Training,21,3,18,21,3,18,0
+1981,Rio de la Plata,Argentina,Tucuman - Buenos Aires,31,26,5,31,26,5,0
+1981,Near Menongue,Angola,?,4,0,4,4,0,4,0
+1981,Pinarete Mountain,Mexico,Puerto Escondido-Oaxaca,24,21,3,24,21,3,0
+1981,Near Zumba,Ecuador,Quito-Macara,18,15,3,18,15,3,0
+1981,Cairo,Egypt,?,17,11,6,17,11,6,0
+1981,Ust-Barguzin,Russia,Ulan - Severomuysk,48,44,4,48,44,4,0
+1981,Nailstone,England,London - East Midlands,3,0,3,3,0,3,0
+1981,Near Yerevan,Armenia,"Tehran, Iran - Larnaca, Cyprus",4,1,3,4,1,3,0
+1981,Mogadishu,Somalia,Mogadishu- Hargeisa,50,44,6,50,44,6,0
+1981,Madagascar,,Toamasina-Andapa,19,17,2,19,17,2,0
+1981,Caruru,Colombia,?,9,5,4,5,5,0,0
+1981,Chihuahua,Mexico,Monterey - Chihuahua,66,60,6,32,30,2,0
+1981,Near Sanyi,Miao-li,Taipei - Kaohsiung,110,104,6,110,104,6,0
+1981,Near Zavitinsk,Russia,Komsomol'sk-na-Amure - Blagoveshchensk,32,27,5,31,26,5,0
+1981,Mt. Elena,Colombia,Florence - Neiva,50,44,6,50,44,6,0
+1981,Zeya,Russia,Chita - Zeya,34,29,5,3,1,2,0
+1981,Paipa,Colombia,Paipa - Cartagena,22,19,3,21,18,3,0
+1981,Zeleznogorsk,Russian,Irkutsk - Zeleznogorsk,40,29,11,40,29,11,0
+1981,Nellis AFB,Nevada,"Fort Lewis, WA - Indian springs, NV",70,61,9,7,7,0,0
+1981,Near Babaeski,Turkey,?,0,0,0,0,0,0,40
+1981,Tehran,Iran,Ahwaz - Tehran,80,75,5,60,75,5,20
+1981,Casper,Wyoming,"Casper, WY - McAllen, TX",3,1,2,3,1,2,0
+1981,Moerdijk,Netherlands,Rotterdam - Eindhoven - Hamburgh,17,13,4,17,13,4,0
+1981,Kufstein,Austria,Salzbourg-Olbia,9,?,?,9,?,?,0
+1981,St. Thomas,U.S. Virgin Islands,Saint Croix - Saint Thomas,5,2,3,5,2,3,0
+1981,Bafoussam,Cameroon,?,24,22,2,1,1,0,0
+1981,Sierra de Guerro,Mexico,Acapulco - Guadalajara,18,12,6,18,12,6,0
+1981,Norilsk,Russia,Krasnoyarsk - Norilsk,167,160,7,99,95,4,0
+1981,Biratnagar,Nepal,Biratnagar-Katmandou,10,9,1,10,9,1,0
+1981,Castries,Saint Lucia Island,Castries-Miami,3,0,3,3,0,3,0
+1981,Mt. San Pietro,near Ajaccio,Ljubljana - Ajaccio,180,173,7,180,173,7,0
+1981,Honolulu,Hawaii,"Haliive, HI  - Honolulu, HI",12,11,1,11,10,1,0
+1981,Kuala Belait,Brunei,?,12,?,?,12,?,?,0
+1981,Near Covenas,Colombia,Medellin-Monteria-Covenas,13,11,2,13,11,2,0
+1982,Near Gelendzhik,USSR,Novorossiysk - Sukhumi,18,16,2,18,16,2,0
+1982,Washington,D.C.,"Washington D.C. - Fort Lauderdale, FL",79,74,5,74,70,4,4
+1982,Near Addis Ababa,Ethiopia,?,73,67,6,73,67,6,0
+1982,Logan Airport,Boston,Newark - Boston,212,200,12,2,2,0,0
+1982,Constanta,Romania,Training,7,0,7,7,0,7,0
+1982,Djibouti,Djbouti,Training,35,30,5,35,30,5,0
+1982,Island of Cheju,South Korea,Seoul - Jeju,53,47,6,53,47,6,0
+1982,Near Srinagar,India,Pathankot-Srinagar,23,18,5,23,18,5,0
+1982,Mt. Ipao,Philippines,Manila - Sicogon,32,29,3,3,1,2,0
+1982,Tokyo,Japan,Fukuoka - Tokyo,174,166,8,24,24,0,0
+1982,Cerro el Tablazo,Colombia,?,4,0,4,4,0,4,0
+1982,Providence,Rhode Island,New York City - Bridgeport - New Haven - Groton - Boston,12,10,2,1,1,0,0
+1982,Mehamn,Norway,Berlevag - Mehamn,15,13,2,15,13,2,0
+1982,Near Woodstock,Illinois,Sawyer-Chicago,27,23,4,27,23,4,0
+1982,Leesburg,Florida,None,3,2,1,3,2,1,0
+1982,Branti Airport,Indonesia,Bogota-Saravena,27,23,4,27,23,4,0
+1982,Queate,Colombia,Villavicencio - Bogota,21,15,6,21,15,6,0
+1982,Near Tanana,Alaska,Banddanack - Fairbanks,3,2,1,3,2,1,0
+1982,Near Erzurum,Turkey,Erzurum - Incirlik,27,19,8,27,19,8,0
+1982,Near Yangshuo,Guangxi,Guangzhou - Guilin,112,104,8,112,104,8,0
+1982,Gulf of Thailand,,?,13,?,?,13,?,?,0
+1982,Off Aden,Yemen,Mukalla - Aden,49,45,4,47,45,2,0
+1982,Judsonia,Arkansas,Training,7,0,7,7,0,7,0
+1982,South Atlantic Ocean,,?,30,?,?,21,?,?,0
+1982,Brazilia,Brazil,Sao Paulo - Brasilia,118,112,6,2,2,0,0
+1982,Off Natuma Island,Indonesia,?,10,?,?,10,?,?,0
+1982,Near Songnam-si,South Korea,Training,53,49,4,53,49,4,0
+1982,Near Pacatuba,Brazil,Rio de Janerio - Fortaleza,137,128,9,137,128,9,0
+1982,Tabatinga,Brazil,Eirunepe - Tabatinga,44,40,4,44,40,4,0
+1982,Bombay,India,Kuala Lumpur - Mumbai,111,99,12,17,15,2,0
+1982,Mount Galunggung,Indonesia,Kuala Lampur - Perth,257,247,10,0,0,0,0
+1982,Southern Belarus,USSR,Leningrad - Kiev,132,124,8,132,124,8,0
+1982,Oganda,Gabon,Booué-Ndjolé-Libreville,12,?,?,12,?,?,0
+1982,Near Moscow,Russia,Moscow -,4037536,90,80,10,90,80,10
+1982,Kenner,Louisiana,New Orleans - Las Vegas,145,138,7,145,138,7,8
+1982,Jolo,Philippines,Jolo-Kota Kinabalu,30,25,5,4,3,1,0
+1982,Castaic,California,Movie set,1,0,1,0,0,0,3
+1982,Pacific Ocean,,Tokyo - Honolulu,285,270,25,1,1,0,0
+1982,Mindat,Myanmar,?,8,5,3,8,5,3,0
+1982,Near Managua,Nicaragua,Managua - El Rodeo,20,18,2,20,18,2,0
+1982,Sukhumi,Georgia,Sukhumi - Kutaisi,11,9,2,11,9,2,0
+1982,Near Valladolid,Ecuador,Zumba - Loja,44,41,3,44,41,3,0
+1982,Rio Branco,Brazil,Porto Velho - Rio Branco,10,8,2,10,8,2,0
+1982,Near Mannheim,West Germany,?,46,42,4,46,42,4,0
+1982,Near Malaga,Spain,Malaga - New York City,394,381,13,50,47,3,0
+1982,Luxembourg,Luxembourg,Moscou-Luxembourg-La Havane-Lima,77,66,11,7,?,?,0
+1982,Off Taiwan,,?,15,?,?,15,?,?,0
+1982,Lubango,Angola,?,15,9,6,15,9,6,0
+1982,Quetame,Colombia,San Jose del Guaviare - Bogotá,22,20,2,22,20,2,0
+1982,Near Pueblo,Colorado,"Sante Fe, NM - Pueblo, CO",2,0,2,2,0,2,0
+1982,La Serena,Chile,Santiago - La Serena,46,42,4,46,42,4,0
+1982,Near San Andres de Bocay,Nicaragua,?,88,84,4,84,84,0,0
+1982,Rostov-on-Don,Russia,Rostov-on-Don - Krasnovodsk,16,0,16,16,0,16,0
+1982,Guangzhou,China,Changsha-Canton,69,58,11,25,25,0,0
+1983,Brainerd,Minnesota,Minneapolis-St Paul - Brainerd,33,30,3,1,1,0,0
+1983,Detroit,Michigan,Detroit - Los Angeles,3,0,3,3,0,3,0
+1983,Ankara,Turkey,Paris-Tripoli-Istanbul-Ankara,67,60,7,47,47,0,0
+1983,Fayetteville,North Carolina,?,6,0,6,6,0,6,0
+1983,Off Macae,Brazil,?,11,?,?,11,?,?,0
+1983,Near Shach Goan,Afghanistan,Uruzgan-Kaboul,19,17,2,19,17,2,0
+1983,Barquisimeto Venezuela,,Caracas - Barquisimeto,50,45,5,23,22,1,0
+1983,Newark,New Jersey,Chicago - Newark,2,0,2,2,0,2,0
+1983,Selawik,Alaska,Nome - Ambler,3,2,1,2,1,1,0
+1983,Near Khartoum,Sudan,Khartoum-Monrovia,9,6,3,8,5,3,9
+1983,Leninakan,Russia,Nalchik - Leninakan,21,17,4,21,17,4,0
+1983,Near Toba,Japan,Training,14,?,?,14,?,?,0
+1983,Iwakuni AB,Japan,Training,14,0,14,11,0,11,0
+1983,Guayaquil,Ecuador,Guayaquil - Quito,100,94,6,8,7,1,0
+1983,Jacksonville,Florida,"Jacksonville NAS - Guantanamo Bay, Cuba",15,9,6,15,98,6,0
+1983,Near Ban Ta Khli,Thailand,?,30,24,6,30,24,6,0
+1983,En route Miami,FL - Nassau,"Miami, FL - Nassau, Bahamas",172,162,10,0,0,0,0
+1983,Klyuchi,Russia,Petropavlovsk-Kamchatsky - Klyuchi,37,31,6,33,37,6,0
+1983,Tanjung Karang,Indonesia,Bandar Lampung-Djakarta,61,57,4,3,1,2,0
+1983,Cincinnati International Airport,Covington/Hebron,Dallas-Fort Worth - Toronto,46,41,5,23,23,0,0
+1983,Off Quemoy,Taiwan,Kinmen-Taipei,47,39,8,47,39,8,0
+1983,Near Cold Bay,Alaska,"Cold Bay, Alaska - Seattle, Washington",15,10,5,0,0,0,0
+1983,Kauai,Hawaii,Brabers Point-Barbers Point,14,0,14,14,0,14,0
+1983,Niela,Mali,?,7,5,2,7,5,2,0
+1983,Las Vegas,Nevada,Training,6,1,5,6,1,5,0
+1983,Labe,Guinea,Pyongyang - Conakry,23,?,?,23,?,?,0
+1983,Near Cuenca,Azuay,Quito - Cuenca,119,111,8,119,111,8,0
+1983,Off Scilly Islands,UK,Penzance - Scilly Islands,26,23,3,20,19,1,0
+1983,Gimli,Manitoba,Montreal - Edmonton,69,61,8,0,0,0,0
+1983,Grand Canyon,Arizona,"Las Vegas, NV  - Grand Canyon, AZ",10,9,1,10,9,1,0
+1983,Near Alma-Ata,Kazakastan,Kazan - Chelyabinsk - Alma-Ata,90,84,6,90,84,6,0
+1983,Near Sakhalin Island,Russia,Anchorage - Seoul,269,246,23,269,246,23,0
+1983,Near Smithers,British Columbia,Campbell River - Smithers,9,?,?,9,?,?,0
+1983,Guilin,China,Guilin - Beijing,106,100,6,11,11,0,0
+1983,Near Mina Jebel Ali,UAE,Karachi - Abu Dhabi,112,107,5,112,107,5,0
+1983,Off Lanyu Island,Taiwan,Taitung-Lanyu Island,10,9,1,10,9,1,0
+1983,Aracatuba,Brazil,Campo Grande - Araçatuba,15,13,2,7,5,2,0
+1983,Near Lonkin,Myanmar,Lonkin - Myitkyina,14,11,3,9,6,3,0
+1983,Pinckneyville,Illinois,"Springfield, Il - Carbondale, IL",10,7,3,10,7,3,0
+1983,Middletown,Pennsylvania,Middletown - Washington DC,30,27,3,1,1,0,0
+1983,Lubango,Huila,Lubango - Luanda,130,126,4,130,126,4,0
+1983,Landsdowne House,Canada,?,7,5,2,4,4,0,0
+1983,Madrid-Barajas,Spain,Paris - Madrid - Bogota,192,169,23,181,158,23,0
+1983,Near Enugu,Nigeria,Calabar-Enugu,72,66,6,53,51,2,0
+1983,Near Madrid,Spain,Madrid - Rome,135,120,15,93,87,6,0
+1983,Near Medellin,Colombia,Medellin - Miami,3,0,3,3,0,3,22
+1983,Paulatuk,Northwest Territory,Inuvik - Paulatuk,12,10,2,2,1,1,0
+1983,Leshukonskoye,Russia,Arkhangelsk - Leshukonskoye,49,44,5,44,39,5,0
+1984,Amman,Jordan,?,13,?,?,13,?,?,0
+1984,Novoagansk,Russia,?,76,71,5,38,38,0,0
+1984,Saint Louis,Missouri,"Saint Louis, MO - Toronto, Canada",2,0,2,1,0,1,0
+1984,Sofia,Bulgaria,Berlin - Sofia,50,45,5,50,45,5,0
+1984,Cochabamba,Bolivia,Cochabamba-La Paz,3,0,3,1,0,1,0
+1984,Izhevsk,Russia,Kuibyshev - Izhevsk,51,47,4,4,3,1,0
+1984,Terre Haute,Indiana,Training,3,1,2,3,1,2,0
+1984,Near Debre Zelt,Ethiopia,?,38,33,5,26,?,?,0
+1984,Near San Gerardo,El Salvador,?,28,?,?,28,?,?,0
+1984,JFK Airport,New York,"Oslo, Norway, New York, NY",177,163,14,0,0,0,0
+1984,Barranquilla,Colombia,Barranquilla - Bogota,6,2,4,4,1,3,0
+1984,San Borja,Bolivia,Trinidad-San Borja,23,20,3,23,20,3,0
+1984,Near Rurrenabaque,Bolivia,?,5,2,3,5,2,3,0
+1984,Near Hunghae,South Korea,Pohang - Kannung,29,?,?,29,?,?,0
+1984,Off  Bimini,,Ft. Lauderdale - Bimini,6,5,1,6,5,1,0
+1984,Imperatriz,Brazil,?,35,31,4,19,17,2,0
+1984,Elbet Beni Salama,Egypt,?,2,0,2,2,0,2,19
+1984,Chalkhill,Pennsylvania,Baltimore - Detroit,4,1,3,4,1,3,0
+1984,Windsor Locks,Connecticut,Syracuse-Windsor Locks,3,1,2,3,1,2,0
+1984,Island Beach,New Jersey,?,3,1,2,3,1,2,0
+1984,Near Sao Pedro d' Aldeia,Brazil,Rio de Janeiro - Macaé,18,16,2,18,16,2,0
+1984,Off Buenavista,Philippines,?,30,?,?,30,?,?,0
+1984,Sigonella AFB,Italy,Sigonella - Diego Garcia,9,1,8,9,1,8,0
+1984,Tau Island,American Samoa,Pango Pango - Tau Island,14,11,3,1,1,0,0
+1984,Vieques,Puerto Rico,"Vieques, PR - St. Croix, VI",9,8,1,9,8,1,0
+1984,Nawabshah,Pakistan,Aden - Karachi - Tashkent,24,15,9,24,15,9,0
+1984,Dacca,Bangladesh,Chittagong-Patenga - Dhaka,49,45,4,49,45,4,0
+1984,Near Memphis,Tennessee,Memphis - Chicago,3,1,2,3,1,2,0
+1984,Near Wamena,Indonesia,Wamena-Jayapura,3,1,2,2,1,1,0
+1984,San Luis Obispo,California,San Luis Obispo - San Fransisco,17,13,4,17,13,4,0
+1984,Douala,Cameroon,Douala - Yaounde,116,109,7,2,2,0,0
+1984,Mt. Musaka,Papua,Wewak-Tabubil-Telefomin-Kiunga,11,9,2,9,7,2,0
+1984,Near Naples,Florida,"Naples, FL - Tampa, FL",6,5,1,1,1,0,0
+1984,Near the Kwango River,Zaire,Kinshasa - Tshikapa,30,25,5,30,25,5,0
+1984,Opole,Poland,Airshow,25,22,3,11,11,0,0
+1984,Quito,Ecuador,Quito - Guayaquil,4,0,4,4,0,4,49
+1984,Near Sarakchar,Afghanistan,?,50,45,5,50,45,5,0
+1984,Fort Franklin,Canada,Fort Norman - Fort Franklin,7,6,1,7,6,1,0
+1984,Near Omsk,Russia,Krasnodar - Omsk,179,170,9,174,169,5,4
+1984,Goose Bay,Newfoundland,St. Anthony - Goose Bay,4,2,2,4,2,2,0
+1984,Near Kabul,Afghanistan,Tachkent-Kaboul,11,7,4,11,7,4,0
+1984,Off Davao,Philippines,Davao - Manila,4,0,4,4,0,4,0
+1984,Loja,Peru,Loja - Zumba,14,12,2,14,12,2,0
+1984,Near Kostroma,USSR,Kostroma -Kvanovo,17,15,2,17,15,2,0
+1984,Jacksonville,Florida,Jacksonville - Tampa,13,11,2,13,11,2,0
+1984,Near Jaen,Peru,?,21,18,3,21,18,3,0
+1984,Near Bhojpur,Nepal,Katmandou-Bhojpur,23,20,3,15,12,3,0
+1984,Near Kranoyarsk,Russia,Krasnoyarsk - Irkutsk,111,104,7,110,103,7,0
+1985,Near La Paz,Bolivia,"Asuncion, Paraguay - La Paz, Bolivia",29,19,10,29,19,10,0
+1985,Kansas City,Kansas,Detroit - Kansas City,3,0,3,3,0,3,0
+1985,Jinan,China,Nanjing - Jinan,41,34,7,38,31,7,0
+1985,Havana,Cuba,Havana - Managua,38,33,5,38,33,5,0
+1985,Carson,New Mexico,"Albuquerque, NM - Taos, NM -",3,2,1,3,2,1,0
+1985,Reno,Nevada,"Reno, NV - Minneapolis-St. Paul, MN",71,65,6,70,64,6,0
+1985,Off Puerto Castilla,Honduras,Howard AFB - Trujillo AP,21,16,5,21,16,5,0
+1985,Cerro el Plateado,Colombia,Medellin - Quibdo,23,21,2,23,21,2,0
+1985,Near Buga,Colombia,Florencia - Cali,17,15,2,17,15,2,0
+1985,Minsk,Belarus,Minsk - Leningrad,80,74,6,58,55,3,0
+1985,Soldotna,Alaska,"Anchorage, AK - Anchorage, AK",9,8,1,9,8,1,0
+1985,300 nm NW of San Francisco,California,Taipei - Los Angeles,274,251,23,0,0,0,0
+1985,Near Durango,Vizcaya,Madrid - Bilbao,148,141,7,148,141,7,0
+1985,Timbuktu,Mali,Tombouctou - Bamako,51,49,2,50,48,2,0
+1985,Near Valdez,Alaska,Eielson-Valdez-Eielson,3,0,3,3,0,3,0
+1985,Fort Hood,Texas,Training,6,0,6,6,0,6,0
+1985,Near Florencia,Colombia,Bogota - San Vicente del Caguán - Florencia,46,40,6,46,40,6,0
+1985,Salta,Argentina,Buenos Aires - Salta,7,5,2,7,5,2,0
+1985,Near Phuket,Thailand,Bangkok - Phuket,11,4,7,11,4,7,0
+1985,Las Cruces,New Mexico,"Dallas, TX - San Diego, CA",89,81,8,0,0,0,0
+1985,Santa Rosa,Bolivia,?,4,1,3,4,1,3,0
+1985,Kulusuk,Greenland,Positioning,5,0,5,2,0,2,0
+1985,Near L'vov,Ukraine,Tallin - L'vov,76,73,3,76,73,3,0
+1985,Off Tanegashima,Japan,"Iwakuni - Fulemma, Okinawa",17,15,2,17,15,2,0
+1985,Cabimas,Venezuela,Cabimas - Caracas,13,8,5,2,0,2,0
+1985,Nashville,Tennessee,Nashville - Indianapolis,2,0,2,2,0,2,0
+1985,Athens,Greece,Athens - Rome,153,145,8,1,1,0,0
+1985,Juara,Brazil,Juara - Cuiaba,17,15,2,17,15,2,0
+1985,Atlantic Ocean,110 miles West of Ireland,Montreal - London,329,307,22,329,307,22,0
+1985,Near Uchuduk,Uzbekistan,Karshi - Leningrad,200,191,9,200,191,9,0
+1985,Leticia,Colombia,Leticia - Bogota,80,76,4,80,76,4,0
+1985,Ft. Worth-Dallas,Texas,Fort Lauderdale - Dallas-Fort Worth,163,152,11,134,126,8,1
+1985,Mt. Osutaka,near Ueno Village,Tokyo - Osaka,524,509,15,520,505,15,0
+1985,Mulia,Indonesia,?,19,16,3,8,8,0,0
+1985,Aden,Yemen,Aden - Abu Dahbi,73,65,8,3,1,2,0
+1985,Manchester,England,Manchester - Kerkira,137,131,6,55,53,2,0
+1985,Auburn,Maine,"Boston, MA - Auburn, ME",8,6,2,8,6,2,0
+1985,Beale AFB,California,Training,7,0,7,7,0,7,0
+1985,Near Kandahar,Afghanistan,Kandahar - Farah,52,47,5,52,47,5,0
+1985,Milwaukee,Wisconsin,Milwaukee - Atlanta,31,27,4,31,27,4,0
+1985,Afghanistan,,?,26,22,4,26,22,4,0
+1985,Near Kharkov,Ukraine,Dnepropetrovsk - Moscow,9,4,5,9,4,5,0
+1985,Jenkinsburg,Georgia,Parachuting,17,16,1,17,16,1,0
+1985,Vitória da Conquista,Brazil,Vitória da Conquista - Salvador,2,0,2,2,0,2,0
+1985,Off South Head,Australia,Sidney - Brisbane,2,0,2,2,0,2,0
+1985,Near Kutayissi,USSR,Kutaisi - Poti,14,10,4,14,10,4,0
+1985,Near Beni,Bolivia,Beni - La Paz,2,0,2,2,0,2,0
+1985,Homer City,Pennsylvania,State College - Pittsburgh,1,0,1,1,0,1,0
+1985,Putao,Myanmar,?,4,2,2,4,2,2,0
+1985,Dothan,Alabama,Test flight,4,0,4,4,0,4,0
+1985,Near Sibyak,Indonesia,?,11,0,11,11,0,11,0
+1985,Luqa,Malta,Athens - Cairo,103,97,6,60,?,?,0
+1985,Near Luassingua,Angola,Cuito - Menongue,22,?,?,22,?,?,0
+1985,Gander,Newfoundland,"Gander - Fort Campbell, KY",256,248,8,256,248,8,0
+1985,Near Dhangadhi,Nepal,?,25,22,3,25,22,3,0
+1985,De Kalb,Texas,Guntersville - Dallas/Ft. Worth,9,7,2,7,7,0,0
+1986,Near Peten,Guatemala,Guatemala City-Santa Elena,94,88,6,94,88,6,0
+1986,Ellendale,Minnesota,?,3,2,1,3,2,1,0
+1986,Sao Paulo,Brazil,Sao Paulo - Belo Horizonte,72,67,5,1,1,0,0
+1986,Las Lomitas,Mexico,Villa Constitucion - Los Mochis,21,18,3,21,18,3,0
+1986,Kasongo,Zaire,Kasonga-Kinshasa,14,10,4,2,2,0,0
+1986,Off Makung,Taiwan,Taipei - Makung,13,6,7,13,6,7,0
+1986,Near Bugulma,Russia,Cheboksary - Bugulma,38,34,4,38,34,4,0
+1986,Alpena,Michigan,"Detroit, MI - Alpena, MI",9,7,2,3,2,1,0
+1986,Near Naha,Indonesia,Manado - Naha,16,14,2,2,0,2,0
+1986,Goose Bay,Newfoundland,Snegamook Lake - Goose Bay,5,4,1,4,3,1,0
+1986,Omsk,Soviet Union,?,9,3,6,9,3,6,0
+1986,Bangui,Central African Republic,?,0,0,0,0,0,0,35
+1986,Near Pemba,Mozambique,Pemba - Maputo,54,51,3,49,46,3,0
+1986,Maravatio,Mexico,Mexico City - Puerto Vallarta,167,159,8,167,159,8,0
+1986,Near Athens,Greece,Rome - Athens,121,114,7,4,4,0,0
+1986,Near Magdalena,New Mexico,?,11,0,11,11,0,11,0
+1986,Near Saravena,Colombia,Bogota - Saravena,13,11,2,13,11,2,0
+1986,San Salvador,El Salvador,San Salvador - Panama City,37,33,4,37,33,4,0
+1986,Near Taipei,Taiwan,?,22,?,?,22,?,?,0
+1986,Colombo,Sri Lanka,London - Zurich - Dubai - Colombo - Male,150,128,22,22,22,0,0
+1986,Djibouti,Djibouti,?,19,14,5,19,14,5,0
+1986,Antananarivo,Madagascar,Antananarivo - Antsirabe,13,0,13,13,0,13,0
+1986,Near Cairo,Egypt,Cairo - Alexandia,26,21,5,23,18,5,0
+1986,Port Ellen,Islay Island,Glasgow - Port Ellen,16,14,2,1,0,1,0
+1986,Grand Canyon,Arizona,Grand Canyon - Grand Canyon,25,22,3,25,22,3,0
+1986,Near Syktyvar,Russia,Syktyvkar -,60482,92,86,6,54,52,2
+1986,Maputo,Mozambique,Chimoio - Harare,17,13,4,17,13,4,0
+1986,Off St. Vincent,Leeward Islands,Vieux Fort - Kingstown,13,11,2,13,11,2,0
+1986,Near Wampusirpi,Honduras,Tegucigalpa - Duzuna,59,53,6,59,53,6,0
+1986,Malakal,Sudan,Malakal - Khartoum,60,57,3,60,57,3,0
+1986,Texarkana,Arkansas,Little Rock - Texarkana,2,0,2,2,0,2,0
+1986,Cerritos,California,Tijuana - Los Angeles,67,58,9,67,58,9,15
+1986,Karachi,Pakistan,Bombay-Karachi-Frankfurt-New York,384,364,20,16,14,1,1
+1986,Hopkinsville,Kentucky,?,4,0,4,3,0,3,0
+1986,Near Mantiqueira,Brazil,Sao Jose dos Campo - Manaus,5,3,2,5,3,2,0
+1986,Manado,North Sulawesi,Mangole - Manado,13,10,3,13,10,3,0
+1986,San Antonio,Texas,Kelly AFB - Warner Robins AFB,3,0,3,3,0,3,0
+1986,Ust-Maya,USSR,Ust-May -,780905,14,12,2,14,12,2
+1986,Chiraz,Iran,Chiraz-Téhéran,80,75,5,3,3,0,0
+1986,Near Komatipoot,South Africa,Lusaka - Maputo,44,35,9,34,26,8,0
+1986,Kuybyshev,Russia,Yekaterinburg - Kuybyshev,93,85,8,70,66,4,0
+1986,Manhattan,New York,Traffic reporting,2,1,1,2,1,1,0
+1986,Near Peshawar,Pakistan,Lahore - Peshawar,54,49,5,13,9,4,0
+1986,Near Managua,Nicaragua,?,23,20,3,21,19,2,0
+1986,Near Zahedan,Iran,Bakhtaran - Zahedan,103,96,7,103,96,7,0
+1986,Off Sumburgh Head,Shetlands,?,47,45,2,45,43,2,0
+1986,Near Sarowbi,Afghanistan,?,40,35,5,40,35,5,0
+1986,Berlin,East Germany,Minsk - Berlin,82,73,9,72,63,9,0
+1986,Near Lanzhou,China,Lanzhou - Chengdu,44,37,7,6,6,0,0
+1986,Arar,Saudi Arabia,Baghdad - Amman,106,91,15,63,60,3,0
+1986,Near Nasaso,Fiji,Savu Savu - Nadi,14,12,2,11,9,2,0
+1987,Off Bata,Equatorial Guinea,Bata - Malabo,22,19,3,22,19,3,0
+1987,Abidjan,Ivory Coast,Abidjan - Rio de Janeiro,51,39,12,50,38,12,0
+1987,Near Asmara,Ethiopia,Asrmara - Addis Ababa,54,49,5,54,49,5,0
+1987,Salt Lake City,Utah,Pocatello - Salt Lake City,10,8,2,10,8,2,0
+1987,Tashkent,Uzbekistan,Tashkent - Shahrizyabz,9,5,4,9,5,4,0
+1987,Off Papua,New Guinea,Rabaul - Hoskins,17,15,2,14,12,2,0
+1987,Near Khost,Afghanistan,Khost - Kabul,36,30,6,36,30,6,0
+1987,Detroit,Michigan,Cleveland - Detroit,22,20,2,9,7,2,0
+1987,Near Almaty,Kazakhstan,Biysk - Alma-Ata,9,4,5,9,4,5,0
+1987,Spokane,Washington,Training,6,0,6,6,0,6,1
+1987,Mount San Gorgonio,California,?,2,0,2,2,0,2,0
+1987,Near Parachinar,Pakistan,Kaboul-Khost,40,36,4,40,36,4,0
+1987,Medan-Polonia,Indonesia,Banda Aceh - Medan,45,37,8,27,23,4,0
+1987,Kansas City,Kansas,Wichita - Kansas City,4,1,3,4,1,3,0
+1987,Wilmington,North Carolina,Wilmington - Lumberton,2,0,2,2,0,2,0
+1987,Malakal,Sudan,Malakal-Khartoum,14,12,2,14,12,2,0
+1987,Mayaguez,Puerto Rico,"San Juan, PR - Mayaguez, PR",6,4,2,2,0,2,0
+1987,Warsaw,Poland,Warsaw - New York City,183,172,11,183,172,11,0
+1987,Pickle Lake,Ontario,Big Trout - Pickle Lake,2,0,2,2,0,2,0
+1987,Santa Cruz,Bolivia,Camiri - Santa Cruz,16,13,3,14,11,3,0
+1987,Near Ruteng,Indonesia,?,8,6,2,8,6,2,0
+1987,Ilaga,Indonesia,?,30,29,1,7,6,1,0
+1987,Khost,Afghanistan,Khost-Kaboul,53,48,5,53,48,5,0
+1987,Near Montelillo,Peru,Lima - Saposa,46,40,6,46,40,6,0
+1987,Berdiansk,USSR,Odessa -,9241824,29,24,5,8,6,2
+1987,Heho,Burma,Heho - Mong Hsat,45,41,4,45,41,4,0
+1987,Near Baguio,Philippines,Manila - Baguio,50,46,4,50,46,4,0
+1987,Fort Bragg AFB,North Carolina,?,6,0,6,4,0,4,1
+1987,Geneva,Switzerland,Brazzaville - Paris,163,?,?,1,?,?,0
+1987,Mexico City,Mexico,Mexico City - Miami,12,10,2,5,4,1,44
+1987,Calama,Chile,Santiago - Calama,33,30,3,2,2,0,0
+1987,Romulus,Michigan,"Detroit, MI - Phoenix, AZ",155,149,6,154,148,6,2
+1987,Off Ko Phuket,Thailand,Hat Yai - Phuket,83,74,9,83,74,9,0
+1987,Carajas,Brazil,?,9,7,2,9,7,2,0
+1987,Kunduz,Afghanistan,Kaboul-Kunduz,15,13,2,15,13,2,0
+1987,Luxor,Egypt,Training,5,0,5,5,0,5,0
+1987,El Poleo,Colombia,?,9,7,2,2,0,2,0
+1987,Near Pagan,Myanmar,Rangoon - Nyaung-U,49,45,4,49,45,4,0
+1987,Mt. Crezzo,Italy,Milan - Koln,37,34,3,37,34,3,0
+1987,Komsomolsk-on-Amur,Russia,?,9,2,7,9,2,7,0
+1987,Indianapolis,Indiana,"Pittsburg, PA - Nellis AFB",11,0,11,10,0,10,10
+1987,Ulongue,Malawi,Blantyre - Lilongwe,10,8,2,10,8,2,0
+1987,Denver,Colorado,"Denver, CO - Boise, ID",82,77,5,28,25,3,0
+1987,Homer,Alaska,Kodiak - Homer,21,19,2,18,16,2,0
+1987,Off Mauritius,Indian Ocean,"Taipei, Taiwan -  Mauritius - Johannesburg, South Africa",159,140,19,159,140,19,0
+1987,Over the Andaman Sea,,Abu Dhabi - Bangkok,115,104,11,115,104,11,0
+1987,Near Kishwati,Rwanda,Goma-Nairobi,14,13,1,14,13,1,0
+1987,San Luis Obispo,California,Los Angeles - San Fransisco,43,38,5,43,38,5,0
+1987,Off Lima,Peru,Pucallpa - Lima,43,37,6,42,37,5,0
+1987,Near Iligan,Philippines,Cebu - Iligan,15,11,4,15,11,4,0
+1987,Off Vila dos Remidos,Brazil,Recife - Fernando de Noronha,29,23,6,29,23,6,0
+1987,Bordeaux,France,Brussels - Bordeaux,16,13,3,16,13,3,0
+1987,Eugene Island,,?,15,13,2,15,13,2,0
+1987,Pacific Ocean,,Samarinda - Berau,17,14,3,17,14,3,0
+1988,Izmir,Turkey,Stuttgart - Izmir,16,11,5,16,11,5,0
+1988,Mt. Colorado,Bolivia,?,9,6,3,9,6,3,0
+1988,Krosnovodsk,USSR,Moscow - Krosnovodsk,143,137,6,11,11,0,0
+1988,Near Chungking,Sichuan,Beijing - Chongqing,108,98,10,108,98,10,0
+1988,Bayfield,Colorado,"Denver, CO - Durango, CO",17,15,2,9,7,2,0
+1988,Green Island,Taiwan,Taitung-Lyudao,11,10,1,10,9,1,0
+1988,Near Nizhnevartovsk,Russia,Nizhnevartovsk - Tyumen,31,27,4,27,23,4,0
+1988,Panama,,?,16,14,2,16,14,2,0
+1988,Near Mulheim,Germany,Hannover - Dusseldorf,21,19,2,21,19,2,0
+1988,Cary,North Carolina,Raleigh - Richmond,12,10,2,12,10,2,0
+1988,Surgut,Russia,Tyumen - Surgut,51,45,6,20,17,3,0
+1988,Near Ercan,Cyprus,Istanbul - Ercan,15,9,6,15,9,6,0
+1988,Near Johannesburg,South Africa,Phalaborwa - Johannesburg,17,15,2,17,15,2,0
+1988,Near Fontainebleau,France,Nancy - Paris,23,20,3,23,20,3,0
+1988,Near Clarksville,Tennessee,?,17,?,?,17,?,?,0
+1988,Near Cucuta,N of  Santander,Cucuta - Cartagena,143,136,7,143,136,7,0
+1988,Cairo,Egypt,Cairo - Sharjah,4,0,4,4,0,4,0
+1988,Combi,Cyprus,Bangkok - Kuwait,112,?,?,2,?,?,0
+1988,Near Mazâr-e Charif,Afghanistan,Maimana - Mazar,29,26,3,29,26,3,0
+1988,Near Hennenman,South Africa,Bloemfontein - Johannesburg,24,21,3,24,21,3,0
+1988,Bagdarin,USSR,Muya - Bagdarin,17,15,2,17,15,2,0
+1988,Near Tchamulate,Angola,?,29,26,3,29,26,3,0
+1988,Maui,Hawaii,Hilo - Honolulu,95,90,5,1,0,1,0
+1988,Near Broennoysund,Norway,Namsos - Bronnoysund,36,33,3,36,33,3,0
+1988,New Orleans,Louisiana,"Belize City, Belize - New Orleans, LA",45,38,7,0,0,0,0
+1988,Puerto Limon,Costa Rica,?,6,0,6,6,0,6,0
+1988,Hannover,Germany,Billund - Hannover - Nurnberg,2,0,2,2,0,2,0
+1988,Posadas,Argentina,Resistencia - Posadas,22,16,6,22,16,6,0
+1988,Central Mozambique,,?,25,?,?,21,?,?,0
+1988,Habsheim,France,Basel - Basel,136,130,6,3,3,0,0
+1988,Over the Persian Gulf,near Bandar Abbas,Bandar Abbas - Dubai,290,278,12,290,278,12,0
+1988,Barranquilla,Colombia,Barranquilla - Miami,8,0,8,8,0,8,0
+1988,Golden Meadow,Louisiana,El Salvador - New Orleans,3,0,3,3,0,3,0
+1988,Near Lagos,Nigeria,"Oostende, Belgium - Lagos, Nigeria",6,0,6,6,0,6,0
+1988,Sofia,Bulgaria,Sofia  - Varna,37,33,4,29,26,3,0
+1988,Northern Afghanistan,,Kaboul-Kunduz,39,35,4,39,35,4,0
+1988,Bahawalpur,Pakistan,Bahawalpur - Islamabad,30,?,?,30,?,?,0
+1988,Irkutsk,Russia,Kirensk - Irkutsk,4,2,2,4,2,2,0
+1988,Merida,Mexico,?,20,?,?,1,?,?,0
+1988,Kowloon Bay,Hong Kong,Guangzhou - Hong Kong,89,78,11,7,1,6,0
+1988,Dallas,Texas,"Dallas/Fort Worth, TX - Salt Lake City, UT",108,101,7,14,12,2,0
+1988,Cerro de la Calera,Mexico,Uruapan - Lazro,20,18,2,20,18,2,0
+1988,Bangkok,Thailand,Hanoi - Bangkok,90,84,6,76,73,3,0
+1988,Lago Agrio,Ecuador,Lago Agrio - Quito,7,1,6,7,1,6,0
+1988,Bahar Dar,Ethiopia,Bahar Dar - Asmara,104,98,6,35,35,0,0
+1988,Near Miram,Pakistan,?,34,?,?,34,?,?,0
+1988,Sao Pedro da Aldeia,Brazil,?,8,7,1,8,7,1,0
+1988,Near Batagay,Russia,Tikis - Batagay,6,0,6,6,0,6,0
+1988,Linfen,China,Sightseeing,48,44,4,44,40,4,2
+1988,Wurtsmith AFB,Michigan,Sawyer AFB - Wurtsmith AFB,17,0,17,6,0,6,0
+1988,Rome,Italy,London - Rome,52,45,7,33,26,7,0
+1988,Near Ahmedabad,India,Bombay - Ahmadabad,129,124,5,124,119,5,0
+1988,Gauhati,India,Silchar - Gauhati,34,31,3,34,31,3,0
+1988,Juliaca,Peru,Juliaca - Arequipa,69,65,4,12,11,1,0
+1988,Near Rzeszow,Poland,Warszawa - Rzeszow,29,25,4,1,1,0,0
+1988,Ilmajoki,Finland,Helsink - Ilmajoki,12,10,2,6,4,2,0
+1988,Montluçon,France,Montluçon - Paris,4,2,2,4,2,2,0
+1988,Hamada al Hambra,Libya,Hamada al Hambra - Tripoli,14,12,2,14,12,2,0
+1988,Kodinsk,Russia,Krasnoyarsk - Kodinsk,14,12,2,6,4,2,0
+1988,Bîr Mogreïn,Mauritania,Dakar - Agadir,5,0,5,5,0,5,0
+1988,Afghanistan,,Kabul - Khost,25,?,?,25,?,?,0
+1988,Leninakan,Armenia,?,83,74,9,77,68,9,0
+1988,Near Luxor,Egypt,Dar-es-Salaam - Cairo,8,5,3,8,5,3,5
+1988,Lockerbie,Scotland,London - New York City,259,243,16,259,243,16,11
+1989,Leicestershire,England,London - Belfast,126,118,8,47,47,0,0
+1989,Near Abilene,Texas,Dyess AFB - Hawaii,19,12,7,19,12,7,0
+1989,Rangoon,Myanmar,Rangoon - Kentung,29,25,4,26,23,3,0
+1989,Marseille,France,Marseille - Paris,3,0,3,3,0,3,0
+1989,Santa Maria,Azores,Bergamo - Orio al Serio - Santa Maria,144,137,7,144,137,7,0
+1989,Near Kuala Lumpur,Malaysia,Singapore - Kuala Lumpur,4,0,4,4,0,4,0
+1989,Honolulu,Hawaii,Los Angeles - Honolulu - Auckland - Sydney,356,338,18,9,9,0,0
+1989,Near Quebec City,Quebec,La Grande - Lac Bienville,2,0,2,2,0,2,0
+1989,Lima,Peru,Sightseeing,10,9,1,10,9,1,0
+1989,Dryden,Ontario,Dryden - Winnipeg,69,65,4,24,21,3,0
+1989,West Lafayette,Indiana,Terre Haute - Lafayette,2,0,2,2,0,2,0
+1989,Carswell AFB,Texas,"Fort Worth, TX - Oklahoma City, OK",2,0,2,2,0,2,0
+1989,Pohang,South Korea,?,34,30,4,19,?,?,0
+1989,Guarulhos,Brazil,Manaus - Sao Paulo-Guarulhos,3,0,3,3,0,3,18
+1989,Col de Tourniol,France,Paris - Valence,22,19,3,22,19,3,0
+1989,Near Cucuta,Colombia,Cucuta - Arauca,11,10,1,11,10,1,0
+1989,Baranquilla,Colombia,Baranquilla - Bogota,5,2,3,5,2,3,0
+1989,Near Cancun,Mexico,Chichen Itza - Cozumel,19,17,2,6,6,0,0
+1989,Oskarshamn,Sweden,Stockholm - Oskarshamn,16,14,2,16,14,2,0
+1989,Near Tainjin,China,?,?,?,?,10,?,?,0
+1989,Near Paramaribo,Surinam,Paramaribo - Zanderij,187,178,9,176,167,9,0
+1989,Vereda el Salitre,Colombia,El Yopal - Tame,22,20,2,6,6,0,0
+1989,Berlin,Germany,Berlin - Moscow,113,103,10,20,20,0,1
+1989,Zabol,Iran,Kabul - Zaranj,39,35,4,6,6,0,0
+1989,Near Tarma,Peru,San Ramon - Captain Alvarino,62,57,5,62,57,5,0
+1989,Kaohsiung,Taiwan,Kaohsiung - Chi-mei,13,11,2,12,10,1,0
+1989,Yaounde,Cameroon,Douala - Yaounde,47,45,2,3,1,2,0
+1989,Near Borana,Somalia,Hargeisa - Mogadishu,30,24,6,30,24,6,0
+1989,Cartersville,Georgia,"Carterville, GA  - Montgomery, AL",2,0,2,2,0,2,0
+1989,Glen Burnie,Maryland,"Baltimore, MD - Winchester, VA",5,4,1,2,2,0,0
+1989,Talourow Island,USSR,Observation flight out of Cape Schmidt,10,6,4,10,6,4,0
+1989,Sioux City,Iowa,"Denver, CO - Chicago, IL",298,287,11,112,111,1,0
+1989,Porgera,New Guinea,Porega-Port Moresby,22,20,2,3,1,2,0
+1989,Manila,Philippines,Zamboanga - Manila,98,91,7,1,1,0,8
+1989,Near Jalalabad,Afghanistan,?,30,?,?,30,?,?,0
+1989,Near Chana,Angola,Luena - Cazombo,48,44,4,42,?,?,0
+1989,Off Ullung Do,South Korea,?,19,?,?,13,?,?,0
+1989,Tripoli,Libya,Jeddah - Tripoli,199,181,18,75,72,3,4
+1989,Auckland,New Zealand,Auckland - Christchurch,3,0,3,3,0,3,0
+1989,Samos,Greece,Thessaloniki - Samos,34,31,3,34,31,3,0
+1989,Near Gambela,Ethiopia,Addis Ababa - Bole,16,13,3,16,13,3,0
+1989,Near Midford Sound,New Zealand,Wanaka - Milford Sound,10,9,1,10,9,1,0
+1989,Janice,Mississippi,"Hattiesburg, MS - Gulfport, MS",2,1,1,2,1,1,0
+1989,Shanghai,"China",Shanghai - Hongqiao,40,34,6,34,28,6,0
+1989,Near Gilgit,Pakistan,Gilgit - Islamabad - Chaklala,54,49,5,54,49,5,0
+1989,Near Sao Jose do Xingu,Brazil,Maraba - Belem,54,48,6,13,13,0,0
+1989,Near Havana,Cuba,"Havana - Köln, Bonn",126,115,11,126,115,11,45
+1989,Skagerrak,Denmark,Oslo - Hamburg,55,50,5,55,50,5,0
+1989,Mayfield,Kentucky,"Orlando, FL - Mayfield, KY",6,5,1,6,5,1,0
+1989,Near Bentuni,Indonesia,Manokwari - Bentuni,22,19,3,22,19,3,0
+1989,Near Bilma,Niger,N'Djamena - Paris,171,156,15,171,156,15,0
+1989,Fairbanks,Alaska,Training,7,?,?,2,?,?,0
+1989,La Guardia Airport,New York,"New York City - Charlotte, NC",63,57,6,2,2,0,0
+1989,"Centeral Afghanistan
+Afghanistan",,?,26,?,?,26,?,?,0
+1989,Near Baghran,Afghanistan,?,24,?,?,24,?,?,0
+1989,Ujani Dam,India,Pune - Hyderabad,11,8,3,11,8,3,0
+1989,Terrace,Canada,Vancouver - Terrace,7,5,2,7,5,2,0
+1989,Grand Canyon National Park Airport,Tusayan,Grand Canyon National Park,21,19,2,10,8,2,0
+1989,Semyonovka,Ukraine,Mukachevo -,1705,9,4,5,9,4,5
+1989,Perth,Ontario,?,4,0,4,4,0,4,0
+1989,Uncertain,Texas,Uncertain - Destsin,5,3,2,5,3,2,0
+1989,Lacey Township,New Jersey,"New York, NY - Atlantic City, NJ",5,4,1,5,4,1,0
+1989,Urpay,Peru,Urpay-Uchiza,12,11,1,12,11,1,0
+1989,Nasosny,Russia,?,57,50,7,57,50,7,0
+1989,Leninakan,Russia,Ul'yanovsk - Leninakan,15,10,5,15,10,5,0
+1989,Near Tegucigalpa,Honduras,Managua - Tegucigalpa,146,138,8,127,123,4,0
+1989,Petropavlovsk,USSR,?,36,30,6,36,30,6,0
+1989,Hualien,China,Hualien - Taipei,54,47,7,54,47,7,0
+1989,Halawa Point,Molokai,"Kahului, Maui - Kaunakakai, Molokai",20,18,2,20,18,2,0
+1989,Monrovia,Liberia,Monrovia-Freetown,10,9,1,2,1,1,0
+1989,Maluti Mountains,Lesotho,Qacha?s-  Nek-Maseru,18,16,2,18,16,2,0
+1989,Near Tyumem,Russia,Perm - Sovietsky,42,36,6,34,28,6,0
+1989,Albania,,?,24,?,?,24,?,?,0
+1989,Seoul,South Korea,Seou - Ulsan,52,46,6,1,1,0,0
+1989,Bogota,Colombia,Bogota - Cali,107,101,6,107,101,6,3
+1989,Near Jamba,Angola,Kamina - Jamba,5,0,5,5,0,5,0
+1989,Charallave,Venezuela,Canaima - Ciudad Guayana -Charallave,7,5,2,3,1,2,0
+1989,Block Island,Rhode Island,"Block Island, RI - Westerly, RI",8,7,1,8,7,1,0
+1989,Patuxent,Maryland,Fort Belvoir - Patuxent River NAS,5,0,5,5,0,5,0
+1989,Near Guayaramerin,Bolivia,Guayaramerin - Santa Cruz,28,18,10,24,?,?,0
+1989,Pasco,Washington,Yakima - Pasco,6,4,2,6,4,2,0
+1989,Near Visina,Romania,Bicharest - Beogard,7,1,6,7,1,6,0
+1989,Milford Sound,,?,5,4,1,5,4,1,0
+1990,Java Sea,Indonesia,Palambang and Jakarta,16,13,3,9,7,2,0
+1990,Near Pervouralsk,Russia,Tyumen - Ufa,71,65,6,27,23,4,0
+1990,Pico Blanco,Costa Rica,San Jose - Palmar Sur,23,20,3,23,20,3,0
+1990,Near Leadville,Colorado,Denver - Montrose,1,0,1,1,0,1,0
+1990,Near Caracas,Venezuela,Caracas - Puerto Ayancucho,25,22,3,25,22,3,0
+1990,Mt Rijani,Lombok Island,Ujung Pandang - Selaparang,19,16,3,19,16,3,0
+1990,Cove Neck,New York,Medellin - New York City,158,149,9,73,65,8,0
+1990,Zavkhan,Mongolia,Ulan Bator - Uliastaj,30,25,5,30,25,5,0
+1990,Near Kinkala,Congo,Pointe-Noire - Brazzaville,28,23,5,28,23,5,0
+1990,Burlington,Vermont,"Burlington, VT - Albany, NY",2,1,1,2,1,1,0
+1990,Plattsburgh,New York,Plattsburgh - Syracuse,1,0,1,1,0,1,0
+1990,Near Ibague,Colombia,Bogota via Neiva - Ibague,15,11,4,15,11,4,0
+1990,Bauru,Brazil,San Palo - Bauru - Aracatuba,40,36,4,2,1,1,2
+1990,Near Bangalore,India,Bombay - Bangalore,146,139,7,92,87,5,0
+1990,Near Ngwerere,Zambia,M'bala - Likouala,29,24,5,29,24,5,0
+1990,Denver,Colorado,Aspen - Denver,1,0,1,1,0,1,0
+1990,Near Meerut,India,?,1,0,1,0,0,0,50
+1990,Off Freetown,Sierre Leone,?,13,?,?,11,?,?,0
+1990,Las Mesitas,Honduras,San Pedro - Tegucigalpa,3,0,3,3,0,3,0
+1990,Santiago de Cuba,,Santiago de Cuba-La Havane,46,41,5,4,4,0,0
+1990,Kabul,Afghanistan,Kokand - Kabul,11,2,9,11,2,9,0
+1990,Near Kuito,Angola,Kuito-Huambo,25,20,5,25,20,5,0
+1990,Off Vaeroy,Norway,Vaeroy - Bodo,5,3,2,5,3,2,0
+1990,Off Contadora,Panama,Panama City-Contadora-San Miguel,22,19,3,20,17,3,0
+1990,Near Kinshasa,Zaire,Kinshasa-Gbadolite,24,18,6,20,?,?,0
+1990,Near Manila,Philippines,Manila - Roxaz City,24,22,2,7,7,0,0
+1990,Ship Sands Island,ON,"Timmins, Ontario - Ship Sands Island, Ontario",4,2,2,1,0,1,0
+1990,Tarbert,England,Timmins - Moosonee,10,0,10,10,0,10,0
+1990,Guatamala City,Guatemala,Guatamala City - La Aurora,3,0,3,3,0,3,24
+1990,Tuxtla-Gutierrez,Mexico,Tapachula - Tuxtla-Gutierrez,40,35,5,20,15,5,0
+1990,Near Wurzburg,Germany,?,10,0,10,10,0,10,0
+1990,Manila,Philippines,Manila - Iloilo,119,113,6,8,8,0,0
+1990,Manila,Philippines,Manila - Surigao City,21,19,2,21,19,2,4
+1990,Near Altamira,Brazil,Belem - Altamira,42,39,3,23,21,2,0
+1990,Thistle Lake,Northwest Territory,?,2,0,2,2,0,2,0
+1990,Oxfordshire,England,"Birmingham, England - Malaga, Spain",85,?,?,0,?,?,0
+1990,Near Port Morseby,New Guinea,Port Moresby-Woitape,12,11,1,8,7,1,0
+1990,Near Maymaneh,Afghanistan,?,30,25,5,30,25,5,0
+1990,Near Huanuco,Peru,?,9,8,1,9,8,1,0
+1990,Stepanakert,Azerbaijan,Yerevan - Zvartnots,47,43,4,47,43,4,0
+1990,Near Shindand,Afghanistan,?,83,78,5,83,78,5,0
+1990,Elkhorn,Wisconsin,"Elkhorn, WI - Chicago, IL",5,4,1,5,4,1,0
+1990,Near Kaiserslautern,Germany,Ramstein AB - Rhein-Main AB,17,9,8,13,6,7,0
+1990,Kaltag,Alaska,"Nulato, AK - Kaltag, AK",10,9,1,3,3,0,0
+1990,Off Newfoundland,Canada,Malta - Miami - Reykjavík - Gander,18,15,3,18,15,3,0
+1990,Off Sondre Stromfjord,Greenland,Sondre Stomfjord - Goose Bay,8,6,2,8,6,2,0
+1990,Koltsovo,Russia,Volgograd - Sverdlovsk,128,122,6,4,3,1,0
+1990,Off Fernando de Noronha,Brazil,Fernando de Noronha -  Recife,12,10,2,12,10,2,0
+1990,San Luis Obispo,California,"Van Nuys, CA - San Luis Obispo, CA",4,2,2,4,2,2,0
+1990,Guangzhou,China,Guangzhou - Shanghi,226,205,21,128,121,7,0
+1990,Cape Canaveral,Florida,?,97,91,6,1,1,0,0
+1990,Near Bella Vista,Bolivia,Bella Vista - La Paz,4,2,2,4,2,2,0
+1990,Santiago de Cuba,Cuba,Camaguey - Santiago de Cuba,31,24,7,11,9,2,0
+1990,Stadelberg,Switzerland,Milano - Zürich,46,40,6,46,40,6,0
+1990,Near Medellin,Colombia,Quibdó - Bogotá,16,12,4,16,12,4,0
+1990,Near Ashkhabad,Turkmenistan,?,15,13,2,15,13,2,0
+1990,Koh Samui,Thailand,Bangkok - Koh Samui,38,33,5,38,33,5,0
+1990,Off Ravenna,Italy,?,13,12,1,13,12,1,0
+1990,Romulus,Michigan,Detroit - Pittsburg,198,186,12,8,7,1,0
+1990,Nairobi,Kenya,Khartoum - Nairobi,10,7,3,10,7,3,0
+1990,Near Matak,Indonesia,?,12,?,?,10,?,?,0
+1991,Near Paramo Mucuti,Venezuela,Caracas - Merida,22,19,3,21,18,3,0
+1991,Jalaludin,Indonesia,Manado - Gorontalo,21,18,3,1,1,0,0
+1991,Near Ras Al Khafji,Saudi Arabia,?,14,0,14,14,0,14,0
+1991,LAX,Los Angeles,Columbus - Los Angeles \  Los Angeles - Fresno,101,93,8,34,30,4,0
+1991,Near Nea Ankhialos,Greece,Elefsis AB - Volos-Néa Anchialos,63,59,4,63,59,4,0
+1991,Near Taisha,Ecuador,Macao - Taisha,22,19,3,22,19,3,0
+1991,Cleveland,Ohio,Cleveland - Indianapolis,2,0,2,2,0,2,0
+1991,Puerto Williams,Chile,Punta Arenas - Puerto Williams,72,65,7,20,20,0,0
+1991,Cazombo,Angola,Luena-Cazombo,47,43,4,47,43,4,0
+1991,Near Colorado Springs,Colorado,Denver - Colorado Springs,25,20,5,25,20,5,0
+1991,La Puerta,Venezuela,Maracaibo - Santa Barbara de Zulia,45,40,5,45,40,5,0
+1991,San Diego,CA,"San Diego - Amarillo, TX  - Evansville, IN",10,8,2,10,8,2,0
+1991,Malanje,Angola,Luanda-Dundo,9,6,3,9,6,3,0
+1991,Ras-al-Mishab,Saudi Arabia,Koweit City-Ras-al-Mishab-Dakar,98,92,6,98,92,6,0
+1991,Off San Diego,California,?,27,?,?,27,?,?,0
+1991,Navoi,Uzbekistan,Trashkent - Navoi,63,59,4,34,30,4,0
+1991,Near Bangalore,India,Yellahanka-Yellahanka,28,25,3,28,25,3,0
+1991,Lake Thutade,Canada,Sturdee - Smithers,7,4,3,6,3,3,0
+1991,Marion,Pennsylvania,"Williamsport, PA  - Philadelphia, PA",5,4,1,5,4,1,2
+1991,Brunswick,Georgia,Atlanta - Brunswick,23,20,3,23,20,3,0
+1991,Off Nuka Hiva,French Polynesia,Hiva Ou - Nuku Hiva,22,19,3,11,10,1,0
+1991,Sulawesi,Indonesia,Ambon - Ternate - Manado,13,8,5,13,8,5,0
+1991,Grand Canyon,Airzona,Local sightseeing,7,6,1,7,6,1,0
+1991,La Poyatta,Colombia,Villavicencio - Miraflores Guaviarel,14,11,3,13,11,2,0
+1991,Leningrad,USSR,Sukhumi -,97,181,174,7,13,13,0
+1991,Bakhtaran,Iran,Cologne-Bakhtaran,10,0,10,4,0,4,0
+1991,Near Ban Nong Rong,Thailand,"Bangkok - Wien, Austria",223,213,10,223,213,10,0
+1991,Off Matthewtown,Great Inagua,"Grada Zuma, Bahamas - Cape Hatien",3,2,1,2,2,0,0
+1991,Luanda,Angola,Luanda - Cafunfo,7,4,3,7,4,3,0
+1991,Near Malambo,Colombia,Bogota - Malambo,18,15,3,2,2,0,0
+1991,Gulf of Finland,Russia,Saint Petersburg - Voronezh,10,4,6,10,4,6,0
+1991,Near Sokotu,Nigeria,Benin - Kano,53,48,5,4,4,0,0
+1991,El Yopal,Colombia,?,3,1,2,3,1,2,0
+1991,Bellavista Airport,Peru,Bellvista - Pucallpa,15,13,2,15,13,2,0
+1991,Birmingham,Alabama,New Orleans - Mobile - Birmingham,15,13,2,13,12,1,0
+1991,Jeddah,Saudi Arabia,Jeddah - Sokoto,261,247,14,261,247,14,0
+1991,Espiritu Santos,Vanuatu,Nogougou - Luganville,9,8,1,9,8,1,0
+1991,Rarotonga,Cook Islands,Altukaki - Rarotonga,10,8,2,6,5,1,0
+1991,Near Uricani,Romania,Bucharest - Timisoara,9,4,5,9,4,5,0
+1991,Imphal,India,Calcutta - Imphal,69,63,6,69,63,6,0
+1991,Ketchikan,Alaska,"Ketchikan, AK - Wrangell, AK",4,3,1,4,3,1,0
+1991,Walton,Oregon,?,3,2,1,3,2,1,0
+1991,Sampit,Indonesia,Sampit - Plangkaraya,10,8,2,3,1,2,0
+1991,Long Seridan,Malaysia,Bario - Marudi,20,18,2,14,12,2,0
+1991,Near Eagle Lake,Texas,Laredo - Houston,14,11,3,14,11,3,0
+1991,Petropavlosk,USSR,Lensk - Omsk,13,7,6,13,7,6,0
+1991,Djibouti City,"Djibouti
+	Djibouti City",Djibouti  - : Dire Dawa-Aba,4,0,4,4,0,4,0
+1991,Belvedere Center,Vermont,Moncton - Hamilton,2,0,2,2,0,2,0
+1991,Khatanga,Russia,?,16,9,7,1,1,0,0
+1991,Off St. Petersburg,USSR,St. Petersburg - Voronezh,10,7,3,10,7,3,0
+1991,Guadalcanal Island,Solomon Islands,Kira-Kira - Honiara,15,13,2,15,13,2,0
+1991,Near Villavicencio,Colombia,Villlavicencio - Mitu,10,6,4,1,1,0,0
+1991,Near Jakarta,Indonesia,Jakarta-Bandung,134,129,5,134,129,5,2
+1991,Aponguao Falls,Venezuela,Kavanayen - Luepa,12,9,3,12,9,3,0
+1991,Vallejo,California,"Concord, CA - Novato, CA",3,2,1,3,2,1,0
+1991,Tumbang Miri,Indonesia,Palangkaraya - Sampit,17,16,1,17,16,1,0
+1991,Near Point Alert,Ellesmere Island,Edmonton - Point Alert,18,13,5,5,3,2,0
+1991,Near Karakent,USSR,?,40,?,?,40,?,?,0
+1991,Makhackala,Russia,Ellsta - Makhackala,51,47,4,51,47,4,0
+1991,Recife,Brazil,Recife - Maceió - Aracajú - Salvador,15,12,3,15,12,3,2
+1991,Anderma,Russia,Ryazan - Vorkuta,20,14,6,20,14,6,0
+1991,Davis,California,"San Francisco, CA - Sacramento, CA",3,2,1,3,2,1,0
+1991,Nagoro-Karabak,USSR,?,23,20,3,23,20,3,0
+1991,Sena,Mozambique,?,3,0,3,1,0,1,0
+1991,Near Bugulma,Russia,Nizhnevartovsk - Bugulma,41,37,4,41,37,4,0
+1991,Guaratingueta AB,Brazil,Brasilla  - Guarantinguerta,16,13,3,16,13,3,0
+1991,Heidelberg,Germany,Frankfurt - Frankfurt,30,27,3,27,24,3,0
+1991,Stockholm,Sweden,Stockholm-Copenhagen-Warsaw,129,123,6,0,0,0,0
+1991,Wanli,Taiwan,Taipei - Anchorage,5,0,5,5,0,5,0
+1992,Mt. Saint-Odile,near Strasbourg,Lyon - Strasbourg,96,90,6,87,82,5,0
+1992,Near Stepanakert,Azerbaijan,Agdam - Shusha,47,?,?,47,?,?,0
+1992,Caetite,Brazil,Salvador - Guanambi,12,10,2,12,10,2,0
+1992,Near Kafountine,Senegal,Dakar - Yoff - Cap Skiring,56,50,6,30,26,4,0
+1992,Toledo,Ohio,Seattle - Toledo,4,0,4,3,0,3,0
+1992,En route from Argentina  to  California,,?,?,?,?,1,?,?,0
+1992,Beni,Bolivia,Estencia el Trompillo - La Paz,5,2,3,5,2,3,0
+1992,Etsouali,Congo,Dwando - Brazzaville,8,5,3,3,0,3,0
+1992,La Guardia Airport,New York,New York City - Cleveland,51,47,4,27,25,2,0
+1992,Athens,Greece,Amsterdam - Athens,7,4,3,7,4,3,0
+1992,Near Baikov,Russia,Petropavlovsk -Baikov,12,10,2,1,1,0,0
+1992,Near Sarra,Libya,Khartoum - Tunis,13,10,3,3,0,3,0
+1992,Off Orchid Island,Taiwan,?,10,8,2,7,6,1,0
+1992,Nairobi,Kenya,Nairobi - Laikipia,46,42,4,46,42,4,6
+1992,Near Goroka,Papua New Guinea,Madang - Goroka,15,13,2,11,9,2,0
+1992,Perris Valley,California,Local,22,20,2,16,14,2,0
+1992,Mt. Haleakala,Hawaii,Local sightseeing,9,8,1,9,8,1,0
+1992,Saveh,Iran,Bandar Manshahr  - Tehran,39,35,4,39,35,4,0
+1992,Tucuti,Panama,"Panama City, Panama - Cali, Colombia",47,40,7,47,40,7,0
+1992,Mayaguez,Puerto Rico,San Juan - Mayaguez,5,3,2,5,3,2,0
+1992,Cruzeiro do Sul,Brazil,Rio Branc - Cruzeiro do Sul,3,1,2,3,1,2,0
+1992,Norlisk,Russia,Igarka - Omsk,12,7,5,10,6,4,0
+1992,Near Iyakochchi,Sri Lanka,Colombo - Jaffna,19,13,6,19,13,6,0
+1992,Bethel,Alaska,Bethel - Chevak,1,0,1,1,0,1,0
+1992,Near Nakhichevan,Azerbaijan,Nakhichevan - Rostov,34,27,7,29,24,5,0
+1992,Near Bir Fadl,Yemen,Nakhichevan - Rostov,57,50,7,57,50,7,0
+1992,Tbilisi,Georgia,Tbilisi - Mineralnye Vody,24,16,8,24,16,8,4
+1992,Near Skopje,Macedonia,?,8,2,6,8,2,6,0
+1992,Mt. Lalaboy,Indonesia,Jakarta - Surabaya - Ujung Pandang - Ambon,70,63,7,70,63,7,0
+1992,Near Mexico City,Mexico,Puebla - Mexico City,4,2,2,4,2,2,0
+1992,JFK Airport,New York,New York City - San Francisco,292,280,12,0,0,0,0
+1992,Near Kathmandu,Nepal,Bangkok - Kathmandu,113,99,14,113,99,14,0
+1992,Nanjing,Jiangsu,Nanjing - Xiamen,126,116,10,108,100,8,0
+1992,Colorado,Bolivia,La Paz - Santa Ana de Yacuma,10,7,3,10,7,3,0
+1992,Hot Springs,Arizona,Test,3,0,3,3,0,3,0
+1992,Near Iquitos,Peru,Estrecho - Iquitos,41,38,3,8,6,2,0
+1992,Gimli,Manitoba,Test,3,0,3,3,0,3,0
+1992,Near Ivanovo,Russia,Donetsk - Ivanovo,84,77,7,84,77,7,0
+1992,Jamba,Angola,Jamba - Pretoria,17,14,3,3,0,3,0
+1992,Bellavista,Peru,Tarapoto - Bellavista,43,36,7,1,0,1,1
+1992,Kozyrevsk,Russia,?,16,13,3,9,9,0,0
+1992,Hana,Hawaii,Sightseeing,7,6,1,7,6,1,0
+1992,Off Curacao,Netherlands Antilles,Curacao - Miami,3,0,3,3,0,3,0
+1992,Bogota,Colombia,Villavicencio - Mitu,11,9,2,11,9,2,0
+1992,Near Kular,Russia,?,10,7,3,10,7,3,0
+1992,Near Lagos,Nigeria,Lagos - Kaduna,158,154,4,158,154,4,0
+1992,Near  Kathmandu,Nepal,Karachi - Kathmandu,167,155,12,167,155,12,0
+1992,Amsterdam,Netherlands,Amsterdam - Tel Aviv,4,1,3,4,1,3,39
+1992,Berkeley Springs,West Virginia,Training,6,0,6,6,0,6,0
+1992,Near Dingxi,China,Lanzhou - Xi'an,35,28,7,14,9,5,0
+1992,Mogadiscio,Somalia,?,13,7,6,1,0,1,0
+1992,Near Garut,Jawa,Semarang - Bandung,31,27,4,31,27,4,0
+1992,Near Usti Nem,Russia,Ust'-Him -,IAJ005-18,16,14,2,15,13,2
+1992,Near Lake Caballochoa,Peru,?,11,8,3,8,7,1,0
+1992,Chita,Russia,Petropavlovsk - Novosobrisk,14,9,5,13,8,5,0
+1992,Off Bombay,India,?,20,?,?,20,?,?,0
+1992,Near Tver,Russia,Migalovo AB - Yerevan,33,26,7,33,26,7,0
+1992,Near Nha Trang,Vietnam,Ho Chi Minh City - Nha Trang,31,25,6,30,24,6,0
+1992,Near Porto Plata,Dominican Republic,Santo Domingo - Porto Plata,34,28,6,34,28,6,0
+1992,Near Guilin,China,Guangzhou - Guilin,141,133,8,141,133,8,0
+1992,Near Harlem,Montana,?,13,0,13,13,0,13,0
+1992,Uruapan,Mexico,Uruapan - Guadalajara,9,8,1,9,8,1,0
+1992,Goma,Congo,Kindu - Goma,37,31,6,37,31,6,0
+1992,Lata,Georgia,?,61,?,?,61,?,?,0
+1992,Faro,Algarve,Amsterdam - Faro,340,327,13,56,54,2,0
+1992,Tripoli,Libya,Benghazi - Tripoli,157,147,10,157,147,10,0
+1993,Ogden,Utah,?,4,3,1,4,3,1,0
+1993,Paris,France,Bremen - Paris,23,19,4,4,4,0,0
+1993,Surabaya,Indonesia,?,44,39,5,17,13,4,0
+1993,Sellafield,England,Southend - Glasgow,2,0,2,2,0,2,0
+1993,Near Bronson Creek,British Colombia,Bronson - Wrangell,2,0,2,2,0,2,0
+1993,Kinshasa,Democratic Republic Congo,?,21,18,3,3,3,0,0
+1993,Sumatra,Indonesia,Medan - Banda Aceh - Jakarta,16,11,5,16,11,5,0
+1993,Near Tehran,Iran,Tehran - Khoram,133,119,14,133,119,14,0
+1993,Near Daraim,Afghanistan,Faisabad - Daraim,30,?,?,30,?,?,0
+1993,Bogota,Colombia,Bogota-Panama,2,0,2,2,0,2,0
+1993,Off Green Island,Taiwan,Taipei-Iles Orchides,6,4,2,6,4,2,0
+1993,Skopje,Macedonia,Skopje - Zürich,97,92,5,83,79,4,0
+1993,Near Tangara de Serra,Brazil,Cuiaba - Vihena - Rondonia,6,4,2,6,4,2,0
+1993,Anchorage,Alaska,?,5,2,3,0,0,0,0
+1993,Blountville,Tennesee,"Bristol, TN - Blountville, TN",4,3,1,4,3,1,0
+1993,Off Margarita Island,Venezuela,Test,11,8,3,11,8,3,0
+1993,950 nm S of  Shemya,Alaska,Shanghai - Los Angeles,264,248,16,2,2,0,0
+1993,Zwingle,Iowa,"Cincinnati, OH - Pierre, SD",8,6,2,8,6,2,0
+1993,Zavnah,Mongolia,Ulan Bator - Bayan Olgiy,40,34,6,32,26,6,0
+1993,Aurangabad,India,Aurangabad - Bombay,118,112,6,55,55,0,0
+1993,Off  Libreville,Gambia,Lusaka - Libreville - Dakar,30,25,5,30,25,5,0
+1993,Near Kholm,Afghanistan,Kabul - Mazar- Sharif,76,71,5,76,71,5,0
+1993,Suva,Fiji,?,2,0,2,2,0,2,0
+1993,Near Cancun,Mexico,Cancun - Cozumel,5,0,5,3,0,3,0
+1993,Near Medellin,Colombia,Panama City - Medellin,132,125,7,132,125,7,0
+1993,El Yopal,Colombia,Bogota - El Yopal,2,0,2,2,0,2,0
+1993,Gulgubip,Papua New Guinea,?,11,10,1,9,9,0,0
+1993,Nabire,Indonesia,?,3,0,3,1,0,1,0
+1993,Near Tbilisi,Georgia,Batumi - Baku - Chimkent,41,36,5,41,36,5,0
+1993,Sorong,Irian Jaya,Ambo - Sorong,43,39,4,41,37,4,0
+1993,Near Ochamchire,Georgia,?,23,?,?,23,?,?,0
+1993,Talladega,Alabama,Birmingham - Talladega,2,1,1,1,1,0,0
+1993,Yinchuan,China,Yinchuan - Beijing,113,108,5,55,54,1,0
+1993,Haenam,South Korea,Seoul - Mokpo,110,104,6,68,64,4,0
+1993,Serawak,Malaysia,Ba Kelalan - Marudi,17,15,2,1,1,0,0
+1993,Devghat,Nepal,Kathmandu - Bharatpur,19,16,3,19,16,3,0
+1993,Leeward Point Airfield,Guantanamo Bay,"Norfolk, VA - Guantanamo, Cuba",3,0,3,0,0,0,0
+1993,Near Aldan,Russia,Uchur - Aldan,24,22,2,24,22,2,0
+1993,Khorag,Tajikistan,Khorag - Dushanbe,86,81,5,82,77,5,0
+1993,Warsaw,Poland,Frankfurt - Warszawa,70,64,6,2,1,1,0
+1993,Sukhumi,Georgia,Sochi - Sukhumi,27,22,5,27,22,5,0
+1993,Sukhumi,Georgia,Tbilisi - Sukhumi,132,120,12,108,100,8,0
+1993,Near Svanetia,Georgia,?,60,?,?,60,?,?,0
+1993,Franz Josef Glacier,New Zealand,Glentanner - Queenstown,9,6,3,9,6,3,0
+1993,Fuzhou,China,Shenzen - Fuzhou,80,71,9,2,2,0,0
+1993,Near Namsos,Norway,Trondheim - Namsos,20,17,3,7,4,3,0
+1993,Sandy Lake,Canada,Winnipeg - Sandy Lake,7,4,3,7,4,3,0
+1993,Urumqi,China,Beijing - Urumqi,102,92,10,12,8,4,0
+1993,Near Kerman,Iran,Dubai - Kerman,17,14,3,17,14,3,0
+1993,Near Ohrid,Macedonia,Genèva- Skopje,116,108,8,116,108,8,0
+1993,Hibbing,Minnesota,Minneapolis/St. Paul - Hibbing,18,16,2,18,16,2,0
+1993,Tuktoyaktuk,NWT,Tuktoyaktuk - Inuvik,7,6,1,7,6,1,0
+1993,Off Dakar,Senegal,?,3,2,1,3,2,1,0
+1993,Phonesavanh,Laos,Vientiane - Phonesavahn,18,16,2,18,16,2,0
+1993,Near Naga,Philippines,Manila - Naga,29,23,6,29,23,6,0
+1993,Gyumri,Armenia,Krasnadar - Gyumri,36,31,5,36,31,5,0
+1994,Near Mamony,Siberia,Irkutsk - Moscow,124,115,9,124,115,9,1
+1994,Columbus,Ohio,"Washington D.C. - Columbus, OH",8,3,5,5,2,3,0
+1994,Nalchik,Russia,Volgograd - Nalchik,13,7,6,13,7,6,0
+1994,East Midlands,England,Edinburgh - Coventry,2,0,2,1,0,1,0
+1994,Near Carpish,Peru,Jananjui - Tocache - Tingo Maria - Lima,31,26,5,31,26,5,0
+1994,New York,New York,New York City - Denver,116,110,6,0,0,0,0
+1994,New Delhi,India,Training,4,0,4,4,0,4,0
+1994,Off Malindi,Kenya,Mombasa - Mogadishu,8,0,8,8,0,8,0
+1994,Near Nag,,Tehran - Moscow,32,19,13,32,19,13,0
+1994,Key West,Florida,Key West Harbor - Key West,2,0,2,2,0,2,0
+1994,Spokane,Washington,Spokane - Portland,2,0,2,2,0,2,0
+1994,Weipa,Australia,Weipa - Aurukun,6,5,1,6,5,1,0
+1994,Near Mezhdurechensk,Russia,Moscow - Hong Kong,75,63,12,75,63,12,0
+1994,Lamoille,Nevada,?,5,4,1,5,4,1,0
+1994,Amsterdam,Netherlands,Amsterdam - Cardiff,24,21,3,3,2,1,0
+1994,Kigali,Rwanda,"Tanzania - Kigali, Rwanda",12,9,3,12,9,3,0
+1994,Ambato,Ecuador,Taura - Latacunga,17,14,3,17,14,3,0
+1994,Northern Iraq,,?,26,?,?,26,?,?,0
+1994,Nanga Pinoh,Indonesia,Pontianak - Nanga Pinoh,11,10,1,11,10,1,0
+1994,Near Komaki,Aichi,Taipei - Nagoya,271,256,15,264,249,15,0
+1994,Sao Gabriel,Brazil,Sao Paulo - Sao Gabriel,16,14,2,8,6,2,0
+1994,Loma Linda,Colombia,San Jose - Villavicencio,11,9,2,4,3,1,0
+1994,Near Villavicencio,Colombia,Villavicencio - La Primavera - Puerto Carreno,29,26,3,7,4,3,0
+1994,Near Campbeltown,Scotland,Aldergrove AB - Fort George,29,25,4,29,25,4,0
+1994,Near Xi'an,China,Xian - Guangzhou,160,146,14,160,146,14,0
+1994,Near Uruapan,Mexico,Lazaro - Cardenas - Michoacan,9,7,2,9,7,2,0
+1994,Mt.  Kalora,Indonesia,Balikpapan - Palu,12,7,5,12,7,5,0
+1994,Chantilly,Virginia,Mexico City - Washington D.C.,12,10,2,12,10,2,0
+1994,Abidjan,Ivory Coast,San Pedro - Abidjan,17,14,3,17,14,3,0
+1994,Near Logar,Afghanistan,?,70,?,?,50,?,?,0
+1994,Toulouse-Blagnac,France,Toulouse - Toulouse,7,4,3,7,4,3,0
+1994,Near Tidjika,Mauritania,Nouakchott - Tidjikja,93,89,4,80,76,4,0
+1994,Charlotte,North Carolina,"Columbia, SC - Charlotte, NC",57,52,5,37,37,0,0
+1994,Hanalei,Hawaii,"Lihue, HI - Lihue, HI",7,6,1,3,3,0,0
+1994,Near Fort de France,Martinique,Bridgetown - Fort de France,6,5,1,6,5,1,0
+1994,Boma,Democratic Republic Congo,Training,9,5,4,5,3,2,0
+1994,Colon,Panama,Colon - Panama City,21,18,3,21,18,3,0
+1994,East Kalimantan,Indonesia,Kilo Lima - Kelawit,18,16,2,18,16,2,0
+1994,Near Boda,Russia,Dzhida - Boda,47,41,6,47,41,6,0
+1994,Kodiak,Alaska,Sightseeing,7,6,1,6,5,1,0
+1994,Cheju,South Korea,Seoul - Cheju,160,152,8,0,0,0,0
+1994,Alsworth,Alaska,"Caribou Lake, AK - Nikiski, AK",3,2,1,3,2,1,0
+1994,Whiting,New Jersey,"New York, NY - Atlantic City, NJ",3,2,1,3,2,1,0
+1994,Near Agadir,Morocco,Agadir - Casablanca,44,40,4,44,40,4,0
+1994,Near Aliquippa,Pennsylvania,Chicago - Pittsburgh,132,127,5,132,127,5,0
+1994,Near Abuja,Nigeria,Lagos - Abuja,5,3,2,3,2,1,0
+1994,Fish Egg Inlet,Canada,Fish Egg Inlet - Pruth Bay,4,2,2,3,2,1,0
+1994,Tamanrasset,Algeria,Tunis - Tamanrasset,39,32,7,5,3,2,0
+1994,Kowloon Bay,Hong Kong,Hong Kong - Jakarta,12,6,6,6,3,3,0
+1994,Near Vanavera,Russia,Krasnoyarsk - Tura,28,24,4,28,24,4,0
+1994,Bahia Negra,Paraguay,Bahia Negra - Asuncion,27,25,2,1,0,1,0
+1994,Chaibukha,Russia,Chaibukha - Provedenia,20,13,7,8,3,5,0
+1994,Mitu,Colombia,Villavicencio - Mitu,10,5,5,10,5,5,0
+1994,Krakas Mountains,near Natanz,Isfahan - Terhan,66,59,7,66,59,7,0
+1994,Near Formoso do Aragala,Brazil,Rio de Janeiro - Belem,21,15,6,21,15,6,0
+1994,Near Cuito,Angola,?,22,?,?,22,?,?,0
+1994,Near Ust'-Ilimsk,Russia,Yushno - Ust Ilimsk,23,16,7,23,16,7,0
+1994,Batagaj,Russia,?,19,17,2,7,7,0,0
+1994,Roselawn,Indiana,Indianapolis - Chicago,68,64,4,68,64,4,0
+1994,Off Cozumel,Mexico,Cozumel - Chichen Itza,14,13,1,14,13,1,0
+1994,Near Nabire,Indonesia,Nabire - Obano,4,2,2,4,2,2,0
+1994,Saposa,Peru,Trujillo - Saposa,30,26,4,6,5,1,0
+1994,Avenal,California,Burbank - Oakland,1,0,1,1,0,1,0
+1994,Papua New Guinea,,Selbang - Bolvovip,7,6,1,7,6,1,0
+1994,Bridgeton,Missouri,?,142,132,10,2,0,2,0
+1994,Near Cuito,Angola,?,22,?,?,22,?,?,0
+1994,Pacific Ocean,,Manila - Cebu - Tokyo,293,273,20,1,1,0,0
+1994,Morrisville,North Carolina,Greensboro - Raleigh,20,18,2,15,13,2,0
+1994,Lobito,Angola,?,2,0,2,2,0,2,0
+1994,Cerro Aicha,Venezuela,?,9,6,3,7,4,3,0
+1994,Papua,New Guinea,Tabubil - Selbang,28,26,2,28,26,2,0
+1994,Coventry,England,East Midlands - Coventry,5,0,5,5,0,5,0
+1994,Algiers Airport,Algeria,Alger - Paris,239,227,12,3,3,0,0
+1994,Near Van,Turkey,Ankara - Van,76,69,7,57,52,5,0
+1995,Isfahan,Iran,Isfahan - Tehran,12,6,6,12,6,6,0
+1995,Off Flores Island,Inodnesia,Bima - Ruteng,14,10,4,14,10,4,0
+1995,Cartagena,Colombia,Bogota - Cartagena,52,47,5,51,46,5,0
+1995,Los Angeles,California,"Los Angeles, CA - Burbank, CA",4,3,1,2,2,0,0
+1995,Kathmandu,Nepal,Kathmandu - Rumjatar,24,21,3,2,1,1,0
+1995,Near Krasnoyarsk,Russia,Krasnoyarsk - Abakan,19,17,2,3,1,2,0
+1995,Le Bourget,France,Paris - Romania,10,7,3,10,7,3,0
+1995,Kansas City,Missouri,Kansas City - Chicopee,3,0,3,3,0,3,0
+1995,Ossora,Russia,Petropavlovsk -  Ossora,10,4,6,9,3,6,0
+1995,Near Balotesti,Romania,Bucharest - Brussel,60,49,11,60,49,11,0
+1995,Lagos,Nigeria,Port Harcourt - Lagos,9,7,2,1,0,1,0
+1995,Near Palaly AFB,Sri Lanka,Anuradhapura - Palaly AFB,52,49,3,52,49,3,0
+1995,Sioux Falls,Ontario,Red Lake - Sioux Lookout  / Sioux Lookout - Red Lake,8,5,3,8,5,3,0
+1995,Quito,Ecuador,Buenos Aires - La Paz - Quito,7,5,2,7,5,2,0
+1995,Cerro San Jeronimo,Colombia,Mitu - Villavicencio,9,5,4,9,5,4,0
+1995,Near Boise,Idaho,"Boise, ID - Colorado Springs, CO",6,0,6,6,0,6,0
+1995,Near Leeds,England,Leeds - Aberdeen,12,9,3,12,9,3,0
+1995,Miraflores,Colombia,Villavicencio - Miraflores,11,9,2,2,2,0,0
+1995,Off Mbour,Senegal,?,10,8,2,6,4,2,0
+1995,Near Palmerston North,New Zealand,Auckland - Palmerston North,21,18,3,5,4,1,0
+1995,Volgograd,Russia,Poliny Osipenko - Nikolayevsk-on-Amur,12,?,?,12,?,?,0
+1995,Herputchi,Russia,Poliny - Nikolayevsk-on-Amur,14,12,2,13,11,2,0
+1995,Near Cuvela,Angola,Ondjiva - Catumbela,48,45,3,48,45,3,0
+1995,Lagos,Nigeria,Kaduna - Lagos,80,74,6,16,16,0,0
+1995,La Romana,Dominican Republic,"Santo Domingo - Aguadilla, Puerto Rico",2,0,2,2,0,2,0
+1995,Kiunga,Papua New Guinea,Port Moresby - Tabubil,3,1,2,3,1,2,0
+1995,Gumey,Papua New Guinea,Alotou - Dagura,15,13,2,15,13,2,0
+1995,Bintuni,Indonesia,?,18,16,2,1,0,1,0
+1995,Near Antananivo,Madagascar,Maintirano - Antananivo,34,29,5,34,29,5,0
+1995,Near Karamui,Papua New Guinea,?,2,1,1,2,1,1,0
+1995,Johannesburg,South Africa,Johannesburg - Jamba,3,0,3,3,0,3,0
+1995,Near Kaimana,Indonesia,Tual - Langgar - Kaimana,10,6,4,10,6,4,0
+1995,Mt. Chichontepec,San Vincente,Guatemala City - San Salvador,65,58,7,65,58,7,0
+1995,Nevada del Huila,Colombia,Neiva - Cali,10,8,2,10,8,2,0
+1995,Near Carrollton,Georgia,Atlanta - Gulfport,29,26,3,10,9,1,0
+1995,Near Farewell,Alaska,Farewell - Anchorage,1,0,1,1,0,1,0
+1995,Beaver Dam,Arizona,"Las Vegas, NV - W. Yellowstone, MT",8,7,1,8,7,1,0
+1995,Toronto,Ontario,Air Show,7,0,7,7,0,7,0
+1995,Near La Macarena,Colombia,Villavicencio - La Macarena,22,18,4,21,17,4,0
+1995,Jalalabad,Afghanistan,Kabul - Jalalabad,51,44,7,3,3,0,0
+1995,Off Colombo,Sri Lanka,Ratmalana - Palali base,81,76,5,81,76,5,0
+1995,Tawau,Malaysia,Kota Kinabalu - Tawau,53,49,4,34,32,2,0
+1995,Near Moron,Mongolia,Ulan Bator - Moron,43,37,6,42,36,6,0
+1995,Anchorage,Alaska,Anchorage-Elmendorf AFB - Anchorage-Elmendorf AFB,24,20,4,24,20,4,0
+1995,Sterligov Cape,Russia,Cape Chelyuskin - Sterligov Cope,15,10,5,15,10,5,0
+1995,Campbell River,British Columbia,Triumph Bay - Campbell River,10,9,1,8,7,1,0
+1995,Gunung Antara,Indonesia,Medan - Meulaboh,14,12,2,1,0,1,0
+1995,Barskoon,Kirghizia,?,15,12,3,15,12,3,0
+1995,Near Luyaba,Argentina,Comodoro Rivadavia - Cordoba,53,48,5,53,48,5,0
+1995,Kaduna,Nigeria,Jos - Kano,137,129,8,9,9,0,0
+1995,Off Jaffna Peninsula,Sri Lanka,Colombo - Palay AFB,63,57,6,63,57,6,0
+1995,Off Labuan,Malaysia,?,10,8,2,10,8,2,0
+1995,Baku,Azerbaijan,?,6,0,6,2,0,2,0
+1995,Near Douala,Cameroon,Cotonou - Douala,78,72,6,72,68,4,0
+1995,Near Nakhichevan,Azerbaijan,Nakhichevan - Baku,82,76,6,54,52,2,0
+1995,Near Grossevichi,Russia,Yushno - Khabarovk,98,90,8,98,90,8,0
+1995,Verona  - Villafranca,Italy,Verona - Timisoara,49,41,8,49,41,8,0
+1995,Cahungula,Angola,Jamba Airport - ?,144,139,5,141,137,4,0
+1995,Near Buga,Valle del Cauca,Miami - Cali,164,156,8,160,152,8,0
+1995,Bagasin,Papua New Guinea,Madang - Bundi,12,11,1,2,1,1,0
+1996,Off Bridgetown,Barbados,Union Island - Bridgetown,10,9,1,1,1,0,0
+1996,Kinshasa,Zaire,Kinshasa - Kahemba,6,0,6,2,0,2,225
+1996,Near Kano,Nigeria,Lagos - Kano,14,10,4,14,10,4,0
+1996,Off Point Pedro,Sri Lanka,?,39,?,?,39,?,?,0
+1996,Asuncion,Paraguay,Asuncion - Campina Grande,4,1,3,4,1,3,24
+1996,St. Johns,Arizona,"St. Johns, AZ - Brownsville, TX",4,2,2,4,2,2,0
+1996,Off Puerto Plata,Domincan Republic,Puerto Plata - Gander,189,176,13,189,176,13,0
+1996,Near Kandahar,Afghanistan,?,20,?,?,20,?,?,0
+1996,Port-au-Prince,Hati,Port-au-Prince - Cap Haitien,15,13,2,11,9,2,0
+1996,Near Jabal Awliya,Sudan,El Obeid - Khartoum,91,85,6,91,85,6,0
+1996,Near Lukapa,Angola,Ludana - Lukapa,8,3,5,8,3,5,0
+1996,Arequipa,Peru,Lima - Arequipa,123,117,6,123,117,6,0
+1996,Near Mesones Muro,Peru,Condorcanqui - Bagua,23,?,?,23,?,?,0
+1996,Karabogazgol Bay,Turkmenistan,?,12,9,3,12,9,3,0
+1996,Near Dubrovnik,Croatia,Tizla - Dubrovnik,35,29,6,35,29,6,0
+1996,Near Petropavlovsk,Russia,Novosibirsk - Petropavlovsk,20,11,9,20,11,9,0
+1996,Off Matsu Island,Taiwan,Taipei - Matsu Island,17,15,2,6,6,0,0
+1996,Cheyenne,Wyoming,"Cheyenne, WY - Lincoln, NE",3,2,1,3,2,1,0
+1996,Near Haj Yousif,Sudan,Wadi Halfa - Khartoum,53,48,5,53,48,5,0
+1996,Near Terrace,British Columbia,?,2,0,2,2,0,2,0
+1996,Otaez,Mexico,Durango - Otaez,19,17,2,16,14,2,0
+1996,Everglades,Miami,Miami - Atlanta,110,105,5,110,105,5,0
+1996,Oumba,Papua New Guinea,Menyamya - Marakawa,10,9,1,1,1,0,0
+1996,Griesta,United Kingdom,Inverness - Lerwick,3,2,1,3,2,1,0
+1996,Kinshasa,Democratic Republic Congo,"Kinshasa, Congo  - Athens, Greece",10,2,8,10,2,8,0
+1996,Rasht,Iran,Training,7,0,7,7,0,7,0
+1996,Near Rollingstone,Queensland  Australia,?,28,?,?,18,?,?,0
+1996,Fukuoka,Japan,Fukuoka - Denpasar,275,260,15,3,3,0,0
+1996,Shanghai,China,Dalian - Shanghai,12,9,3,2,1,1,0
+1996,Pensacola,Florida,Pensacola - Atlanta,142,137,5,2,2,0,0
+1996,Papua,New Guinea,Bosavi - Mendi,20,19,1,20,19,1,0
+1996,Near Kanda,India,Delhi - Shimla - Kulu,9,6,3,9,6,3,0
+1996,Near Eindhoven,The Netherlands,"Villafranca, Italy - Eindhoven AB",41,37,4,34,30,4,0
+1996,Near Playa del Carmen,Mexico,Holvox Island - Playa del Carmen,18,16,2,1,1,0,0
+1996,Off East Moriches,New York,New York City - Paris,230,212,18,230,212,18,0
+1996,Russian Mission,Alaska,Emmonak - Aniak,4,1,3,4,1,3,0
+1996,Near Mergui,Manmar,Rangoon - Mergui,49,44,5,8,8,0,0
+1996,Markham Bay,Canada,Iqaluit - Markham Bay,2,0,2,2,0,2,0
+1996,Near Bronson Creek,British Columbia,Bronson Creek - Wrangell,3,0,3,1,0,1,0
+1996,Near Jackson Hole,Wyoming,"Jackson Hole, WY - New York, NY",9,1,8,9,1,8,0
+1996,Near Alliford Bay,British Columbia,Tasu - Alliford,3,2,1,3,2,1,0
+1996,Belgrade,Yugosalvia,Belgrade - Malta,12,2,10,12,2,10,0
+1996,Near Longyearbyen,Norway,Moscow - Svalbard,141,129,12,141,129,12,0
+1996,Waddenzee,Netherlands,Texel - Amsterdam,32,26,6,32,26,6,0
+1996,Off Pasamayo,Peru,Lima - Santiago,70,61,9,70,61,9,0
+1996,Kahemba,Congo,?,21,19,2,6,4,2,0
+1996,Lukapa,Angola,?,19,13,6,6,5,1,0
+1996,San Francesco al Campo,Italy,"Moscow - Turin, Italy",23,0,23,2,0,2,2
+1996,Manta,Ecuador,Manta - Miami,4,0,4,4,0,4,30
+1996,Khanty,Russia,Tyumen - Khanty,34,30,4,5,3,2,0
+1996,Sao Paolo,Brazil,Sao Paulo - Rio de Janiero,95,89,6,95,89,6,3
+1996,Near Tikal,Guatemala,Guatemala City - Flores,16,14,2,16,14,2,0
+1996,Lagos,Nigeria,Port Harcourt - Lagos,143,134,9,143,134,9,0
+1996,Aubusson,France,Geneva - Bordeaux,8,7,1,8,7,1,0
+1996,Near Charkhi Dadri,India,New Delhi - Dhahran / Chimkent - New Delhi,349,316,33,349,316,33,0
+1996,Bolchaïa Pyssa,Russia,Most Pyssa - Koslan,15,13,2,14,13,1,0
+1996,Quincy,Illinois,"Burlington, IA - Quincy, IA",14,10,4,14,10,4,0
+1996,Off Cape Mendocino,CA,"San Diego, CA - Portland, OR",11,0,11,10,0,10,0
+1996,Off Mitsamiouli,Comoros,Addis Ababa - Nairobi,175,163,12,127,117,10,0
+1996,Abakan,Siberia,Abakan - Petropavlosk - Kamchatsky,23,19,4,23,19,4,0
+1996,Medellin,Colombia,Medellin - Bahia Solano,15,13,2,14,12,2,0
+1996,Banjarmasin,Indonesia,Banjarmasin - Sampit,17,15,2,16,14,2,2
+1996,Boise,Idaho,Boise - Salt Lake City,2,0,2,2,0,2,0
+1996,Tver,Russia,St. Petersburg - Krasnodar,18,11,7,18,11,7,0
+1996,Rio Negro,Colombia,Bogota - Medellin,4,1,3,4,1,3,0
+1996,Narrows,Virginia,Test flight,6,3,3,6,3,3,0
+1996,Dorchester,New Hampshire,"Bridgeport, CT - Lebanon, NH",2,0,2,2,0,2,0
+1996,Near Nellore,India,Tanbaram AFB - Hyderabad,22,17,5,22,17,5,0
+1997,Near Moamoa,Samoa,Pago Pago - FagaliI,5,3,2,3,2,1,0
+1997,Near Monroe,Michigan,Cincinnati - Detroit,29,26,3,29,26,3,0
+1997,Sparrevohn,Alaska,St. Marys - Kenai,2,0,2,1,0,1,0
+1997,Yola,Nigeria,Jos - Yola,16,13,3,5,2,3,0
+1997,Tambacoumba,Senegal,Tambacounda - Dakar,52,49,3,25,22,3,0
+1997,Near Quiangala,Angola,Luanda - Cafunfo,37,33,4,37,33,4,0
+1997,Northern Israel,,?,73,?,?,73,?,?,0
+1997,Carajas,Brazil,Maraba - Carajas,52,46,6,1,0,1,0
+1997,Guatemala City,Guatemala,"Lima, Peru - Guatemala City, Guatemala",5,4,1,5,4,1,0
+1997,Lucapa,Angola,Luanda - Lucapa,16,12,4,16,12,4,0
+1997,Near Mashhad,Iran,Dezful - Mashhad,88,80,8,88,80,8,0
+1997,Cherkessk,Russia,Stavropol - Trabzon,50,44,6,50,44,6,0
+1997,Tegucigalpa,Honduras,Howard AFB - Tegucigalpa,10,?,?,3,?,?,0
+1997,Griffin,Georgia,Griffin - Americus,2,0,2,2,0,2,0
+1997,Near Wainwright,Alaska,Barrow - Wainwright,5,4,1,5,4,1,0
+1997,Brazzaville,Democratic Republic Congo,Brazzaville - Luanda,7,4,3,3,0,3,0
+1997,Gyandzha,Azerbaijan,Training,6,0,6,6,0,6,0
+1997,Near Sorei,Niger,Lome - Niamey,14,?,?,14,?,?,0
+1997,Tanjung Pandan,Indonesia,Jakarta - Tanjung Pandan,53,48,5,15,11,4,0
+1997,Near Konduz,Afghanistan,?,36,?,?,36,?,?,0
+1997,Huangtian,China,Chongqing - Shenzen,74,65,9,35,33,2,0
+1997,Near Irumu,Congo,Bunia - Kisangani,27,20,7,27,20,7,0
+1997,Mandalgobi,Mongolia,Ulan Bator - Mandalgobi,12,10,2,7,7,0,0
+1997,Madh Island,India,Mumbai - Banglaor,2,0,2,2,0,2,0
+1997,Near Saravena,Colombia,?,29,25,4,25,21,4,0
+1997,Suzano,Brazil,Sao Jose dos Campos - Congonhas,60,55,5,1,1,0,0
+1997,Off Santiago de Cuba,Cuba,Santiago de Cuba - Havana,44,39,5,44,39,5,0
+1997,Bandung,Indonesia,Bangdung - Jakarta,50,45,5,30,25,5,0
+1997,Goroka,New Guinea,Chimbu - Goroka,4,3,1,2,1,1,0
+1997,Calabar,Nigeria,Lagos - Calabar,55,49,6,1,0,1,0
+1997,Florence,Italy,Nice - Florence,17,14,3,1,0,1,0
+1997,Agana,Guam,Seoul - Guam,254,231,23,228,206,22,0
+1997,Miami,Florida,Miami - Santo Domingo,4,1,3,4,1,3,1
+1997,Matsu Island,Taiwan,Taipei - Matsu,16,14,2,16,14,2,0
+1997,Puerto Inirida,Venezuela,San Felipe - Puerto Inirida,12,10,2,12,10,2,0
+1997,Phnom Penh,Cambodia,Ho Chi Minh City - Phnom Penh,66,60,6,65,59,6,0
+1997,Near Miri,Malaysia,Bandar Seri Begawan - Miri,10,8,2,10,8,2,0
+1997,Near Uvira,Zaire,Buknavu - Uvira,22,21,1,22,21,1,0
+1997,Off Namibia,Africa,Niamey - Windhoek,33,23,10,33,23,10,0
+1997,Buah Nabar,Indonesia,Jakarta - Medan,234,222,12,234,222,12,0
+1997,Near Montrose,Colorado,"Montrose, CO - Page, AZ",9,8,1,9,8,1,0
+1997,Nuevo Berlin,Uruguay,Posadas - Buenos Aires,74,69,5,74,69,5,0
+1997,Taipei,Taiwan,?,5,0,5,5,0,5,0
+1997,Monterey Bay,near Pacific Grove,?,1,0,1,1,0,1,0
+1997,Jalal-Abad,Afghanistan,?,26,20,6,2,2,0,0
+1997,Near Barrow,Alaska,Barrow - Wainwright,8,7,1,8,7,1,0
+1997,Irkutsk-2,Russia,Irkutsk - Vladivostok,23,17,6,23,17,6,44
+1997,Little Grand Rapids,Canada,Winnipeg - Little Grand Rapids,17,15,2,4,3,1,0
+1997,La Veriente,Bolivia,Villamontes - Santa Cruz,19,17,2,10,9,1,0
+1997,Sharjah,United Arab Emirates,Dushanbe - Sharjah,86,77,9,85,77,8,0
+1997,Fotina,Greece,Odessa - Thessaloniki,70,62,8,70,62,8,0
+1997,Near Palembang,Indonesia,Jakarta - Hatta - Singapore,104,97,7,104,97,7,0
+1997,Tanagra,Greece,Search mission,5,0,5,5,0,5,0
+1997,Atlantic Ocean,off Angola,"Abidjan - Rundu, Nambia",5,0,5,5,0,5,0
+1997,Over the Pacific Ocean,,Tokyo - Honolulu,393,374,19,1,1,0,0
+1997,Rio Sidra,Panama,Panama City - Rio Sidra,10,9,1,10,9,1,0
+1998,Brno,Czech Republic,Gomel - Kunovice,2,0,2,2,0,2,0
+1998,Tor Kach,Pakistan,Kandahar - Herart,51,45,6,51,45,6,0
+1998,Yangon (Rangoon),Myanmar,Thandwe - Sittwe,45,41,4,16,15,1,0
+1998,Cagyan de Oro,Philippines,Tacloban - Cagayan de Oro,104,99,5,104,99,5,0
+1998,Near Cavalese,Trento,?,2,0,2,0,0,0,20
+1998,Terceira,Portugal,Terceira - Lisbon,7,0,7,7,0,7,0
+1998,Near Navafria,Spain,?,5,0,5,5,0,5,0
+1998,Near Nasir,Sudan,?,57,50,7,27,24,3,0
+1998,Taipei,Taiwan,Denpasar - Taipei,196,182,14,196,182,14,7
+1998,Mombasa,Kenya,"Mombasa, Kenya - Cairo, Egypt",6,0,6,6,0,6,0
+1998,Off Hsinchu,Taiwan,Hsinchu - Kao Hsiung,13,8,5,13,8,5,0
+1998,Near Charasyab,Afghanistan,Dubai - Kandahar - Kabul,45,32,13,45,32,13,0
+1998,Bacolod,Philippines,Manila - Bacolod,127,121,6,0,0,0,3
+1998,Piura,Peru,Tumbes - Piura,55,50,5,22,22,0,1
+1998,Near Mexico City,Mexico,?,4,0,4,2,0,2,0
+1998,Near Bogota,Colombia,Bogota - Quito,53,43,10,53,43,10,0
+1998,Andoas,Peru,Iquitos - Andoas,88,81,7,75,69,6,0
+1998,Near Nema,Mauritania,Nema - Nouakchott,42,35,7,39,32,7,0
+1998,Near Longtiang,Laos,Vientiane - Xiang Khoang,26,20,6,26,20,6,0
+1998,Indian Trail,North Carolina,"Charlotte, NC - Monroe, NC",5,4,1,5,4,1,0
+1998,Near Erdenet,Mongolia,Erdenet - Moron,28,26,2,28,26,2,0
+1998,Montreal,Canada,Montreal - Peterborough,11,9,2,11,9,2,0
+1998,Mt. Waialeale,Hawaii,Sightseeing,6,4,2,6,4,2,0
+1998,Off Rasal,United Arab Emirates,"Rasal - Nikolaev, Ukraine",8,0,8,8,0,8,0
+1998,Córdoba,Argentina,Tucumán - Córdoba,3,1,2,3,1,2,0
+1998,Asmara,Eritrea,"Bourgas, Bulgaria - Asmara, Eritrea",10,1,9,10,1,9,0
+1998,Pico de Orizaba,Mexico,Mexico City - Tuxtla Gutiérrez,4,0,4,4,0,4,0
+1998,Southhampton,England,VP-BPS,18,14,4,4,2,2,0
+1998,Barcelona,Spain,Palma de Mallorca - Barcelona,2,0,2,2,0,2,0
+1998,Manacapuru River,Brazil,Tefe - Manaus,24,22,2,5,4,1,0
+1998,Near Quiberon,France,Lyon - Lorient,15,12,3,15,12,3,0
+1998,Kochi,India,Agathi - Kochi - Thiruvananthapuram,6,3,3,6,3,3,2
+1998,Kincolith,British Columbia,Prince Rupert - Kincolith,5,4,1,5,4,1,0
+1998,Saurimo,Angola,?,13,6,7,1,0,1,0
+1998,Foveaux Strait,New Zealand,Stewart Island - Invercargill,10,9,1,5,4,1,0
+1998,Near Ghorepani,Nepal,Jomsom - Pokhara,18,15,3,18,15,3,0
+1998,Pretoria,South Africa,Pretoria - Durban,2,0,2,1,0,1,0
+1998,Manibagi,Myanmar,Rangoon - Tachilek,44,40,4,44,40,4,0
+1998,Quito,Ecuador,Quito - Guayaquil - Havana,91,77,14,70,56,14,10
+1998,Off Peggy's Cove,Nova Scotia,New York City - Geneva,229,215,14,229,215,14,0
+1998,Angola,,?,24,20,4,24,20,4,0
+1998,Port Alsworth,Alaska,"Anchorage, AK - Hoholitna River, AK",5,4,1,5,4,1,0
+1998,Islamabad,Pakistan,?,5,0,5,5,0,5,0
+1998,Near Nador,Morroco,Malaga - Melilla,38,34,4,38,34,4,0
+1998,Praia,Cape Verde,Sao Nicolau - Praia,22,20,2,1,1,0,0
+1998,Off Mannar,Sri Lanka,Jaffna - Colombo,55,48,7,55,48,7,0
+1998,Near Canaima,Venezuela,Sighteeing,27,24,3,1,0,1,0
+1998,Near Kindu,Congo,Kindu - Kinshasa,41,38,3,41,38,3,0
+1998,Yerevan,Armenia,Yerevan - Krasnodar,37,33,4,0,0,0,4
+1998,Rwenzori mountains,Uganda,Entebbe - Kasese,11,10,1,4,3,1,0
+1998,Near Quetzaltenango,Guatemala,Plaa Grande - Quetzaltenango,18,16,2,11,9,2,0
+1998,Near Krasnoyarsk,Russia,Krasnoyarsk - Mirny,13,7,6,13,7,6,0
+1998,Edgewater,Maryland,"Brunswick, GA - Annapolis, MD",1,0,1,1,0,1,0
+1998,Baie-Comeau,Canada,Point-Lebel - Rimouski,10,8,2,7,6,1,0
+1998,Near Surat Thani,Thailand,Bangkok - Surat Thani,146,132,14,102,91,11,0
+1998,Near Cuito,Angola,?,11,6,5,11,6,5,0
+1998,Saurimo,Angola,Luanda - Saurimo,10,2,8,1,?,?,0
+1998,Medellín,Colombia,Bogotá - Medellín,5,2,3,5,2,3,0
+1998,Vila Nova,Angola,Huambo - Saurimo,14,10,4,14,10,4,0
+1999,Near Huambo,Angola,Huambo - Luanda,9,5,4,9,5,4,0
+1999,Guernsey,Channel Islands,London - Guernsey,2,0,2,2,0,2,0
+1999,Geilenkirchen,Germany,Refueling,4,0,4,4,0,4,0
+1999,Mayne Island,British Columbia,Vancouver - Victoria,2,0,2,2,0,2,0
+1999,Coconut Island,QLD,Horn Island - Coconut Island,4,3,1,3,2,1,0
+1999,Bluefields,Nicaragua,Managua - Bluefields,28,21,7,28,21,7,0
+1999,Luanda,Angola,Luanda - Lucapa,14,10,4,14,10,4,13
+1999,Hoskins,Papua New Guinea,Hoskins - Kandrian,11,10,1,11,10,1,0
+1999,Kinshasa,Democratic Republic Congo,Kinshasa - Mbandaka,7,0,7,7,0,7,0
+1999,Rui'an,China,Chengdu - Wenzhou,61,50,11,61,50,11,0
+1999,Genoa,Italy,Cagliar - Genoa,31,27,4,4,3,1,0
+1999,New Delhi,India,Gwalior -  Pokhran - New Delhi,19,15,4,19,15,4,3
+1999,Near Tame,Colombia,Cucuta - El Yopal,8,5,3,8,5,3,8
+1999,Davis Inlet,Newfoundland,Goose Bay - Davis Inlet,2,0,2,1,0,1,0
+1999,Ribeirao Preto,Brazil,Training,5,0,5,5,0,5,0
+1999,Near Ceyhan,Turkey,Adana - Ciddah,6,0,6,6,0,6,0
+1999,Near Malaga,Colombia,Bucaramanga - Malaga,5,3,2,5,3,2,0
+1999,Shanghi,China,"Shanghi, China - Seoul, Korea",3,0,3,3,0,3,0
+1999,Off Port Vila,Vanuatu,Espírita Santo - Port Vila,12,11,1,7,6,1,0
+1999,Kuching,Malaysia,Training,5,0,5,5,0,5,0
+1999,Ol Kiombo,Kenya,Ol Kiombo - Mara Sika AS,2,0,2,2,0,2,0
+1999,Little Rock,Arkansas,Dallas-Fort Worth - Little Rock,145,139,6,11,10,1,0
+1999,Near Khartoum,Sudan,Kassala - Khartoum,50,44,6,50,44,6,0
+1999,Coron,Philippines,?,1,0,1,1,0,1,0
+1999,Juneau,Alaska,Sightseeing,7,6,1,7,6,1,0
+1999,Goroka,Papua New Guinea,Nadzab - Goroka,17,15,2,17,15,2,0
+1999,Long Haul Lake,Manatoba,Test flight,2,0,2,1,0,1,0
+1999,Luzamba,Angola,Huambo - Luanda,5,0,5,1,0,1,0
+1999,Sittwe,Myanmar,Yangon - Sittwe,8,4,4,8,4,4,0
+1999,Villavicencio,Colombia,Villavicencio - Mitu,18,12,6,5,5,0,0
+1999,Near Kathmandu,Nepal,Kathmandu - New Delhi,5,0,5,5,0,5,0
+1999,Toluca,Mexico,Los Mochis - Toluca,4,2,2,4,2,2,0
+1999,Off Martha's Vineyard,Massachusetts,"Fairfield, N.J. - Martha's Vineyard, MA",3,2,1,3,2,1,0
+1999,Tokyo,Japan,"Tokyo, Japan - Chitose, Japan",517,503,14,1,0,1,0
+1999,Near Orito,Colombia,?,7,0,7,7,0,7,0
+1999,Nasevou Village,Fiji,Nausori - Nadi,17,15,2,17,15,2,0
+1999,Santo Antao,Cape Verde Islands,Sao Vicente - Santo Antao,18,16,2,18,16,2,0
+1999,Hong Kong,China,Bangkok - Hong Kong,315,300,15,3,3,0,0
+1999,Hualian,Taiwan,Taipei - Hualian,96,90,6,1,1,0,0
+1999,Turtkul,Uzbekistan,Tashkent - Turtkul,33,29,4,2,2,0,0
+1999,Buenos Aires,Argentina,Buenos Aires - Cordoba,103,98,5,63,60,3,2
+1999,Near Kathmandu,Nepal,Pokhara - Kathmandu,15,10,5,15,10,5,0
+1999,Girona,Spain,"Cardiff, Wales, UK - Girona, Spain",245,236,9,1,1,0,0
+1999,Bucharest,Romania,Athens - Bucharest,13,10,3,7,7,0,0
+1999,Belelm,Brazil,Belem - Monte Dourado,2,0,2,2,0,2,0
+1999,Mt. Hidalgo,Mexico,Test flight,5,0,5,5,0,5,0
+1999,Dhahran,Saudi Arabia,?,20,18,2,12,10,2,0
+1999,San Carlos,Venezuela,La Carlota - Acarigua,6,3,3,6,3,3,0
+1999,Aberdeen,South Dakota,"Orlando, FL - Dallas, TX",6,4,2,6,4,2,0
+1999,Off Nantucket Island,Massachusetts,New York City - Cairo,217,202,15,217,202,15,0
+1999,Near Uruapan,Mexico,Uruapan - Mexico City,18,13,5,18,13,5,0
+1999,Near Pristina,Kosovo,Rome - Pristina,24,21,3,24,21,3,0
+1999,Moscow,Russia,"Moscow, Russia - Tashkent, Uzbekistan",7,0,7,5,0,5,0
+1999,Near Bayombang,Philippines,Manila - Cauayan,17,15,2,17,15,2,0
+1999,Kuwait City,Kuwait,Kuwait  IA - Kuwait-Ahmed Al-jaber AB,94,86,8,3,3,0,0
+1999,Sao Jorge,Azores (Portugal),Ponta Delgada - Horta,35,31,4,35,31,4,0
+1999,Guatemala City,Guatemala,Havana - Guatemala City,314,296,18,16,8,8,2
+1999,Great Hallingbury,United Kingdom,"London, England - Milan, Italy",4,0,4,4,0,4,0
+1999,Amritsar,India / Kandahar,Kathmandu - New Delhi,189,174,15,1,0,1,0
+1999,Bejuma,Venezuela,Havana - Valencia,22,12,10,22,12,10,0
+1999,Near Simara,Nepal,Simara - Kathmandu,10,7,3,10,7,3,0
+1999,Near Zonguldak,Turkey,"Kiev, Russia - Tehran, Iran",6,4,2,6,4,2,0
+2000,Abuja,Nigeria,Lagos - Abuja,16,13,3,1,1,0,1
+2000,Niederhasli,Switzerland,Zürich - Dresden,10,7,3,10,7,3,0
+2000,Off Marsa el-Brega,Libya,Tripoli IAP - Marsa el-Brega,41,38,3,22,21,1,0
+2000,San Jose,Costa Rica,San Jose - Tortuguero,20,17,3,5,4,1,0
+2000,Off Abidjan,Ivory Coast,Abidjan - Lagos,179,169,10,169,159,10,0
+2000,Off Point Mugu,California,Puerto Vallarta - San Francisco,88,83,5,88,83,5,0
+2000,Tehran,Iran,Training,8,?,?,8,?,?,0
+2000,Sacramento,California,"Sacramento, CA - Dayton, OH",3,0,3,3,0,3,0
+2000,Burbank,Calilfornia,Las Vegas - Burbank,142,137,5,0,0,0,0
+2000,Moscow,Russia,Moscow - Kiev,9,4,5,9,4,5,0
+2000,Near Kuna Yala,Panama,Panama City - Puerto Obaldia,10,8,2,10,8,2,0
+2000,Ennadai Lake,Canada,"Points North Landing, SK - Ennadai Lake",2,0,2,2,0,2,0
+2000,Herreira,Spain,Sevilla - Herreira,7,0,7,7,0,7,0
+2000,Kadirana,Sri Lanka,Bangkok - Colombo,8,0,8,6,0,6,2
+2000,Huambo,Angola,Huambo - Luanda,33,29,4,3,3,0,0
+2000,Near Anuradhapura,Sri Lanka,Jaffna/Palaly AFB - Anuradhapura AFB,40,36,4,40,36,4,0
+2000,Marianna,Florida,Opa-Locka - Marianna,3,0,3,3,0,3,0
+2000,Samal Island,Philippines,Manila - Davao,131,124,7,131,124,7,0
+2000,Pepa,Congo,"Pepa, Congo - Kigali, Rwanda",24,20,4,24,20,4,0
+2000,Bapi,Papua New Guinea,?,4,1,3,4,1,3,0
+2000,Lyon Satolas,France,?,5,3,2,2,0,2,0
+2000,Kurupung,Guyana,?,1,0,1,1,0,1,0
+2000,Kaunakakai,Hawaii,Kahului - Hoolehua,6,4,2,6,4,2,0
+2000,Moanda,Gabon,Libreville - Moanda,10,8,2,3,2,1,0
+2000,Near Wilkes-Barre,Pennsylvania,Atlantic City - Wilkes-Barre,19,17,2,19,17,2,0
+2000,Near Manila,Philippines,Davao - Manila,298,284,14,1,1,0,0
+2000,Off Whyalla,Australia,Adelaide - Whyalla,8,1,7,8,1,7,0
+2000,Accra,Ghana,Tamale - Accra,52,48,4,7,7,0,0
+2000,Shitai,China,Enshi - Wuhan,44,40,4,44,40,4,7
+2000,Boca Raton,Florida,Boca Raton - Fort Pierce,3,1,2,3,1,2,0
+2000,Off Shimano,Japan,Training,5,0,5,5,0,5,0
+2000,Off Cagayancillo,Philippines,Cagayancillo - Puerto Princesa,15,11,4,14,10,4,0
+2000,Near Villahermosa,Mexico,Tuxtla Gutierrez - Villahermosa,19,17,2,19,17,2,0
+2000,Villavicencio,Colombia,Villavicencio - Mitu,19,15,4,13,9,4,0
+2000,Raleigh,North Carolina,"Hinckley, IL - Louisburg, NC",3,2,1,1,0,1,0
+2000,Patna,India,Calcutta - Patna - Lucknow - New Delhi,58,52,6,55,49,6,5
+2000,Linneus,Maine,Moncton - Montreal,2,0,2,2,0,2,0
+2000,Nassau,Bahamas,Nassau - Freeport,2,0,2,2,0,2,0
+2000,Maui,Hawaii,Sight seeing,7,6,1,7,6,1,0
+2000,Gonesse,France,Paris - New York City,109,100,9,109,100,9,4
+2000,Mafraq,Jordan,?,13,?,?,13,?,?,0
+2000,Jodhura,Nepal,Bajhang - Dhangadhi,25,22,3,25,22,3,0
+2000,Cubatao,Brazil,Cubatao - Navegantes,6,5,1,6,5,1,0
+2000,Puerto Montt,Chile,Santiago - Coihaique,14,10,4,14,10,4,0
+2000,Burlington Township,New Jersey,"Lakehurst, NY - Patuxent River, MD",11,8,3,11,8,3,0
+2000,Near Tshikapa,Congo,Kinshasa - Tshikapa,27,21,6,27,21,6,0
+2000,Off Manama,Bahrain,Cairo - Manama,143,135,8,143,135,8,0
+2000,Mount Montezuma,Colombia,?,7,0,7,7,0,7,0
+2000,Near Burketown,Australia,Perth - ?,8,7,1,8,7,1,0
+2000,Kumarapura,Sri Lanka,Colombo - Kalmunai,14,12,2,14,12,2,0
+2000,Reynosa,Mexico,Mexico City - Reynosa - Matamoros,88,83,5,0,0,0,4
+2000,Port Radium,Northwest Territories,Kuglluktuk - Yellowknife,3,1,2,3,1,2,0
+2000,Wichita,Kansas,Test flight,3,0,3,2,0,2,0
+2000,Hillsboro,Missouri,St. Louis - New Madrid,3,2,1,3,2,1,0
+2000,Near Sam Neua,Laos,Vientiane - Sam Neua,17,15,2,8,8,0,0
+2000,Near Batumi,Republic of Georgia,Moscow - Batumi,86,75,11,86,75,11,0
+2000,Taipei,Taiwan,Taipei - Los Angeles,179,159,20,83,79,4,0
+2000,Near Monaquimbundo,Angola,Saurimo - Luanda,44,39,5,44,39,5,0
+2000,Luabo,Democratic Republic Congo,?,11,5,6,2,1,1,0
+2000,Fort Wayne,Indiana,"Fort Wayne, IN - Milwaukee, WI",1,0,1,1,0,1,0
+2000,Near Luanda,Angola,Luanda - Namibe,57,52,5,57,52,5,0
+2000,Miami,Florida,"Miami, FL - Port au Prince",114,105,9,1,0,1,0
+2000,Near Sumacal,Beni,Cashaschanes - Sumacal,6,5,1,6,5,1,0
+2001,Zheng Zou AB,China,Training,16,0,16,16,0,16,6
+2001,Near Silimo,Indonesia,Timika - Jayapura,9,0,9,9,0,9,0
+2001,Eider Point,Alaska,?,2,0,2,2,0,2,0
+2001,Ciudad Bolivar,Venezuela,Canaina - Ciudad Bolivar - Por La Mar,24,20,4,24,20,4,0
+2001,Byers,Colorado,"Broomfield, CO - Stillwater, OK",10,8,2,10,8,2,0
+2001,El Yopal,Colombia,El Yopal - Mitu,6,3,3,3,2,1,0
+2001,Nurnberg,Germany,"Nurnberg - Rome, Italy",3,1,2,3,1,2,0
+2001,Beaver Island,Minnesota,Chicago - Beaver Island,6,4,2,2,0,2,0
+2001,Jakobkondre,Suriname,Paramaribo - Jakobkondre,10,9,1,10,9,1,0
+2001,Near Granton Harbour,Scotland,Edinburgh - Belfast,2,0,2,2,0,2,0
+2001,Unadilla,Georgia,"Fort Walton Beach, Fl - Oceana Naval Air Station, VA",21,18,3,21,18,3,0
+2001,Bangkok,Thailand,Bangkok - Chiang Mai.,5,0,5,1,0,1,0
+2001,Medina,Saudi Arabia,Istanbul - Moscow,174,162,12,3,2,1,0
+2001,Gustavia,St. Barthélémy,St. Maarten - St. Barthélémy,19,17,2,19,17,2,1
+2001,Jadura,Indonesia,Training,3,0,3,3,0,3,0
+2001,Near Aspen,Colorado,Los Angeles - Aspen,18,15,3,18,15,3,0
+2001,Adar Yeil,Sudan,Adar Yeil - Khartoum,30,?,?,14,?,?,0
+2001,Thanh Tranh Village,Vietnam,Vinh - Dong Hoi - Hue,16,13,3,16,13,3,0
+2001,Near Roque Perez,Argentina,San Fernando - El Calafate,10,8,2,10,8,2,0
+2001,Malatya,Turkey,Diyarbakir - Ankara,34,28,6,34,28,6,0
+2001,Near Sari,Iran,Tehran - Gorgan,30,25,5,30,25,5,0
+2001,Mendoza,Argentina,Mendoza - Parana,5,0,5,5,0,5,0
+2001,Near Myakotino,Russia,Rzhevsk - Morsansk,7,0,7,7,0,7,0
+2001,Jayapura,Indonesia,Jayapura - Wamena,19,16,3,1,1,0,0
+2001,Near Irkutsk,Russia,Yekaterinburg - Irkutsk - Vladivostok,145,136,9,145,136,9,0
+2001,Off Chinhae,South Korea,Jinhae - Ockpo,12,9,3,8,7,1,0
+2001,Near Puerto Cabello,Venezuela,Puerto Cabello - Caracas,13,10,3,13,10,3,0
+2001,Near Moscow,Russia,Moscow - Norilsk,10,0,10,10,0,10,0
+2001,Reykjavík,Iceland,"Reykjavík, Iceland - Narsarsua, Greenland",3,1,2,3,1,2,0
+2001,Near Meadview,Arizona,Grand Canyon NP - Las Vegas,7,6,1,6,5,1,0
+2001,Mugogo,Democratic Republic Congo,Kama - Kapmene,11,9,2,4,2,2,0
+2001,Ithaca,New York,"Ithaca, NY - Jackson, MI",2,0,2,2,0,2,0
+2001,Lajes,Terceira,Toronto - Lisbon,304,291,13,0,0,0,0
+2001,Near Malaga,Spain,Melilla - Málaga,47,44,3,4,3,1,0
+2001,Arlington,Virginia.,Washington D.C. - Los Angeles,64,58,6,64,58,6,125
+2001,New York City,New York,Boston - Los Angeles,92,81,11,92,81,11,2750
+2001,New York City,New York,Boston - Los Angeles,65,56,9,65,56,9,2750
+2001,Shanksville,Pennsylvania,Newark - San Francisco,44,37,7,44,37,7,0
+2001,Near Chichen Itza,Mexico,Chichen Itza - Cozumel,19,17,2,19,17,2,0
+2001,Belo Horizonte,Brazil,Recife  - Sao Paulo,82,77,5,1,1,0,0
+2001,Guatemala City,Guatemala,"Guatemala City - San Pedro Sula, Honduras",13,11,2,9,8,1,0
+2001,110 miles SW of Sochi,Russia,"Tel Aviv -  Novosibirsk, Russia",78,66,12,78,66,12,0
+2001,Mollet Lake,Quebec,Iyachisakus Lake - Mollet Lake,7,6,1,3,2,1,0
+2001,Milan,Italy,Milan - Copenhagen / Milan - Paris,114,106,8,114,106,8,4
+2001,Off Valencia,Spain,"Barcelona - Oran, Algeria",10,8,2,10,8,2,0
+2001,Dillingham,Alaska,Dillingham - King Salmon,10,9,1,10,9,1,0
+2001,Shamattawa,Canada,Gods Narrows - Shamattawa,3,1,2,2,0,2,0
+2001,Anchorage,Alaska,"Fire Island, AK - Anchorage, AK",5,4,1,3,2,1,0
+2001,Belle Harbor,Queens,"New York City - Santo Domingo, Dominican Rep.",260,251,9,260,251,9,5
+2001,Kalyazin,Russia,Khatanga - Moscow,27,18,9,27,18,9,0
+2001,Pittsburgh,Pennsylvania,"Pittsburgh, PA - Baca Raton, Fl",2,0,2,2,0,2,0
+2001,Palade,Estonia,Tallinn - Kardla,17,14,3,2,2,0,0
+2001,Birchwil,Switzerland,Berlin - Zurich,33,28,5,24,21,3,0
+2001,Port Harcourt,Nigeria,Luxembourg - Port Harcourt,13,0,13,1,0,1,0
+2001,Near Novaya Inya,Russia,Moscow - Bratsk - Anadyr,18,9,9,18,9,9,0
+2001,Geti,Democratic Republic Congo,Bunia - Beni,6,4,2,6,4,2,0
+2001,Near Medellin,Colombia,Medellin - Quibdo,16,14,2,16,14,2,0
+2001,Bremerhaven,Germany,Bremerhaven - Wangerooge,9,8,1,8,7,1,0
+2002,Birmingham,England,"Birmingham, England - Bangor, MA",5,3,2,5,3,2,0
+2002,Shamsi AFB,Pakistan,Jacobabad - Shamsi,7,0,7,7,0,7,0
+2002,Bilbao,Spain,Madrid - Bilbao,3,0,3,3,0,3,0
+2002,Chilpancingo,Mexico,Mexico City - Chilpancingo,17,15,2,5,5,0,0
+2002,Near Solo,Indonesia,Mataram - Yogyakarta - Jakarta,62,54,8,1,0,1,0
+2002,Near La Bonita,Ecuador,Quito - Lago Agrio,26,21,5,26,21,5,0
+2002,Near Luena,Angola,?,40,34,6,5,3,2,0
+2002,Near Ipiales,Colombia,Quito -  Tulcán - Cali,92,83,9,92,83,9,0
+2002,Near Khorramabed,Iran,Tehran - Khorramabed,117,108,9,117,108,9,0
+2002,Monrovia,Liberia,?,10,3,7,1,0,1,0
+2002,Lakhta,Russia,Sanofov - Lakhta,20,12,8,17,12,5,0
+2002,Off Dumaguete,Philippines,Basilan - Mactan Island,10,4,6,10,4,6,0
+2002,Monte Rotondo,Italy,"Budapest, Hungary - Tunis, Tunisia",3,1,2,3,1,2,0
+2002,Near Placetas,Cuba,Cienfuegos -- Cayo Coco,17,15,2,17,15,2,0
+2002,Off Djibouti,Republic of Djibouti,"Mogadishu, Somalia - Djibouti",4,0,4,4,0,4,0
+2002,Palma de Mallorca,Spain,Madrid - Palma de Mallorca,2,0,2,2,0,2,0
+2002,Busan,South Korea,Beijing - Busan,166,155,11,128,120,8,0
+2002,Popayán,Colombia,Medellín - Popayán,8,5,3,3,3,0,0
+2002,Near Abakan,Russia,?,20,17,3,8,6,2,0
+2002,Kano,Nigeria,Abuja - Jos - Kano - Lagos,77,69,8,74,67,7,78
+2002,Near Tunis,Tunisia,Cairo - Tunis,62,56,6,14,11,3,0
+2002,Off Dalian,China,Beijing - Dalian,112,103,9,112,103,9,0
+2002,Near Calabar,Nigeria,Port Harcourt - Calabar,5,0,5,5,0,5,0
+2002,Off Penghu Island,Taiwan,Taipei - Hong Kong,225,206,19,225,206,19,0
+2002,Near Nabire,Indonesia,Nabire - Enaotali,6,2,4,6,2,4,0
+2002,George,South Africa,Bloemfontein - George,3,1,2,3,1,2,0
+2002,Near Ndalatando,Angola,Luanda - demobilization camp,25,23,2,20,18,2,0
+2002,Near Gardez,Afghanistan,?,10,2,8,3,0,3,0
+2002,Uberlingen,Germany,Moscow-Munich-Barcelona / Bahrain/Brussels,71,57,14,71,57,14,0
+2002,Bangui,Central African Republic,"N'Djamena, Chad - Brazzaville, Congo",27,19,8,27,19,8,0
+2002,Near Long Barai,Indonesia,Tarakan - Krayan,10,8,2,10,8,2,0
+2002,Off Cromer,Norfork,Gas platform Clipper - drilling rig Golbal Sante Fe Monach,11,9,2,11,9,2,0
+2002,Surkhet,Nepal,Jumla - Surkhet,4,2,2,4,2,2,0
+2002,Lviv,Ukraine,?,2,0,2,0,0,0,85
+2002,Moscow,Russia,Moscow - St. Petersburgh,16,0,16,14,0,14,0
+2002,Caguas,Puerto Rico,Roosevelt Roads NS - Borinquen NGB,10,3,7,10,3,7,0
+2002,Kadjuduwa Watta,Sri Lanka,?,5,0,5,5,0,5,0
+2002,Khankala,Chechnya,?,147,142,5,121,121,0,0
+2002,Pokhara,Nepal,Jomsom - Pokhara,18,15,3,18,15,3,0
+2002,Near Ayan,Russia,Khabarovsk - Ayan,16,14,2,16,14,2,0
+2002,Rio Branco,Brazil,Cruzeiro do Sul - Tarauaca - Rio Branco,31,28,3,23,20,3,0
+2002,Paranapanema,Sao Paulo,Guarulhos - Londrina,2,0,2,2,0,2,0
+2002,Near Natashquan,Quebec,Lake de l'Avion - Agunish River,4,3,1,3,3,0,0
+2002,Vasco,India,Military exercises,12,0,12,12,0,12,5
+2002,Near Niederanven,Luxembourg,"Berlin, Germany - Luxembourg",22,19,3,20,18,2,0
+2002,Tarakan,Indonesia,Tarakan - Long Bawan,10,9,1,7,6,1,0
+2002,Taos,New Mexico,"Las Vegas, NV - Taos, NM",2,0,2,2,0,2,0
+2002,Manila,Philippines,Manila - Laoag,34,29,5,19,18,1,0
+2002,Masai Mara Game Reserve,Kenya,Ol Kiombo - Mombasa,20,18,2,1,0,1,0
+2002,Gohu Airstrip,Papua New Guinea,Gohu - Madang,8,7,1,8,7,1,0
+2002,Rockford,Illinois,Decatur - Rockford,1,0,1,1,0,1,0
+2002,Off Pachao Tao,Taiwan,Taipei - Macau,2,0,2,2,0,2,0
+2002,Near Isfanan,Iran,"Kharkiv, Ukraine - Trabzon, Turkey - Isfanan, Iran",44,38,6,44,38,6,0
+2002,Curitiba,Brazil,Sao Paulo - Porto Alegre,16,13,3,3,2,1,0
+2002,Anjouan,Comoros Islands,Moroni Hahaya - Anjouan,16,14,2,1,1,0,0
+2003,Charlotte,North Carolina,"Charlotte, NC - Greer, SC",21,19,2,21,19,2,0
+2003,Diyarbakir,Turkey,Istanbul - Ankara - Diyarbakir,80,75,5,75,71,4,0
+2003,Near Chachapoyas,Peru,Chiclayo - Chachapoyas,46,42,4,46,42,4,0
+2003,Near Ndjolé,Gabon,Brazzaville - Douala,7,5,2,7,5,2,0
+2003,Busia,Kenya,Busia - Nairobi,13,11,2,3,1,2,0
+2003,Baucau,East Timor,Macau - Baucau,6,2,4,6,2,4,0
+2003,Near Agadir,Morocco,Agadir - Algiers,8,0,8,8,0,8,0
+2003,Tallinn,Estonia,Tallinn - Helsinki,3,0,3,2,0,2,0
+2003,Ferguson,Kentucky,"Griffith-Merrill, IN - Somerset, KY",7,6,1,3,2,1,0
+2003,Near Shahdad,Iran,Zahedan - Kerman,275,257,18,275,257,18,0
+2003,Near Kohat,Pakistan,Islamabad - Kohat,17,9,8,17,9,8,0
+2003,Near Barki,Russia,Skydiving,25,23,2,11,9,2,0
+2003,Tamanrasset,Algeria,Tamanrasset - Algiers,103,97,6,102,96,6,0
+2003,Mulia,Indonesia,Mulia - Wamena,16,14,2,4,2,2,0
+2003,New Vienna,Iowa,"Aurora, IL - Morris, MN",3,2,1,3,2,1,0
+2003,Near Kinshasa,Congo,Kinshasa - Lubumbashi,200,?,?,129,?,?,0
+2003,Near Macka,Turkey,"Kabul, Afghanistan - Trabzon, Turkey - Zaragoza, Spain",75,62,13,75,62,13,0
+2003,Talkeetna,Alaska,?,4,3,1,4,3,1,0
+2003,Milan,Italy,Milan - Genoa - Farnborough,2,0,2,2,0,2,0
+2003,Near Oiapoque,Brazil,Oiapoque - Macapa,5,4,1,5,4,1,0
+2003,Christchurch,New Zealand,Palmerston North - Christchurch,10,9,1,8,7,1,0
+2003,Belo Horizonte,Brazil,?,4,2,2,4,2,2,0
+2003,Volcano,Hawaii,Sightseeing,4,3,1,4,3,1,0
+2003,Near Brest,France,Nantes - Brest,24,21,3,1,0,1,0
+2003,Near Rudshour,Iran,?,7,0,7,7,0,7,0
+2003,Anchor Point,Alaska,"Hallo Bay, AK - Homer, AK",3,2,1,3,2,1,0
+2003,Near Rooisand Desert Ranch,Namibia,?,4,3,1,4,3,1,0
+2003,Blida,Algeria,Training,4,0,4,4,0,4,11
+2003,Belem,Para,?,4,2,2,4,2,2,0
+2003,Macaé,Rio de Janeiro,?,5,3,2,5,3,2,0
+2003,Port Sudan,Sudan,Port Sudan - Khartoum,117,106,11,117,106,11,0
+2003,Near San Cristobal,Venezuela,La Carlota - San Cristobal,10,8,2,4,4,0,0
+2003,Off Treasure Cay,Bahamas,"Ft. Lauderdale, FL - Treasure Cay",10,9,1,2,2,0,0
+2003,Mount Kenya,Kenya,Nairobi - Samburu National Park,14,12,2,14,12,2,0
+2003,Waialeale,Kauai,Sightseeing,5,4,1,5,4,1,0
+2003,Groton,Connecticut,Farmingdale - Groton,2,0,2,2,0,2,0
+2003,Tocomita,Venezuela,Porlamar - Canaima,16,14,2,1,0,1,0
+2003,Near Barrow,Alaska,Barrow - Wainwright,2,1,1,2,1,1,0
+2003,Kamchatka Peninsula,Russia,Kamchatka - Kuril Islands,20,19,1,20,19,1,0
+2003,Cap Haitien,Haiti,Cap Haitien - Port au Paix,21,19,2,21,19,2,0
+2003,Off Hyannis,Massachusetts,?,2,0,2,2,0,2,0
+2003,Near Summer Beaver,Canada,Pickle Lake - Summer Beaver,8,7,1,8,7,1,0
+2003,Near La Quemada,Mexico,Mexicali - Santa Lucia,6,0,6,6,0,6,0
+2003,Del Rio,Texas,El Paso - Del Rio,2,0,2,1,0,1,0
+2003,Near Meadview,Arizona,Sightseeing,7,6,1,7,6,1,0
+2003,Gaspé,Quebec,Gaspé - Îles-de-la-Madeleine,3,2,1,3,2,1,0
+2003,Sao Gabriel de Cachoeria,,Sao Gabriel de Cachoeria - Yauarete,4,3,1,4,3,1,0
+2003,Off Waikanae,New Zealand,Christchurch - Palmerston North,2,0,2,2,0,2,0
+2003,Uriman,Venezuela,?,2,0,2,1,0,1,0
+2003,Buenos Aires,Argentina,?,5,0,5,5,0,5,0
+2003,Tampico,Mexico,Tampico - Las Potrancas Ranch Airstrip,3,0,3,3,0,3,0
+2003,Cody,Wyoming,Casper - Cody,1,0,1,1,0,1,0
+2003,Near Hasi,Iraq,Fallujah - Baghdad,36,34,2,15,15,0,0
+2003,200 miles NE of Derby,Australia,?,4,3,1,4,3,1,0
+2003,Near Ogle,Guyana,"Ogle, Guyana - Ekereku, Guyana",7,4,3,2,1,1,0
+2003,Mosul,Iraq,?,22,18,4,17,13,4,0
+2003,Spokane,Washington,Seattle - Spokane,1,0,1,1,0,1,0
+2003,Boende,Congo,"Boende, Congo - Kinshasa, Congo",24,18,6,20,14,6,13
+2003,Jellicoe,Ontario,?,3,2,1,2,1,1,0
+2003,Mitu,Colombia,El Yopal - Mitu,3,0,3,3,0,3,0
+2003,Helendale,California,"Chino,CA - Sun Valley, ID",2,0,2,2,0,2,0
+2003,Cotonou,Benin,"Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon",161,151,10,140,132,8,0
+2004,Off Sharm el Sheikh,Egypt,"Sharm el Sheikh, Egypt - Cairo, Egypt",148,135,13,148,135,13,0
+2004,Tashkent,Uzbekistan,Termez - Tashkent,37,32,5,37,32,5,0
+2004,Bitonja,Bosnia-Herzegovina,Skopje - Mostar,9,7,2,9,7,2,0
+2004,Sharjah,United Arab Emirates,Kish Island - Sharjah,46,40,6,43,37,6,0
+2004,Bakou,"Azerbaijan
+	
+Bakou",Ankara - Baku - Kabul,7,0,7,3,0,3,0
+2004,Tonopah,Nevada,?,5,4,1,5,4,1,0
+2004,Pyote,Texas,"Odessa, TX - Lubbock, TX",5,4,1,4,3,1,0
+2004,Near Milpillas,Mexico,Ciudad Juarez - Mexico City,7,5,2,7,5,2,0
+2004,Carepa,Colombia,Bogota - Carepa,7,5,2,3,1,2,0
+2004,Jiech,Sudan,Jiech - Ayod,10,8,2,6,5,1,0
+2004,Dalang,Sudan,Khartoum - Juba - El Obeid,7,0,7,7,0,7,0
+2004,Near Manaus,Brazil,Sao Paulo - Tefe - Manaus,33,30,3,33,30,3,0
+2004,Urumqi,China,Taiyuan - Urumqi - Baku,7,0,7,7,0,7,0
+2004,Bozoy,Kazakhstan,Kyzyl-Orda - Bozoy - Vozrozhdenya Island,12,10,2,1,1,0,0
+2004,Mwingi,Kenya,Nairobi - Mogadiscio,2,0,2,2,0,2,0
+2004,Near Lukla,Nepal,Katmandou - Lukla,3,0,3,3,0,3,0
+2004,Off Libreville,Gabon,Libreville - Franceville,30,26,4,19,18,1,0
+2004,Near Yengema,Sierra Leone,Freetown - Kailahun,24,21,3,24,21,3,0
+2004,Off Beef Island,British Virgin Islands,San Juan - Saint Martten,2,0,2,1,0,1,0
+2004,Off  Macaé,Rio de Janeiro,"Campos, Brazil  -  Off-shore oil rig",11,9,2,6,6,0,0
+2004,Ononge,Papua New Guinea,Port Moresby - Ononge,3,0,3,2,0,2,0
+2004,Cincinnati,Ohio,Memphis - Cincinnati,2,0,2,1,0,1,0
+2004,Near Maracay,Venezuela,La Orchila Air Base - Maracay,25,22,3,25,22,3,0
+2004,Near Rostov-on-Don,Russia,Moscow - Sochi,46,38,8,46,38,8,0
+2004,Near Toula,Russia,Moscow - Volograd,41,34,7,41,34,7,0
+2004,Near Mc Grath,Alaska,Kenai - McGrath - Kotzebue,3,2,1,1,1,0,0
+2004,Villahermosa,Mexico,Mexico City - Villahermosa,2,0,2,2,0,2,0
+2004,Off Mount Athos,Greece,Athens - Mount Athos,17,13,4,17,13,4,0
+2004,Tortuguero lagoon,Puerto Rico,Mayaguez - San Juan,1,0,1,1,0,1,0
+2004,Kaduqli,Sudan,El Obeid - Juba,4,0,4,4,0,4,0
+2004,Halifax,Nova Scotia,"Windsor Locks - Halifax - Zaragoza, Spain",7,0,7,7,0,7,0
+2004,Jefferson City,Missouri,Little Rock - Minneapolis,2,0,2,2,0,2,0
+2004,Near Medellin,Colombia,Villavicencio - Medellin,3,0,3,3,0,3,0
+2004,Coron Island,Philippines,Coron Island - Manila,2,0,2,2,0,2,0
+2004,Near Kirksville,Missouri,"St. Louis, MO - Kirkville, MO",15,13,2,13,11,2,0
+2004,San Diego,California,"San Diego, CA - Albuquerque, NM",5,4,1,5,4,1,0
+2004,Martinsville,Virginia,"Concord, NC - Martinsville, VA",10,8,2,10,8,2,0
+2004,Caracas,Venezuela,El Vigia - Caracas,21,19,2,3,3,0,0
+2004,Baotou,Inner Mongolia,Baotou - Shanghai,53,47,6,53,47,6,0
+2004,Houston,Texas,Dallas - Houston,3,0,3,3,0,3,0
+2004,Near Bagram,Afghanstan,"Bagram - Farah, Afghanstan",6,3,3,6,3,3,0
+2004,Montrose,Colorado,"Montrose, CO - South Bend, IN",6,3,3,3,1,2,0
+2004,Solo,Indonesia,"Jakarta, Indonesia - Solo, Indonesia",163,156,7,25,23,2,0
+2004,El Junquito,Venezuela,Puerto Ayacucho - La Carlota,16,13,3,16,13,3,0
+2004,Near Jeddah,Saudi Arabia,Baku - Kabul,7,0,7,1,0,1,0
+2004,Uberaba,Brazil,Sao Paulo - Uberaba,2,0,2,2,0,2,1
+2005,Tura,Siberia,Vanavara - Tura,9,7,2,9,7,2,0
+2005,Manguipayan,Colombia,?,20,18,2,20,18,2,0
+2005,Keene,New Hampshire,"Bangor, ME - Concord, NH",1,0,1,1,0,1,0
+2005,Rutbah,Iraq,Ferrying troops,31,29,2,31,29,2,0
+2005,Lasi,Hungary,Bucharest -Lasi,2,0,2,2,0,2,0
+2005,Near Al Taji,Iraq,Bagdad - Balad,10,8,2,10,8,2,0
+2005,Near Kabul,Afghanistan,Herat - Kabul,104,96,8,104,96,8,0
+2005,Near Khartoum,Sudan,Sharjah - Khartoum - Nyala,7,0,7,7,0,7,0
+2005,Near Pueblo,Colorado,"Richmond, VA - Saint Louis, MO  - Pueblo,CO - Irvine, CA",8,6,2,8,6,2,0
+2005,Bimin,Papua,Tabubil - Bimin,13,10,3,2,0,2,0
+2005,Off Sarmi,"Indonesia
+	
+Sarmi",Jayapura - Sarmi,18,14,4,15,11,4,0
+2005,Chrallave,Venezuela,Maturin - Charallave,2,0,2,2,0,2,0
+2005,Off Campbeltown,United Kingdom,Glasgow - Campbeltown,2,1,1,2,1,1,0
+2005,Varandey,Russia,Ufa - Usinsk - Perm - Varandey - Naryan Mar,52,45,7,28,26,2,0
+2005,Off Mwanza,Tanzania,Mwanza - Khartoum - Zagreb,8,0,8,8,0,8,0
+2005,El Embrujo,Providencia Island,Old Providence - San Andres,14,12,2,8,6,2,0
+2005,Near Rovie,Albania,Training,9,0,9,9,0,9,0
+2005,Enarotali,Indonesia,Timika - Enarotali,18,15,3,18,15,3,0
+2005,Tehran,Iran,Krish - Teran,169,157,12,3,3,0,0
+2005,Near Baghdad,Iraq,?,11,?,?,11,?,?,0
+2005,Pisco,Peru,Training,13,11,2,13,11,2,0
+2005,Near Stratford,New Zealand,Auckland - Blenheim,2,0,2,2,0,2,0
+2005,Near Kisangani,Democratic Republic Congo,Bangboka - Isiro,11,7,4,10,6,4,0
+2005,Lockhart River,Queensland,Bamaga - Lockhart River,15,13,2,15,13,2,0
+2005,El Portezulo,Argentina,"Balmaceda, Argentina - Chile Chiro, Chile",10,9,1,10,9,1,0
+2005,Mongu,Zambia,Lusaka - Livingstone - Mongu - Lusaka,13,8,5,13,8,5,0
+2005,Walungu,Congo,Goma - Kindu - Kongolo,27,22,5,27,22,5,0
+2005,Khartoom,Sudan,Kartoom - El Obeid - El Fasher,42,36,6,7,6,1,0
+2005,Baney,Equatorial Guinea,"Malabala, Bioko Island - Bata",60,54,6,60,54,6,0
+2005,Toronto,Canada,"Paris, France - Toronto Canada",309,297,12,0,0,0,0
+2005,Off Palermo,Italy,"Bari, Italy - Djerba, Tunisia",39,35,4,16,14,2,0
+2005,Off Talinn,Estonia,"Talinn, Estonia - Helsinki, Finland",14,12,2,14,12,2,0
+2005,Near Grammatikos,Greece,"Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic",121,115,6,121,115,6,0
+2005,Near La Cucharita,Venezuela,"Panama City - Fort de France, Martinique",160,152,8,160,152,8,0
+2005,Near Pucallpa,Peru,Lima - Pucallpa - Iquitos,98,92,6,40,36,4,0
+2005,Medan,Indonesia,Medan - Jakarta,117,112,5,99,94,5,44
+2005,Isiro,Democtratic Republic Congo,Beni - Isiro,11,7,4,11,7,4,0
+2005,Near Brazzaville,Congo,Boende - Kinshasa,14,11,3,14,11,3,0
+2005,Aru,Democratic Republic Cogo,Kisangani - Bunia,100,96,4,2,2,0,0
+2005,Lisa,Nigeria,Lagos - Abuja,117,111,6,117,111,6,0
+2005,Tehran,Iran,Tehran - Bandar Abbas,94,84,10,94,84,10,14
+2005,Chicago,Illinois,"Baltimore, Maryland - Chicago, Illinois - Las Vegas, Nevada",103,98,5,0,0,0,1
+2005,Near Port Harcourt,Nigeria,Abuja - Port Harcourt,110,103,7,108,101,7,0
+2005,Off Miami Beach,Florida,"Miami, Florida - Bimini, Bahamas",20,18,2,20,18,2,0
+2005,Nardaran,Azerbaijan,"Baku, Azerbaijan - Aktau, Kazakhstan",23,18,5,23,18,5,0
+2006,Near Karkov,,Moscow - Karkov,3,0,3,3,0,3,0
+2006,Near Tal Afar,Iraq,?,12,?,?,12,?,?,0
+2006,Bukalaza,Uganda,Entebbe - Kinshasa,6,0,6,6,0,6,0
+2006,Near Orumiyeh,Iran,Tehran - Orumiyeh,11,8,3,11,8,3,0
+2006,Near Telkibanya,Hungary,Pristina - Kosice,43,35,8,42,34,8,0
+2006,Near Watertown,Wisconson,?,3,1,2,3,1,2,0
+2006,Near Paris,Tennessee,"Dayton, Ohio -",1,0,1,1,0,1,0
+2006,Rio Bonito,Brazil,Macaé - Rio de Janeiro,19,17,2,19,17,2,0
+2006,Marsabit,Kenya,Nairobi - Eastleigh AFB,17,13,4,14,12,2,0
+2006,Kousséri,Cameroon,Sebha - N'Djamena,6,0,6,6,0,6,0
+2006,Lashkar Gah,Afghanistan,Kabul - Kandahar - Lashkar Gah,16,12,4,2,0,2,3
+2006,Off Adler,Russia,"Yerevan, Armenia - Sochi, Russia",113,105,8,113,105,8,0
+2006,La Ronge,Saskatchewan,Training,3,0,3,1,0,1,0
+2006,Off São Tomé Island,,Training,4,2,2,4,2,2,0
+2006,Yaocun,China,?,40,35,5,40,35,5,0
+2006,Abéché,Chad,N'djamena - Abéché,7,0,7,5,0,5,0
+2006,Jumla,Napal,Surkhet - Jumla,9,6,3,9,6,3,0
+2006,Sake,Democratic Republic Congo,Goma - Kisangani,5,2,3,5,2,3,0
+2006,Irkutsk,Russia,Moscow - Irkutsk,203,195,8,125,120,5,0
+2006,Multan,Pakistan,Multan - Lahore,45,41,4,45,41,4,0
+2006,Afghanistan,,Khost to Kabul,17,14,3,17,14,3,0
+2006,Bukavu,Democratic Republic Congo,Lugushwa - Bukavu,17,14,3,17,14,3,0
+2006,Near Pownal,Vermont,"Binghamton, NY - Benningham, VT",1,0,1,1,0,1,0
+2006,Near Piacenza,Italy,Algiers - Frankfurt,3,0,3,3,0,3,0
+2006,Near Donetsk,Ukraine,Anapa - St. Petersburg,170,160,10,170,160,10,0
+2006,Lexington,Kentucky,Lexington - Atlanta,50,47,3,49,47,2,0
+2006,Mahad,Iran,Bandar Abbas - Mashad,148,137,11,29,29,0,0
+2006,Near Kandahar,Afghanistan,?,14,12,2,14,12,2,0
+2006,Vladikavkaz,Russia,Gizel - Khankala,15,12,3,12,12,0,0
+2006,Vandeikya,Nigeria,Abuja - Obudu,18,15,3,13,11,2,0
+2006,Near Sao Felix do Araguaia,Brazil,Manaus - Brasilia,161,153,8,154,148,6,0
+2006,Stord,Norway,Stavanger - Stord,16,12,4,4,3,1,0
+2006,Tashkent,Russia,Training/Aranchi,15,13,2,15,13,2,0
+2006,Near Abuja,Nigeria,Lagos - Abuja - Sokoto,105,100,5,96,92,4,0
+2006,Puncak Jaya,Indonesia,Mulia - Ilaga,12,9,3,12,9,3,0
+2006,Near Leticia,Colombia,Bogota - Leticia,5,2,3,5,2,3,0
+2006,Tehran,Iran,Tehran - Shiraz,38,32,6,38,32,6,0
+2006,Cajon Pass,California,Loma Linda - Victorville,3,0,3,3,0,3,0
+2007,Off Parepare,Indonesia,"Surabaya, East Java - Manado, Indonesia",102,96,6,102,96,6,0
+2007,Near Balad Air Base,Iraq,"Adana, Turkey - Balad Air Base, Iraq",35,30,5,34,29,5,0
+2007,Near Baghdad,Iraq,?,12,10,4,12,10,4,0
+2007,Pau,France,Pau - Paris,54,50,4,0,0,0,1
+2007,Yogyakarta,Indonesia,Jakarta - Yogyakarta,140,133,7,22,21,1,0
+2007,Princeville,Hawaii,Sightseeing,7,6,1,4,3,1,0
+2007,Hanea,Kauai,?,5,4,1,1,1,0,0
+2007,Fazenda Nossa Senhora de Lourdes,Brazil,Petrolina - Salvador,4,2,2,4,2,2,0
+2007,Samara,Russia,Surgut - Samara,57,50,7,6,6,0,0
+2007,Mogadishu,Somalia,Mogadishu - Djibouti,11,5,6,11,5,6,0
+2007,Near Kopinang,Guyana,Kato - Kopinang,5,4,1,3,2,1,0
+2007,Shatoi,Chechnya,?,18,15,3,18,15,3,0
+2007,Near Dizangue,Cameroon,"Abidjan, Ivory Coast - Douala, Cameroon - Nairobi, Kenya",114,105,9,114,105,9,0
+2007,Near El-Thamad,Egypt,El-Gora - Santa Katarina,9,5,4,9,5,4,0
+2007,Walikale Airstrip,Congo,Walikale - Goma,3,1,2,3,1,2,0
+2007,Near Pampa Hermosa,Peru,Iquitos - Pucallpa,20,17,3,13,10,3,0
+2007,Freetown,Sierra Leone,Shuttle,22,20,2,21,20,1,0
+2007,Near Milwaukee,Wisconson,"Milwaukee, WI - Detroit, MI",6,4,2,6,4,2,0
+2007,Selenge province,Mongolia,?,22,19,3,15,12,3,0
+2007,Near Kamina,Congo,Kamina - Lubumbashi,25,22,3,1,1,0,0
+2007,Near Sihanoukville,Cambodia,Siem Reap - Sihanoukville,22,16,6,22,16,6,0
+2007,M'Banza Congo,Angola,Luanda - M'Banza,78,69,9,5,4,1,0
+2007,Culiacan,Mexico,?,3,0,3,3,0,3,6
+2007,Muncho Lake,British Columbia,Muncho Lake - Vancouver,5,3,2,1,1,0,0
+2007,Sao Paulo,Brazil,Porto Alegre - Sao Paulo,187,181,6,187,181,6,12
+2007,Near Shinile,Ethiopia,Dire Dawa - Djibouti,9,3,6,1,1,0,0
+2007,Rudyerd Bay,Alaska,Sightseeing,5,4,1,5,4,1,0
+2007,Moscow,Russia,Sightseeing,9,0,9,9,0,9,0
+2007,Off Moorea,French Polynesia,Moorea - Papeete,20,19,1,20,19,1,0
+2007,Near Ketchikan,Alaska,Sightseeing,10,9,1,6,6,0,0
+2007,Okinawa,Japan,Taipei - Naha,165,157,8,0,0,0,0
+2007,Near Curitiba,Brazil,Curitiba - Jundiai,2,0,2,2,0,2,0
+2007,Near Kirkuk,Iraq,Transporting troops,14,12,2,14,12,2,0
+2007,Kongolo,Democratic Republic Congo,Kongolo - Goma,15,12,3,14,11,3,0
+2007,Goma,Democratic Republic Congo,Kisangi - Goma - Bukavu,8,6,2,8,6,2,0
+2007,Phuket,Thailand,Bangkok - Phuket,130,123,7,90,85,5,0
+2007,Malemba Nkulu,DR Congo,Lubumbashi - Malemba Nkulu,6,5,1,1,0,1,0
+2007,Kinshasa,DR Congo,Kinshasa - Tshikapa,22,17,5,21,17,4,30
+2007,Near Cubarral,Colombia,Villavicencio - Uribe,17,15,2,17,15,2,0
+2007,Khartoum,Sudan,Khartoum - Juba,4,0,4,0,0,0,2
+2007,Near Isparta,Turkey,Istanbul - Isparta,57,50,7,57,50,7,0
+2007,Off Whittier,Alaska,Cordova - Ancorage,4,3,1,4,3,1,0
+2007,Columbus,Ohio,"Columbus, OH - Buffalo, NY",2,1,1,2,1,1,0
+2008,Los Roques,Venezuela,Los Rogues - Carac,18,16,2,18,16,2,0
+2008,Blace,Macedonia,"Bosnia - Skopje, Macedonia",11,10,1,11,10,1,0
+2008,London,England,"Bejing, China - London, England",152,136,16,0,0,0,0
+2008,Miroslawiec,Poland,Warsaw - Miroslawiec,20,16,4,20,16,4,0
+2008,Near Malinau,Indonesia,Tarakan - Long Apung,3,0,3,3,0,3,0
+2008,Merida,Venezuela,Merida - Caracas,46,43,3,46,43,3,0
+2008,Off Macae,Rio de Janeiro,Oil Rig P18 - Macae,20,17,3,5,4,1,0
+2008,Near Bethani,Nepal,?,10,7,3,10,7,3,0
+2008,Lawa,Suriname,Paramaribo - Lawa,19,17,2,19,17,2,0
+2008,Bundeena,Australia,Sydney - Brisbane,1,0,1,1,0,1,0
+2008,Chrisinau,Moldova,"Chrisinau, Moldova - Antalya, Turkey - Sudan",8,0,8,8,0,8,0
+2008,Goma,Congo,Goma - Kisangani - Kinshasa,85,79,6,0,0,0,47
+2008,Off Annobon Island,Equatorial Guinea,Bata - Annobon Island,13,8,5,13,8,5,0
+2008,Off Crimea,Black Sea,?,20,18,2,20,18,2,0
+2008,Stehekin,Washington,Chelan - Stehekin,5,4,1,2,2,0,0
+2008,Two Harbors,Catalina Island,Long Beach - Two Harbors,6,5,1,4,3,1,0
+2008,Near Chelyabinsk,Russia,Chelyabinsk - Perm,9,0,9,9,0,9,0
+2008,Panama City,Panama,Tocumen - Colon,12,9,3,11,9,2,0
+2008,Tegucigalpa,Honduras,"San Salvador, El Salvador - Tegucigalpa, Honduras - Miami",136,131,5,3,2,1,2
+2008,Huntsville,Texas,Huntsville-Houston,4,1,3,4,1,3,0
+2008,Khartoum,Sudan,Aman - Damascus - Khartoum,214,203,11,32,31,1,0
+2008,Hyannis,Massachusetts,Hyannis - Nantucket,1,0,1,1,0,1,0
+2008,Bannang Sata,Thailand,?,10,8,2,10,8,2,0
+2008,Near Salak Mountain,Indonesia,Jakarta - aerial survelliance,18,13,5,18,13,5,0
+2008,Near Malakal,Sudan,Khartoum - Juba,8,6,2,7,5,2,0
+2008,Flagstaff,Arizona,Medical flight,7,5,2,6,4,2,0
+2008,Near Khartoum,Sudan,Khartoum - Juba,4,0,4,4,0,4,0
+2008,Saltillo,Mexico,"Hamilton, Ont, Can.- Shreveport, LA - Saltillo, Mexico",2,0,2,1,0,1,0
+2008,Near Bogota,Colombia,"Bogota, Colombia - Miami, FL",8,0,8,0,0,0,3
+2008,Owatonna,Minnesota,"Atlantic City, NJ- Owatonna,MN",8,6,2,8,6,2,0
+2008,North Vancouver Island,British Colombia,"Port Hardy - Chamiss Bay, Vancouver Island",7,6,1,5,4,1,0
+2008,Near Junction City,California,Ferrying fire fighters,13,11,2,9,8,1,0
+2008,Sunat Tanon,Thailand,Betong - ?,10,8,2,10,8,2,0
+2008,K-50 Airport,Somalia,Kenya - Somalia,3,0,3,3,0,3,0
+2008,Madrid,Spain,"Madrid - Las Palmas, Canary Islands",172,166,6,154,148,6,0
+2008,Bishkek,Kyrgyzstan,"Bishkek - Tehran, Iran",90,83,7,68,67,1,0
+2008,Near Toacaso,Ecuador,Caracas - Latacunga,3,0,3,3,0,3,0
+2008,Columbus,Ohio,Colombus - Mansfield,3,0,3,3,0,3,0
+2008,Off Dubai,United Arab Emirates,?,7,5,2,7,5,2,0
+2008,Perm,Russia,Moscow - Perm,88,82,6,88,82,6,0
+2008,Columbia,South Carolina,"Colombia, SC - Los Angeles, CA",6,4,2,4,2,2,0
+2008,Camp Springs,Maryland,Medical evacuation flight,5,4,1,4,3,1,0
+2008,Lukla,Nepal,Katmandu - Lukla,19,16,3,18,16,2,0
+2008,Aurora,Illinois,Sandwich - Chicago,4,1,3,4,1,3,0
+2008,Fallujah,Iraq,al-Asad air base - Baghdad,7,0,7,7,0,7,0
+2008,Thormanby Island,British Columbia,Vancouver - Powell River - Toba Inlet,8,7,1,7,6,1,0
+2008,Off Perpignan,France,Training,7,0,7,7,0,7,0
+2008,San Juan,Puerto Rico,"Tortola Virgin Islands - San Juan, PR",3,2,1,3,2,1,0
+2008,Off Sabine Pass,Texas,Sabine Pass - Oil Platform,3,3,2,3,3,2,0
+2008,Off Turks and Caicos Islands,,"Santiago, Dominican Republic - Providenciales",12,11,1,12,11,1,0
+2008,Denver,Colorado,Denver - Houston,115,110,5,0,0,0,0
+2009,Lubock,Texas,Fort Worth - Lubbock,2,0,2,2,0,2,0
+2009,Near Houma Louisiana,,Bayou Penchant - Off shore oil fields,9,7,2,8,6,2,0
+2009,Adraskan district,Afghanistan,?,13,?,?,13,?,?,0
+2009,New York,New York,"New York, NY- Charlotte, NC",155,150,5,0,0,0,0
+2009,Manacapuru,Brazil,Coari - Manus,28,26,2,24,22,2,0
+2009,Clarence Center,New York,"Newark, N.J. - Buffalo, NY",49,44,5,49,44,5,1
+2009,Chanco,Chile,?,13,12,1,13,12,1,0
+2009,Luxor,Egypt,"Entebbe, Uganda - Luxor, Egypt - Niklaev, Ukraine",5,0,5,5,0,5,0
+2009,Amsterdam,Netherlands,"Istanbul, Turkey - Amsterdam, Netherlands",134,127,7,9,6,3,0
+2009,Lake Victoria,Uganda,"Entebbe, Uganda - Mogadishu, Somalia",11,7,4,11,7,4,0
+2009,Off St. Johns,Newfoundland,St. Johns - Hibernia platform,18,16,2,17,15,2,0
+2009,Butte,Montana,"Oroville, CA - Butte, MT",14,13,1,14,13,1,0
+2009,Tokyo,Japan,"Guangzhou, China - Tokyo, Japan",2,0,2,2,0,2,0
+2009,Off Crimond,Scotland,Miller field - Aberdeen,16,14,2,16,14,2,0
+2009,Bandung,Indonesia,Militiary training,24,18,6,24,18,6,0
+2009,Near Wamena,Indonesia,Jayapura - Wamena,6,0,6,6,0,6,0
+2009,Massamba,Democratic Republic of Congo,"Bangui, CAR- Brazzaville, Congo - Harare, Zimbabwe",7,5,2,7,5,2,0
+2009,Near El Alto de Rubio,Venezuela,Patrol,18,16,2,18,16,2,0
+2009,Near Madiun,Indonesia,Jakarta - Maduin,112,98,14,112,98,14,2
+2009,Near Isiro,Democratic Republic Congo,Goma - Isiro,4,0,4,4,0,3,?
+2009,Atlantic Ocean,570 miles northeast of Natal,Rio de Janeiro - Paris,228,216,12,228,216,12,0
+2009,Near Port Hope Simpson,Newfoundland,Lourdes de Blanc Sablon - Port Hope Simpson,1,0,1,1,0,1,0
+2009,State of Arunachal Pradesh,India,Mechuka - Jorhat,13,6,7,13,6,7,0
+2009,Near Wamena,Indonesia,"Dekari - Wamena, Indonesia",3,0,3,3,0,3,0
+2009,Off Mitsamiouli,Comoros,"Sana'a, Yemen - Moroni, Comoros",153,142,11,152,141,11,0
+2009,Near,Peshawar,?,26,24,2,26,24,2,0
+2009,Near Qazvin,Iran,"Tehran, Iran - Yerevan, Armenia",168,153,15,168,153,15,0
+2009,Kandahar Airport,Afghanistan,?,21,?,?,16,?,?,0
+2009,Mashad,Iran,Tehran - Mashad,153,138,15,16,3,13,0
+2009,Ampisibil Village,Indonesia,Jayapura - Oksibil,16,13,3,16,13,3,0
+2009,Koh Samui,Thailand,Karabi - Koh Samui,72,68,4,1,0,1,0
+2009,New York,New York,"Sightseeing / Teteboro - Ocean City, NJ",9,7,2,9,7,2,0
+2009,Near Port Moresby,Papua New Guinea,Port Moreby - Kokoda,13,11,2,13,11,2,0
+2009,Nganga Lingolo,Congo,Pointe Noire - Brazzaville,7,2,5,7,2,5,0
+2009,Ugamsk Gorge,South Kazakistan,Patrol,13,?,?,10,?,?,0
+2009,Merebank,South Africa,"Durban - Pietemaritburg, South Africa",3,0,3,1,0,1,0
+2009,Georgetown,South Carolina,Charleston - Conway,3,2,1,3,2,1,0
+2009,Manila,Philippines,"Manila - Puerto Princesa, Philippines",4,0,4,4,0,4,0
+2009,Sharjah,United Arab Emirates,"Sharjar, UAE- Khartoum, Sudan",6,0,6,6,0,6,0
+2009,Off Bonaire,Netherlands Antilles,"Curacao - Bonaire, Netherlands Antilles",10,9,1,1,0,1,0
+2009,Off Mongokhto,Russia,Ferrying,11,0,11,11,0,11,0
+2009,Mirny,Russia,Mirnyy - Irkutsk,11,0,11,11,0,11,0
+2009,Kigali,Rwanda,"Kigali, Rwanda - Entebbe, Uganda",15,12,3,1,1,0,0
+2009,Near Reno,Nevada,"Reno, NV - Susanville, CA",3,0,3,3,0,3,0
+2009,Shanghai,China,"Shanghai, China - Bishkek, Kyrgyzstan",7,0,7,3,0,3,0
+2009,Lyall Harbour,BC,Lyall Harbour - Vancouver,8,7,1,6,6,0,0
+2010,Off Sand Point,Alaska,Sand Point - Anchorage,2,0,2,2,0,2,0
+2010,Off Na'ameh,Lebanon,"Beirut, Lebanon - Addis Ababa, Ethiopia",90,82,8,90,82,8,0
+2010,Near Senador Jose Porfírio,Brazil,Belem - Senador Jose Porfírio,10,8,2,2,1,1,0
+2010,Cotabato City,Philippines,Cotabato Cty - Zamboanga City,8,6,2,8,6,2,1
+2010,Near Saada,Yemen,?,11,9,2,11,9,2,2
+2010,Smolensk,Russia,"Warsaw, Poland - Smolensk Russia",96,88,8,96,88,8,0
+2010,Near Yelizovo,Russia,Elizovo - Dukup,18,15,3,10,8,2,?
+2010,Monterey,Mexico,Mexico City - Monterey - Los Angeles,5,0,5,5,0,5,2
+2010,Pampanga,Philippines,Cebu - Pampanga,6,0,6,3,0,3,0
+2010,Tripoli,Libya,"Johannesburg, South Africa - Tripoli, Libya",104,93,11,103,92,11,0
+2010,Near Poeketi,Suriname,Godo Holo Air Strip - Paramaribo,8,6,2,8,6,2,0
+2010,Salang pass,Afghanistan,Kunduz - Kabul,44,38,6,44,38,6,0
+2010,Mangalore,India,"Dubai, UAE - Mangalore, India",166,160,6,159,153,6,0
+2010,Yangadou,Cameroon,Yaoundé-Nsimalen - Yangadou Mine Airstrip,11,9,2,11,9,2,0
+2010,Quebec,Canada,Quebec -Sept-Îles,7,5,2,7,5,2,0
+2010,Tuzla,Romania,Tuzla - Tuzla,14,10,4,12,?,3,0
+2010,Islamabad,Pakistan,Karachi - Islamabad,152,146,6,152,146,6,0
+2010,Near Elmendorf AFB,Alaska,Practice maneuvers,4,0,4,4,0,4,0
+2010,Near Denali National Park,Alaska,Palmer-Wolf - Unalakleet,3,0,3,3,0,3,0
+2010,Igarka,Russia,Karsnoyarsk - Igarka,15,12,3,12,11,1,0
+2010,Near Dillingham,Alaska,Lake Nerka - Nushagak River,9,8,1,5,4,1,0
+2010,San Andreas Island,Colombia,Bogota - San Andreas Island,131,125,6,2,2,0,0
+2010,Off Kaminshak Bay,Alaska,Swikshak Lagoon - King Salmon,4,3,1,4,3,1,0
+2010,Bastipur,Nepal,Kathmandu - Lukla,14,11,3,14,11,3,0
+2010,Yichun,China,Harbin - Yichun,96,91,5,44,41,3,0
+2010,Bandundu,Congo Democratic Republic,Kinshasa - Bandundu,20,17,3,19,16,3,0
+2010,Buena Vista,Venezuela,Buena Vista - Cararabo,10,?,?,10,?,?,0
+2010,Dubai,United Arab Emirates,"Dubai - Bonn, Germany",2,0,2,2,0,2,0
+2010,Fox Glacier Airstrip,,Fox Glacier Airstrip - Fox Glacier Airstrip,9,8,1,9,8,1,0
+2010,Puerto Ordaz,Venezuela,Porlamar - Puerto Ordaz,51,47,4,17,14,3,0
+2010,Chopan district,Zabul Province,?,13,?,?,10,?,?,0
+2010,Rasht Valley,Tajikistan,?,28,?,?,28,?,?,0
+2010,Near Kabul,Afghanistan,Bagram AB - Kabul,8,0,8,8,0,8,0
+2010,Near Bugulumisa,Congo,Bukavu - Shabund,2,0,2,2,0,2,0
+2010,Near Guasimal,Cuba,Santiago de Cuba- Havana,68,61,7,68,61,7,0
+2010,Near Karachi,Pakistan,Karachi - Oil compound in Sindh province,21,17,4,21,17,4,0
+2010,Strezhevoy,Russia,?,10,?,?,7,?,?,0
+2010,Karachi,Pakistan,Karachi - Khartoum,8,0,8,8,0,8,4
+2010,Moscow,Russia,"Moscow -Makhachkala, Dagestan",169,160,9,2,2,0,0
+2010,Palunge Hill,Nepal,Lamidanda - Kathmandu,22,19,3,22,19,3,0
+2011,Surgut,Russia,Surgut - Moscow,124,116,8,3,3,0,0
+2011,Orumiyeh,Iran,Tehran - Orumiyeh,105,93,12,77,65,12,0
+2011,Off Plettenberg Bay,South Africa,Queenstown - Plettenberg Bay,9,7,2,9,7,2,0
+2011,Cork,Ireland,Belfast - Cork,12,10,2,6,4,2,0
+2011,Near Santa Ana Francisco Morazan,Honduras,San Pedro Sula - Tegucigalpa,14,12,2,14,12,2,0
+2011,Pointe-Noire,Congo,Brazzaville - Pointe Noire,9,5,4,9,5,4,14
+2011,Kinshasa,Congo,Kisangani - Kinshasa,33,29,4,32,28,4,0
+2011,Tawang,India,?,23,?,?,18,?,?,0
+2011,Manaus,Brazil,Manaus - Santarem,7,6,1,7,6,1,0
+2011,Off Kaimana,Indonesia,Sorong - Kaimana,27,21,6,27,21,6,0
+2011,Near Prahuaniyeu,Argentina,Neuquen - Comodoro Rivadavia,22,19,3,22,19,3,0
+2011,Petrozavodsk,Russia,Moscow - Petrozavodsk,52,43,9,47,39,8,0
+2011,Near Bagram Air Base,Afghanistan,"Baku, Azerbaijan - Bagram Air Base, Afghanistan",9,0,9,9,0,9,0
+2011,Kisangani,Congo,Kinshasa - Kisangani,115,108,7,77,72,5,0
+2011,Near Strezhevoy,Russia,Tomsk - Surgut,37,33,4,7,7,0,0
+2011,Recife,Brazil,Recife - Natal,16,14,2,16,14,2,0
+2011,Near Guelmim,Morocco,Dakhla - Guelmim - Kinitra,80,71,9,80,71,9,0
+2011,Off Jeju,South Korean,Seoul - Shanghai,2,0,2,2,0,2,0
+2011,Tangi Valley,Afghanistan,?,38,?,?,38,?,?,0
+2011,Near Omsukchan,Russia,Magdan - Keperveem,11,2,9,11,2,9,0
+2011,Resolute Bay,Nunavut,Yellowknife - Resolute Bay,15,11,4,12,8,4,0
+2011,Mosby,Missouri,Bethany - Mosby,4,3,1,4,3,1,0
+2011,Juan Fernandez Island,Chile,Santiago - Juan Fernandez Island,21,17,4,21,17,4,0
+2011,Near Trinidad,Bolivia,"Santa Cruz - Trinidad, Bolivia",9,7,2,8,6,2,0
+2011,Yaroslavl,Russia,Yaroslavl - Minsk,45,37,8,44,37,7,0
+2011,Huambo,Angola,Huambo - Luanda,36,34,2,30,30,0,0
+2011,Reno,Nevada,Air race,1,0,1,1,0,1,10
+2011,Yellowknife,Northwest Territories,Thor Lake - Great Slave Lake,9,7,2,2,0,2,0
+2011,Near Kathmandu,Nepal,Sightseeing,19,16,3,19,16,3,0
+2011,Near Bohorok,Indonesia,Medan - Kutacane,18,14,4,18,14,4,0
+2011,Near Madang,Papua New Guinea,Lae - Madang,32,28,4,28,26,2,0
+2011,Vancouver,BC,Vancouver - Kelowna,9,7,2,1,0,1,0
+2011,Near Kilohana,Molokai,Sightseeing,5,4,1,5,4,1,0
+2011,Near Santa Catarina Atoyzingo,Mexico,"Campo Militar Marte - Ciudad de Cuernavaca, Morelos",8,7,1,8,7,1,0
+2011,Near Henderson,Nevada,Sightseeing,5,4,1,5,4,1,0
+2011,Green Grove,Florida,"Jacksonville, FL - Gainsville, FL",3,2,1,3,2,1,0
+2012,Namoya,Congo,Bukavu - Namoya,5,3,3,3,1,2,0
+2012,Near San Juan,Puerto Rico,San Juan - Saint Croix,2,0,2,2,0,2,0
+2012,Kabul,Afghanistan,?,12,?,?,12,?,?,4
+2012,Tyumen,Russia,Tyurmen - Surgut,43,39,4,33,29,4,0
+2012,Islamabad,Pakistan,Karachi - Islamabad,127,121,6,127,121,6,0
+2012,Sabanagrande,Colombia,Barranquilla - Caucasia,13,11,2,13,11,2,0
+2012,Near Cidahu,Indonesia,Demonstration flight,45,39,6,45,39,6,0
+2012,Jomsom,Nepal,Pokhara - Jomsom,21,18,3,15,13,2,0
+2012,Accra,Ghana,"Lagos, Nigerai - Accra, Ghana",4,0,4,0,0,4,12
+2012,Lagos,Nigeria,Abuja - Lagos,153,146,7,153,146,7,10
+2012,Hualla Hualla,Mount Mamarosa,Mazuco - Cusco,14,12,2,14,12,2,0
+2012,Near Serov,Russia,?,13,12,1,13,12,1,0
+2012,Jakarta,Indonesia,Training flight,7,0,7,7,0,7,4
+2012,Off Masbate Island,Philippines,Cebu-Naga,4,2,2,3,2,1,0
+2012,Talodi,Sudan,Khartoum - Talodi,32,26,6,32,26,6,0
+2012,Near Palana,Russia,Petropavlovsk-Kamchatsky - Palana,14,12,2,10,8,2,0
+2012,Kathmandu,Nepal,?,19,16,3,19,16,3,0
+2012,Near Omdurman,Sudan,?,22,16,6,15,?,?,0
+2012,Antigua,,Antigua - Montserrat,4,3,1,3,2,1,0
+2012,San'a,Yemen,Training,10,0,10,10,0,10,0
+2012,Near Brazzaville,Congo,Pointe Noire - Brazzaville,7,0,7,7,0,7,25
+2012,Near Ladysmith,South Africa,Pretoria - Mthatha Airport,11,5,6,11,5,6,0
+2012,Near Iturbide,Mexico,"Monterey, Mexico - Toluca, Mexico",7,5,2,7,5,2,0
+2012,Near Shymkent,Kazakhstan,Astana - Shymkent,27,20,7,27,20,7,0
+2012,Heho,Myanmar,Mandalay - Heho,71,65,6,1,0,1,1
+2012,Moscow,Russia,"Pardubice, Czech Republic - Moscow, Russia",8,0,8,5,0,5,0
+2013,Near Clear Lake,Iowa,Mercy Hospital - Palo Alto Couonty Hospital,3,2,1,3,2,1,0
+2013,Off Los Roques,Venezuela,Los Roques - Caracas,6,5,1,6,5,1,0
+2013,Near Kyzyltu,Kazakhstan,"Kokshetau - Almaty, Kazakhstan",21,16,5,21,16,5,0
+2013,Donetsk,Ukraine,Odessa - Donetsk,45,41,4,5,5,0,0
+2013,Goma,Congo,Lodja - Goma,10,4,6,7,1,6,0
+2013,Near Dillingham,Alaska,King Salmon - Dillingham,2,0,2,2,0,2,0
+2013,Denpasar,Indonesia,Bandung - Denpasar,108,101,7,0,0,0,0
+2013,Bagram Air Base,Afghanistan,Bagram - Dubai Al Maktoum,7,0,7,7,0,7,0
+2013,Moosonee,Ontario,Moosonee- Attawapiskat,4,2,2,4,2,2,0
+2013,Gaurikund,near Kedarnath,From Gauchar airstrip,20,15,5,20,15,5,0
+2013,San Francisco,California,Shanghai - Seoul - San Francisco,307,291,16,3,3,0,0
+2013,Soldotna,Alaksa,Soldotna - Bear Lodge,10,9,1,10,9,1,0
+2013,Mogadishu,Somalia,Dire Dawa - Mogadishu,6,0,6,4,0,4,0
+2013,Birmingham,Alabama,Louisville - Birmingham,2,0,2,2,0,2,0
+2013,Lagos,Nigeria,Lagos - Akure,20,13,7,16,11,5,0
+2013,Kudat,Malaysia,Kota - Kudat,16,14,2,2,1,1,0
+2013,Near Pakse,Laos,Vientiane - Pakse,49,44,5,49,44,5,0
+2013,Riberalta,Bolivia,"Trinidad, Bolivia - Riberalta, Bolivia",18,16,2,8,8,0,0
+2013,Pujungan,Malinau district,Tarakan - Malinau,21,13,8,13,7,6,0
+2013,Red Lake,Ontario,Sioux Lookout - Red Lake,7,5,2,5,3,2,0
+2013,Near Kazan,Russia,Moscow - Kastan,50,44,6,50,44,6,0
+2013,Glasgow Scotland,,?,3,2,1,3,2,1,5
+2013,Bwabwata National Park,Nambia,"Maputo, Mozambique - Luanda, Angola",33,27,6,33,27,6,0
+2013,Near Cachimbo,Brazil,Pukanu - Novo Progresso,5,3,2,5,3,2,0
+2013,Irkutsk,Russia,Novosibirsk - Ikustsk,9,3,6,9,3,6,0
+2014,Near Petreasa Romania,,Bucharest - Oradea,7,5,2,2,1,1,0
+2014,Near Ain Kercha,Algeria,Tamanarasset - Constatine,77,73,4,76,72,4,0
+2014,Sandhikhark,Nepal,Kathmandu - Pokhara - Jumla,18,15,3,18,15,3,0
+2014,Grombalia,Tunisia,Tripoli - Tunis,11,6,5,11,6,5,0
+2014,South Indian Ocean,,Kuala Lumpur - Beijing,239,227,12,239,227,12,0
+2014,Seattle,Washington,News reporting,2,1,1,2,1,1,0
+2014,Ramos Arizpe,Mexico,Cozumel - Ramos Arizpe,8,6,2,8,6,2,0
+2014,Jamijarvi,Finland,Skydiving,8,7,1,8,7,1,0
+2014,Near San Vicente del Caguan,Colombia,Villavicencio - Florencia,6,0,6,6,0,6,0
+2014,Xiang Khouang province,Laos,Vientiane - Xiangkhoung,17,11,6,16,10,6,0
+2014,Lugansk,Ukraine,Melitopol - Luhansk,49,40,9,49,40,9,0
+2014,Near Nairobi,Kenya,"Nairobi - Mogadishu, Somalia",4,0,4,4,0,4,0
+2014,Thach That district,Vietnam,Training,19,21,2,18,?,?,0
+2014,Hrabove,Ukraine,Amsterdam - Kuala Lumpur,298,283,15,298,283,15,0
+2014,Magong,Taiwan,Kaohsiung - Magong,58,54,4,48,44,4,0
+2014,Aguelhok,Mali,"Ouagadougou, Burkina Faso - Algiers, Algeria",116,110,6,116,110,6,0
+2014,Tehran,Iran,Tehran - Tabas,48,40,8,39,31,8,0
+2014,Tamanraset,Algeria,Glascow -Tamanraset - Equitorial Guinea,7,5,2,7,5,2,0
+2014,Mwanza,Tanzania,Mwanza - Nairobi,3,1,2,3,1,2,0
+2014,Near Port Moresby,Papua New Guinea,Woitape - Port Moresby,9,7,2,4,2,2,0
+2014,Wichita Falls,Texas,"Waurika, OK - Wichita Falls, TX",4,1,3,2,1,1,0
+2014,Near Uvira,Congo,"Bujumbura, Burundi - Pointe Noire, Congo",6,0,6,6,0,6,0
+2014,Java Sea,,Surabaya - Singapore,162,155,7,162,155,7,0
+2015,Near Abu adh Dhuhur Air Base,Syria,Damascus - Abu Adh Dhuhur,37,35,2,37,35,2,0
+2015,Taipei,Taiwan,Taipei - Kinmen,58,53,5,43,39,4,0
+2015,Villa Castelli,Argentina,Filiming,10,8,2,10,8,2,0
+2015,Near Digne-Les-Bains,France,"Barcelona, Spain - Dusseldorf, Germany",150,144,6,150,144,6,0
+2015,Ella Lake,Alaska,Sightseeing,9,8,1,9,8,1,0
+2015,Medan,Indonesia,"Medan - Tanjung Pinang, Sumatra.",122,110,12,122,110,12,19
+2015,Near Agustin Codazzi,Colombia,Palanquero AB -Valledupar,11,0,11,11,0,11,0
+2015,Ninia,Indonesia,Wamena - Ninia,6,4,2,1,0,1,0
+2015,Tangok mountain,Papua,Jayapura- Oksibil,54,49,5,54,49,5,0
+2015,Off Dakar,Near Dioubel,Ouagadougou - Dakar,7,5,2,7,2,5,0
+2015,Iliamna East Wind Lake,Alaska,Iliamna - Remote lake,7,6,1,3,3,0,0
+2015,Jalalabad,Afghanistan,Jalalabad - Bagram,11,5,6,11,5,6,2
+2015,Near Masamba,Indonesia,Masamba - Makassar,10,7,3,10,7,3,0
+2015,Near Ilaga,Indonesia,Timik - Ilaga,4,0,4,4,0,4,0
+2015,Near Hasna,Egypt,Sharem el Sheikh - St. Petersburg,224,217,7,224,217,7,0
+2015,Juba,South Sudan,Juba - Paloich,43,38,5,41,37,4,0
+2015,Fox Glacier,South Valley,Sightseeing,7,6,1,7,6,1,0
+2015,Near Igarka,Russia,Igarka - Krasnyi Selkub,26,22,4,15,13,2,0
+2016,Akkajaure Lake,Norrbotten,Oslo - Tromsø,2,0,2,2,0,2,0
+2016,Near Mogadishu,Somalia,Mogadishu - Djibouti,72,72,?,1,1,?,0
+2016,Dana,Nepal,Pokhara - Jomsom,23,20,3,23,20,3,0
+2016,250 miles northwest of Kathmandu,Nepal,Nepalganj - Jumla,11,9,2,2,0,2,0
+2016,Cox's Bazar,Bangladesh,Cox's Bazar - Jessore,4,0,4,3,0,3,0
+2016,Fatima Pastaza,Ecuador,Training,22,19,3,22,19,3,0
+2016,Rostov-on-Don,Russia,Dubai - Rostov,62,55,7,62,55,7,0
+2016,Magdelen Islands,Quebec,Montreal - Iles-de-la-Magdelen,7,5,2,7,5,2,0
+2016,Near Pigeon Forge,Tennessee,Sightseeing,5,4,1,5,4,1,0
+2016,Kiunga,Papua New Guinea,Oksapmin - Kiungaraining,12,11,1,12,11,1,0
+2016,Sorta,Norway,Gullfflex B - Bergen,13,11,2,13,11,2,0
+2016,175 miles off the Egyptian coast,,Paris - Cairo,66,56,10,66,56,10,0
+2016,Bay of Bengal,Indian Ocean,Chennai (Tambram AFB) - Port Blair,29,23,6,29,23,6,0
+2016,Near Lockhart,Texas,Sightseeing Fentress Airpark,16,15,1,16,15,1,?
+2016,Dubai,United Arab Emirates,"Thiruvanthapuram, India - Dubai, UAE",300,282,18,0,0,0,1
+2016,Russian Mission,Alaksa,Russian Mission- Marshall,5,4,1,5,4,1,0
+2016,Malta International Airport,,Malta-Luqa - Malta-Luga,5,3,2,5,3,2,0
+2016,Near La Union,Colombia,"Santa Cruz, Bolivia - Medellin,Colombia",77,68,9,71,64,7,0
+2016,Near Tanjung Pinanga,Indonesia,Pangkal Pinang - Batam Island,13,8,5,13,8,5,0
+2016,Near Havlien,Pakistan,Chitral - Islamabad,48,42,6,48,42,6,0
+2016,Near Wamena,Papua,Timika - Warmera,13,10,3,13,10,3,0
+2016,Puerto Carreno,Colombia,Puerto Carreno - Bogota,6,0,6,5,0,5,0
+2016,Near Adar,Russia,Chkalovsky AB -Ader - Latakia,92,84,8,92,84,8,0
+2017,Bishkek,Kyrgyzstan,Hong Kong - Bishkek - Istanbul,4,0,4,4,0,4,35
+2017,Melbourne,Victoria,Melbournen - King Island,5,4,1,5,4,1,0
+2017,Istanbul,Turkey,Istanbul - Bozuyuk,7,5,2,7,5,2,0
+2017,Mautaer,Zimbabwe,"Beira, Mozambique - Harare, Zimbabwe",6,4,2,6,4,2,0
+2017,Charleston,West Virginia,Louisville - Charleston,2,0,2,2,0,2,0
+2017,Tenzing,Nepal,Kathmandu - Lukla,3,0,3,2,0,2,0
+2017,Off Dawei,Myanmar,Myeik - Yangon,122,108,14,122,108,14,0
+2017,Mount Gambier,South Australia,Suttontown - Adelaide,3,2,1,3,2,1,0
+2017,Near Itta Bena,Mississipi,"Cherry Point, NC - El Centro, CA",16,14,2,16,14,2,0
+2017,Near Kinshasa,Congo,"Kinshasa, - Bunia",12,6,6,12,6,6,0
+2017,Near Cuílo,Angola,Dundo - Luanda,7,4,3,7,4,3,0
+2017,Abidjan,Ivory Coast,Burkina Faso - Abidjan,10,4,6,4,4,0,0
+2017,Empakaai,Tanzania,Arusha - Serengeti,11,10,1,11,10,1,0
+2017,Near Fond-du-Lac,Saskatchewan,Fond-du-Lac - Stony Rapids,25,22,3,1,1,0,0
+2017,Punta Islita,Costa Rica,Punta Islita - San Jose,12,10,2,12,10,2,0
+2018,Zhengchang,Suiyang County,Training,12,7,5,12,7,5,0
+2018,Grand Canyon,Arizona,Sightseeing,7,6,1,3,3,0,0
+2018,Argunovo,Russia,Moscow - Orsk,71,65,6,71,65,6,0
+2018,Kohangan village,Iran,Tehran - Yasuj,66,60,6,66,60,6,0
+2018,Latakia,Syria,Kuweires Air Base - Latakia-Khmeimim Air Base,39,33,6,39,33,6,0
+2018,New York,New York,Sightseeing,6,5,1,5,5,0,0
+2018,81 miles SW o fShahre Kurd,Iran,Sharjar - Istanbul,11,8,3,11,8,3,0
+2018,Kathmandu,Nepal,Dhaka - Kathmandu,71,67,4,51,47,4,0
+2018,Boufarik AB,Algeria,Boufarik AB - Bechar - Tindouf,257,247,10,257,247,10,0
+2018,NW of Philadelphia,Pennsylvania,New York - Dallas,149,144,5,1,1,0,0
+2018,Port Wentworth,Georgia,Savannah - Tuscon,9,0,9,9,0,9,0
+2018,Havana,Cuba,Havana- Holguin,113,107,6,112,106,6,0
+2018,Near Njabini,Kenya,Kitale - Nairobi,10,8,2,10,8,2,0
+2018,Pretoria,South Africa,Test Flight,19,16,3,1,0,1,1
+2018,Flims,Switzerland,Locorno - Dubendorf,20,17,3,20,17,3,1
+2018,Near Latakia-Khmeimim Air Base,Iran,Training,15,0,15,15,0,15,0
+2018,Chuuk,Micronesia,Pohnpei - Chuuk,47,35,12,1,1,0,0
+2018,Off Jakarta,Indonesia,Jakarta - Pangkal Pinang,189,181,8,189,181,8,0
+2018,Georgetown,Guyana,Georgetown - Toronto,128,120,8,1,1,0,0
+2019,Karaj,Iran,Bishkek - Payam,16,13,3,15,13,2,0
+2019,Houston,Texas,Miami - Houston,3,0,3,3,0,3,0
+2019,Vereda La Bendicion,Colombia,San Jose - Villavicencio,14,11,3,14,11,3,0
+2019,Bishoftu,Ethiopia,Addis Ababa - Nairobi,157,149,8,157,149,8,0
+2019,Puerto Montt,Chile,Puerto Montt - Ayacara,6,5,1,6,5,1,0
+2019,Near Monclava,Mexico,Las Vegas - Monterrey,13,11,2,13,11,2,0
+2019,Moscow,Russia,Moscow - Murmansk,78,73,5,41,40,1,0
+2019,Near Lipo,India,Jorhat-Rowriah - Mechuka,13,5,8,13,5,8,0
+2019,Rawalpindi,India,Training,5,0,5,5,0,5,14
+2019,Toledo,Ohio,Millington - Toledo,2,0,2,2,0,2,0
+2019,Lviv,Ukraine,Vigo - Lviv - Istanbul,8,1,7,5,1,4,0
+2019,Goma,Democratic Republic of Congo,Goma - Beni,19,17,2,19,17,2,7
+2019,Almaty,Kazakhstan,Almaty - Nursultan Nazabavev,98,95,3,12,11,1,0
+2020,Geneina,Sudan,Geneina - Khartoum,18,9,9,18,9,9,?
+2020,Near Shahriah,Iran,Tehran - Kiev,176,167,9,176,167,9,0
+2020,Istanbul,Turkey,Izmir - Istanbul,177,171,6,3,3,0,0
+2020,Manila,Philippines,Manila - Tokyo,8,5,3,8,5,3,0
+2020,Karachi,Pakistan,Lahore - Karachi,99,91,8,97,89,8,1
+2020,Calicut,India,Dubai - Calicut,190,184,6,20,18,2,0
+2020,Juba,South Sudan,Juba - Wau,8,5,3,7,4,3,0
+2020,Near Chuguev,Ukraine,Training,27,20,7,26,19,7,0
+2021,Near Jakarta,Indonesia,Jakarta - Pontianak,62,56,6,62,56,6,0
+2021,Pieri,Sudan,Pieri - Yuai,10,8,2,10,8,2,0
+2021,Near Butte,Alaska,Sightseeing Charter,6,5,1,5,4,1,0
+2021,Near Kaduna,Nigeria,?,11,7,4,11,7,4,0
+2021,Near Pyin Oo Lwin,Myanmar,Naypyidaw - Anisakan,14,12,2,12,11,1,0
+2021,Patikul,Sulu,Cagayan de Oro-Lumbia - Jolo,96,88,8,50,?,?,3
+2021,Palana,Russia,Petropavlovsk - Palana,28,22,6,28,22,6,0

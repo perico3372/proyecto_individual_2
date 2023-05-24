@@ -9,22 +9,15 @@ Created on Tue May 23 12:23:43 2023
 
 import os
 import numpy as np
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
-import pandas as pd
 
+import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-
 import plotly.graph_objects as go
 
 data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv")
-#dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
 
 col1, col2 = st.columns(2)
-
-
-
-
 
 # Aplicar filtro en los datos
 limite_inferior_accidents_number = st.slider("Definir", 1970, 1980, 2021)

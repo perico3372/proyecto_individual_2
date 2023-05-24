@@ -17,11 +17,9 @@ import matplotlib.pyplot as plt
 
 import plotly.graph_objects as go
 
-    
-spark = SparkSession.builder.getOrCreate()
-dataframe_final = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv", header=True, inferSchema=True)
+data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv")
 #dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
-data = dataframe_final.toPandas()
+
 col1, col2 = st.columns(2)
 
 
@@ -72,7 +70,7 @@ col1.plotly_chart(fig_accidents_number, use_container_width=True, width= 1000)
 
 
 
-dataframe_5years = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv", header=True, inferSchema=True)
+data_5years = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv", header=True, inferSchema=True)
 
 data_5years = dataframe_5years.toPandas()
 

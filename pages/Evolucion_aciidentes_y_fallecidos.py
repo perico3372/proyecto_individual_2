@@ -11,7 +11,7 @@ import os
 import numpy as np
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import pandas as pd
-from pyspark.sql import SparkSession
+
 import streamlit as st
 import matplotlib.pyplot as plt
 
@@ -72,11 +72,6 @@ col1.plotly_chart(fig_accidents_number, use_container_width=True, width= 1000)
 
 data_5years = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv", header=True, inferSchema=True)
 
-data_5years = dataframe_5years.toPandas()
-
-
-
-
 diff_accidents_number = np.diff(data_5years["num_accidents"], prepend=1)
 
 # Crear el gráfico de cascada con plotly
@@ -118,13 +113,8 @@ fig_accidents_number_5years.update_layout(
 col2.plotly_chart(fig_accidents_number_5years, use_container_width=True, width= 1000)
 
 
-
-
-
 col1.markdown("<style>div.stPlotlyChart {width: 2000px !important;}</style>", unsafe_allow_html=True)
 col2.markdown("<style>div.stPlotlyChart {width: 2000px !important;}</style>", unsafe_allow_html=True)
-
-
 
 # Aplicar filtro en los datos
 limite_inferior_fatalities_number = st.slider("Definir 1", 1970, 1980, 2021)
@@ -153,8 +143,6 @@ fig_fatalities_number.add_trace(go.Scatter(
     name='Línea',
     ))
 
-
-
 # Personalizar el gráfico
 fig_fatalities_number.update_layout(
     title={
@@ -169,9 +157,6 @@ fig_fatalities_number.update_layout(
 
 
 col1.plotly_chart(fig_fatalities_number, use_container_width=True, width= 1000)
-
-
-
 
 diff_fatalities_number_5years = np.diff(data_5years["fatalities"], prepend=1)
 
@@ -196,8 +181,6 @@ fig_fatalities_number_5years.add_trace(go.Scatter(
     name='Línea',
     ))
 
-
-
 # Personalizar el gráfico
 fig_fatalities_number_5years.update_layout(
     title={
@@ -210,9 +193,4 @@ fig_fatalities_number_5years.update_layout(
     yaxis_title="Fallecidos",
 )
 
-
 col2.plotly_chart(fig_fatalities_number_5years, use_container_width=True, width= 1000)
-
-
-
-

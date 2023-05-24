@@ -1,15 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 23 12:23:43 2023
 
-@author: pablo
-"""
-
-
-import os
 import numpy as np
-
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
@@ -20,7 +12,7 @@ data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_indivi
 col1, col2 = st.columns(2)
 
 # Aplicar filtro en los datos
-limite_inferior_accidents_number = st.slider("Definir limite inferior(Año)", 1970, 1980, 2021)
+limite_inferior_accidents_number = st.slider("Definir limite inferior(Año)", 1970, 1970, 2021)
 accidents_number = data[data['year'] > limite_inferior_accidents_number]
 
 diff_accidents_number = np.diff(accidents_number["num_accidents"], prepend=1)
@@ -73,7 +65,6 @@ fig_accidents_number_5years = go.Figure(go.Waterfall(
     #text=df['Valor'],
     connector={"line": {"color": "rgb(63, 63, 63)"}},
 ))
-
 
 x_line = data_5years['year_interval']
 y_line = data_5years["num_accidents"]
@@ -140,7 +131,6 @@ fig_fatalities_number.update_layout(
     yaxis_title="Fallecidos",
 )
 
-
 col1.plotly_chart(fig_fatalities_number, use_container_width=True, width= 1000)
 
 diff_fatalities_number_5years = np.diff(data_5years["fatalities"], prepend=1)
@@ -155,7 +145,6 @@ fig_fatalities_number_5years = go.Figure(go.Waterfall(
     #text=df['Valor'],
     connector={"line": {"color": "rgb(63, 63, 63)"}},
 ))
-
 
 x_line = data_5years['year_interval']
 y_line = data_5years["fatalities"]

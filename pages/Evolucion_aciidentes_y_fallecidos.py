@@ -63,7 +63,7 @@ col1.plotly_chart(fig_accidents_number, use_container_width=True, width= 1000)
 
 
 
-data_5years = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv", header=True, inferSchema=True)
+data_5years = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv")
 
 diff_accidents_number = np.diff(data_5years["num_accidents"], prepend=1)
 

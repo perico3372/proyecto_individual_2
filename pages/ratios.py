@@ -17,10 +17,10 @@ import pandas as pd
 import plotly.graph_objects as go
 
 col1, col2 = st.columns(2)
-spark = SparkSession.builder.getOrCreate()
-dataframe_final = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv", header=True, inferSchema=True)
-#dataframe_final = spark.read.csv("/_disk_dev/spyder/pages/dataframe_final.csv", header=True, inferSchema=True)
-data = dataframe_final.toPandas()
+
+data = pd.read_csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_final.csv")
+
+
 
 
 ####################################
@@ -70,10 +70,10 @@ col1.plotly_chart(fig_ratio_passengers, use_container_width=True, width= 1000)
 
 
 
-spark = SparkSession.builder.getOrCreate()
 
-dataframe_5years = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv", header=True, inferSchema=True)
-data_5years = dataframe_5years.toPandas()
+
+data_5years = spark.read.csv("https://raw.githubusercontent.com/perico3372/proyecto_individual_2/main/pages/dataframe_5years.csv")
+
 
 
 ####################################

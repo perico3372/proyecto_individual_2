@@ -40,13 +40,13 @@ fig_accidents_number.add_trace(go.Scatter(
 # Personalizar el gráfico
 fig_accidents_number.update_layout(
     title={
-    'text': "Cantidad de accidentes",
+    'text': "Cantidad de accidentes por año",
     'x': 0.5,
     'xanchor': 'center',
     'yanchor': 'top'
 },
     xaxis_title="Año",
-    yaxis_title="cantidad accidentes por año",
+    yaxis_title="cantidad accidentes",
 )
 
 col1.plotly_chart(fig_accidents_number, use_container_width=True, width= 1000)
@@ -77,13 +77,13 @@ fig_accidents_number_5years.add_trace(go.Scatter(
 # Personalizar el gráfico
 fig_accidents_number_5years.update_layout(
     title={
-    'text': "Cantidad de accidentes",
+    'text': "Cantidad de accidentespor lustro",
     'x': 0.5,
     'xanchor': 'center',
     'yanchor': 'top'
 },
-    xaxis_title="Año",
-    yaxis_title="cantidad accidentes por año",
+    xaxis_title="Lustro",
+    yaxis_title="cantidad accidentes",
 )
 
 
@@ -142,7 +142,6 @@ fig_fatalities_number_5years = go.Figure(go.Waterfall(
     x=data_5years['year_interval'].astype(str),
     y=diff_fatalities_number_5years,
     textposition="inside",
-    #text=df['Valor'],
     connector={"line": {"color": "rgb(63, 63, 63)"}},
 ))
 
@@ -152,7 +151,6 @@ fig_fatalities_number_5years.add_trace(go.Scatter(
     x=x_line,
     y=y_line,
     mode='lines',
-    name='Línea',
     ))
 
 # Personalizar el gráfico
@@ -163,7 +161,7 @@ fig_fatalities_number_5years.update_layout(
     'xanchor': 'center',
     'yanchor': 'top'
 },
-    xaxis_title="Año",
+    xaxis_title="Lustro",
     yaxis_title="Fallecidos",
 )
 
